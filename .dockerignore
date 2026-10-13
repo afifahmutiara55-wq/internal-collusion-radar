@@ -1,0 +1,6 @@
+data/
+outputs/
+notebooks/*.ipynb
+**/__pycache__/
+.env
+*.zip

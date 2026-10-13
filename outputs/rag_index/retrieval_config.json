@@ -1,0 +1,6 @@
+{
+  "dense_k": 8,
+  "sparse_k": 8,
+  "top_n": 4,
+  "embedder": "sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2"
+}

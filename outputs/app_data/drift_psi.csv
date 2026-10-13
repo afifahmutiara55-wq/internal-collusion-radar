@@ -1,0 +1,13 @@
+fitur,kelompok,PSI 2026 vs train,status
+debtor_tenure_days,Transaksi,0.19361823153499294,pantau
+g_risk_comm_score,Graph,0.05985855279428218,stabil
+g_risk_comm_size,Graph,0.05985855279428218,stabil
+g_appr_risk_pagerank,Graph,0.054682444184413176,stabil
+approve_hour,Transaksi,0.0004588285530503685,stabil
+limit_ratio,Transaksi,0.00027607149381698055,stabil
+rule_score,Rules,4.591990117863927e-05,stabil
+g_same_comm,Graph,0.0,stabil
+g_risk_pair_weight,Graph,0.0,stabil
+g_risk_pair_z,Graph,0.0,stabil
+debtor_loans_30d,Riwayat,0.0,stabil
+rf_near_limit,Rules,0.0,stabil

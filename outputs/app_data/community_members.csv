@@ -1,0 +1,121 @@
+community_id,employee_id,employee_name,role,position,unit,pagerank,degree_berisiko,aktif_bulan
+1,E01076,Yanti Adi Firmansyah,Approver,Sub Branch Manager (AMGR),Jatiuwung,1.9200923380032917,3,12
+1,E00039,Joko Tri Kurniawan,Requester,Relationship Manager,Jatiuwung,0.8331661675251227,1,12
+1,E01231,Fitri Nur Kusuma,Requester,Relationship Manager,Jatiuwung,0.7505035089258421,1,12
+1,E00278,Yusuf Putra Wijaya,Requester,Credit Analyst,Jatiuwung,0.49623798554573983,1,1
+2,E01111,Kartika Tri Saputra,Approver,Sub Branch Manager (AMGR),Jababeka,2.840184676006586,5,12
+2,E00924,Lina Sri Siregar,Requester,Credit Analyst,Jababeka,1.019763973595908,1,12
+2,E00631,Indra Dwi Gunawan,Requester,Relationship Manager,Jababeka,0.7713669896010769,1,12
+2,E01160,Rizky Setiawan,Requester,Relationship Manager,Jababeka,0.5310870910805462,1,10
+2,E00065,Hadi Adi Kusuma,Requester,Relationship Manager,Jababeka,0.41999316476928744,1,12
+2,E00835,Endang Tri Simanjuntak,Requester,Credit Analyst,Jababeka,0.41760410494659267,1,12
+3,E01237,Budi Dwi Daulay,Approver,Business Branch Manager,Padang,1.4600461690016464,2,11
+3,E00174,Lukman Putra Firmansyah,Requester,Relationship Manager,Padang,0.9135350486453118,1,11
+3,E00917,Yanti Putra Saputra,Requester,Relationship Manager,Padang,0.6264187823530415,1,9
+4,E00526,Andi Putra Wibowo,Approver,Business Branch Manager,Bekasi,1.4600461690016462,2,12
+4,E00190,Bayu Putra Ramadhan,Requester,Relationship Manager,Bekasi,0.8936463273246186,1,12
+4,E00636,Teguh Adi Nasution,Requester,Relationship Manager,Bekasi,0.6463075036737339,1,12
+5,E00523,Galih Sri Pratama,Approver,Sub Branch Manager (AMGR),Dieng,1.6823019605689895,3,12
+5,E00225,Nur Tri Daulay,Requester,Relationship Manager,Dieng,1.568270899546,4,12
+5,E01244,Nadia Dwi Siregar,Requester,Relationship Manager,Dieng,0.8548209658293039,2,12
+5,E01133,Hendra Putra Maulana,Requester,Relationship Manager,Dieng,0.5505598146373148,2,12
+5,E00260,Ratna Tri Setiawan,Requester,Relationship Manager,Dieng,0.34404635941839073,1,3
+6,E00391,Nadia Sri Wibowo,Approver,Business Branch Manager,Bekasi,2.0397924122294517,5,12
+6,E01124,Eko Siregar,Requester,Relationship Manager,Bekasi,1.1966146201610777,3,12
+6,E00559,Mega Tri Lestari,Requester,Relationship Manager,Bekasi,1.1376352429932437,3,12
+6,E01463,Nadia Tri Gunawan,Requester,Credit Analyst,Bekasi,1.1257215421398976,3,12
+6,E00274,Lukman Tri Permata,Requester,Credit Analyst,Bekasi,1.023470214590709,2,12
+6,E01017,Agus Tri Setiawan,Requester,Relationship Manager,Bekasi,0.698733062256489,2,6
+6,E01362,Yanti Sri Permata,Requester,Credit Analyst,Bekasi,0.42460842368894774,1,3
+6,E00334,Indra Putra Purnomo,Requester,Relationship Manager,Bekasi,0.3534244819401854,1,2
+8,E00011,Galih Putra Kusuma,Approver,Business Branch Manager,Gresik,1.4721554685591398,3,12
+8,E00547,Citra Nur Susanto,Requester,Relationship Manager,Gresik,1.1621102634753775,3,12
+8,E00651,Wahyu Dwi Santoso,Requester,Relationship Manager,Gresik,0.7909323955676348,2,12
+8,E01252,Teguh Adi Pratama,Requester,Credit Analyst,Gresik,0.5748018723978475,2,12
+9,E00747,Gita Firmansyah,Approver,Sub Branch Manager (AMGR),Tambun,1.7500011151789971,3,12
+9,E00707,Joko Putra Santoso,Requester,Credit Analyst,Tambun,1.2937263388440818,3,12
+9,E01164,Oscar Adi Ramadhan,Requester,Relationship Manager,Tambun,0.9808649421539769,2,12
+9,E00549,Sari Adi Ramadhan,Requester,Relationship Manager,Tambun,0.6459956741716307,1,12
+9,E00310,Sari Adi Saputra,Requester,Relationship Manager,Tambun,0.3294119296513145,1,2
+10,E00563,Teguh Tri Kusuma,Requester,Credit Analyst,Tasikmalaya,1.1675365838689176,3,6
+10,E01357,Dewi Sri Saputra,Requester,Relationship Manager,Tasikmalaya,1.1147347873362294,3,6
+10,E00802,Slamet Adi Susanto,Requester,Relationship Manager,Tasikmalaya,0.9001993722836553,3,6
+10,E00292,Hadi Nur Syahputra,Approver,Business Branch Manager,Tasikmalaya,0.8175292565111972,3,6
+11,E00492,Dewi Adi Anggraini,Approver,Sub Branch Manager (AMGR),Juanda,1.7276400542157653,3,12
+11,E00608,Yanti Adi Lestari,Requester,Relationship Manager,Juanda,0.8722550962881875,2,12
+11,E01422,Taufik Putra Saputra,Requester,Credit Analyst,Juanda,0.7023240713316401,2,12
+11,E00846,Hadi Harahap,Requester,Credit Analyst,Juanda,0.6977807781644056,1,12
+12,E00600,Agus Adi Hakim,Approver,Business Branch Manager,Jakarta Pluit,1.8487729149510952,4,12
+12,E00870,Fitri Siregar,Requester,Relationship Manager,Jakarta Pluit,1.1106691943497506,3,12
+12,E01105,Rina Putra Gunawan,Requester,Relationship Manager,Jakarta Pluit,0.7501405708953045,2,12
+12,E00619,Oscar Dwi Pratama,Requester,Relationship Manager,Jakarta Pluit,0.6603322671440262,2,12
+12,E00794,Rizky Dwi Nasution,Requester,Relationship Manager,Jakarta Pluit,0.6300850526598223,1,10
+13,E00156,Rina Nur Hidayat,Requester,Relationship Manager,Cikarang Central City,1.1342616941232515,2,2
+13,E00644,Nur Adi Halim,Requester,Relationship Manager,Cikarang Central City,1.0091637592892904,2,2
+13,E00381,Taufik Dwi Saputra,Approver,Sub Branch Manager (AMGR),Cikarang Central City,0.856574546587458,2,1
+14,E00836,Slamet Nur Lestari,Requester,Relationship Manager,Pekanbaru,1.4600461690016466,2,12
+14,E01468,Lina Putra Nasution,Approver,Business Branch Manager,Pekanbaru,1.1353248050763862,1,12
+14,E01305,Ayu Sri Permata,Requester,Relationship Manager,Pekanbaru,0.40462902592196676,1,12
+16,E00445,Nur Dwi Wibowo,Approver,Sub Branch Manager (AMGR),Pamulang,1.4600461690016464,2,7
+16,E00863,Sari Tri Kusuma,Requester,Credit Analyst,Pamulang,0.8008081626754868,1,3
+16,E00079,Fajar Nur Siregar,Requester,Relationship Manager,Pamulang,0.7391456683228663,1,7
+17,E00181,Mega Adi Wibowo,Approver,Business Branch Manager,Malang,1.0773306651900505,2,7
+17,E01407,Endang Tri Wibowo,Requester,Relationship Manager,Malang,1.0594578519165045,2,7
+17,E00885,Budi Tri Daulay,Requester,Relationship Manager,Malang,0.8632114828934452,2,7
+23,E00403,Endang Sri Nugroho,Requester,Credit Analyst,Padang,1.0477942421614856,2,9
+23,E01199,Putri Putra Daulay,Requester,Relationship Manager,Padang,0.9860149310433676,2,9
+23,E01207,Dewi Putra Susanto,Approver,Business Branch Manager,Surabaya,0.9661908267951473,2,9
+28,E00053,Teguh Putra Hidayat,Requester,Credit Analyst,Bogor,1.5646679416094695,4,2
+28,E01483,Hadi Tri Saputra,Requester,Relationship Manager,Bogor,1.4445970617031063,3,2
+28,E00830,Oscar Tri Nasution,Approver,Business Branch Manager,Bogor,0.9226241261181769,2,2
+28,E00691,Yusuf Sri Kurniawan,Requester,Relationship Manager,Bogor,0.6585701280617106,2,2
+28,E00148,Dian Setiawan,Requester,Credit Analyst,Bogor,0.40954074250753697,1,4
+30,E00615,Dian Dwi Wibowo,Requester,Relationship Manager,Cibinong,1.2982456140350878,2,4
+30,E00072,Fitri Dwi Syahputra,Requester,Relationship Manager,Cibinong,1.2982456140350878,2,7
+30,E01437,Lukman Putra Saputra,Requester,Relationship Manager,Cibinong,0.701754385964912,1,4
+30,E00216,Sari Siregar,Requester,Relationship Manager,Cibinong,0.701754385964912,1,5
+34,E00309,Fajar Adi Syahputra,Requester,Relationship Manager,Malang,1.2982456140350878,2,2
+34,E01216,Yusuf Adi Firmansyah,Requester,Relationship Manager,Malang,1.2982456140350878,2,2
+34,E00695,Nadia Sri Ramadhan,Requester,Credit Analyst,Malang,0.701754385964912,1,2
+34,E00452,Yusuf Putra Kusuma,Requester,Credit Analyst,Malang,0.701754385964912,1,4
+38,E01500,Yusuf Anggraini,Requester,Relationship Manager,Tambun,1.4600461690016464,2,1
+38,E01214,Dimas Putra Wibowo,Requester,Credit Analyst,Tambun,0.7699769154991765,1,1
+38,E00592,Joko Nur Rahmawati,Requester,Relationship Manager,Tambun,0.7699769154991765,1,5
+39,E00520,Sari Dwi Halim,Requester,Relationship Manager,Gresik,1.4600461690016464,2,2
+39,E00289,Lukman Putra Nasution,Requester,Relationship Manager,Gresik,0.7699769154991765,1,5
+39,E00966,Agus Halim,Requester,Relationship Manager,Gresik,0.7699769154991765,1,2
+40,E00809,Nur Tri Gunawan,Requester,Credit Analyst,Jakarta Timur,1.4600461690016464,2,2
+40,E01293,Dewi Tri Rahmawati,Requester,Credit Analyst,Jakarta Timur,0.7699769154991765,1,2
+40,E00550,Lina Nur Syahputra,Requester,Credit Analyst,Jakarta Timur,0.7699769154991765,1,3
+41,E01278,Sari Tri Susanto,Requester,Relationship Manager,Jombang,1.4600461690016464,2,2
+41,E01211,Yanti Halim,Requester,Relationship Manager,Jombang,0.7699769154991765,1,2
+41,E00537,Bayu Tri Nasution,Requester,Relationship Manager,Jombang,0.7699769154991765,1,2
+69,E00076,Teguh Putra Permata,Requester,Relationship Manager,Kanaka,1.4600461690016464,2,3
+69,E00130,Ayu Dwi Halim,Requester,Relationship Manager,Kanaka,0.7699769154991765,1,6
+69,E00054,Eko Tri Ramadhan,Requester,Relationship Manager,Kanaka,0.7699769154991765,1,3
+70,E00442,Gita Susanto,Requester,Relationship Manager,Pamulang,1.4600461690016464,2,1
+70,E00218,Dimas Sri Nugroho,Requester,Relationship Manager,Pamulang,0.7699769154991765,1,2
+70,E00067,Eko Sri Hidayat,Requester,Relationship Manager,Pamulang,0.7699769154991765,1,3
+71,E00007,Maya Wibowo,Requester,Relationship Manager,Serang,1.2982456140350878,2,5
+71,E00049,Taufik Adi Syahputra,Requester,Relationship Manager,Serang,1.2982456140350878,2,4
+71,E00196,Maya Rahmawati,Requester,Relationship Manager,Serang,0.701754385964912,1,1
+71,E01532,Andi Sri Santoso,Requester,Credit Analyst,Serang,0.701754385964912,1,4
+73,E00044,Agus Rahmawati,Requester,Relationship Manager,Jakarta Pluit,1.4600461690016464,2,8
+73,E00372,Endang Sri Permata,Requester,Relationship Manager,Jakarta Pluit,0.7699769154991765,1,4
+73,E00045,Rina Wijaya,Requester,Credit Analyst,Jakarta Pluit,0.7699769154991765,1,6
+75,E00032,Kartika Adi Wijaya,Requester,Relationship Manager,Cibinong,1.4600461690016464,2,4
+75,E00419,Joko Firmansyah,Requester,Relationship Manager,Cibinong,0.7699769154991765,1,1
+75,E00066,Oscar Sri Firmansyah,Requester,Relationship Manager,Cibinong,0.7699769154991765,1,5
+76,E00114,Intan Putra Kusuma,Requester,Relationship Manager,Tangerang,1.9200923380032928,3,3
+76,E00487,Ratna Sri Purnomo,Requester,Relationship Manager,Tangerang,0.6933025539989018,1,3
+76,E00988,Yanti Nur Maulana,Requester,Relationship Manager,Tangerang,0.6933025539989018,1,3
+76,E01487,Sari Sri Simanjuntak,Requester,Relationship Manager,Tangerang,0.6933025539989018,1,1
+89,E00337,Gita Nur Permata,Requester,Relationship Manager,Palima,1.4600461690016464,2,1
+89,E00197,Hadi Nur Rahmawati,Requester,Credit Analyst,Palima,0.7699769154991765,1,1
+89,E00268,Dewi Nur Halim,Requester,Relationship Manager,Palima,0.7699769154991765,1,1
+94,E00219,Taufik Firmansyah,Requester,Relationship Manager,Jakarta Timur,1.4600461690016464,2,1
+94,E00416,Yanti Dwi Nugroho,Requester,Relationship Manager,Jakarta Timur,0.7699769154991765,1,2
+94,E00270,Lukman Gunawan,Requester,Relationship Manager,Jakarta Timur,0.7699769154991765,1,1
+96,E00198,Taufik Sri Harahap,Requester,Relationship Manager,Gresik,1.4600461690016464,2,9
+96,E01200,Eko Putra Wijaya,Requester,Credit Analyst,Gresik,0.7699769154991765,1,2
+96,E00211,Ayu Nur Susanto,Requester,Relationship Manager,Gresik,0.7699769154991765,1,7

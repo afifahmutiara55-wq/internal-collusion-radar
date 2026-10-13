@@ -1,0 +1,41 @@
+feature,mean |SHAP|,kelompok,arti
+rule_score,0.03941109529698554,Rules,jumlah rule terpenuhi (0–5)
+g_same_comm,0.03343044090921412,Graph,requester & approver satu komunitas risiko
+g_risk_pair_weight,0.030477364716346038,Graph,bobot hubungan di graph risiko
+g_risk_pair_z,0.021003401024681945,Graph,z red flag pasangan (0 = wajar)
+debtor_loans_30d,0.012237113940142106,Riwayat,pengajuan lain ke debitur sama ≤ 30 hari
+debtor_tenure_days,0.011948640043530703,Transaksi,lama debitur jadi nasabah (hari)
+g_risk_comm_score,0.011550003396276686,Graph,skor komunitas risiko requester
+limit_ratio,0.010273442431152534,Transaksi,nominal ÷ limit approver
+approve_hour,0.009381905210632467,Transaksi,jam approval
+rf_near_limit,0.009264290611300546,Rules,rule 1 near limit
+g_risk_comm_size,0.005654396517675622,Graph,ukuran komunitas risiko requester
+g_appr_risk_pagerank,0.004788751313830158,Graph,sentralitas approver di jaringan berisiko
+amount,0.004719875178391615,Transaksi,nominal pengajuan
+pair_dependency_lift,0.004450039762605119,Rules,rasio pasangan ÷ porsi approver di unit requester
+rf_after_hours,0.00435622259183283,Rules,rule 2 luar jam kerja
+is_new_debtor,0.003912278270044777,Transaksi,debitur < 1 tahun jadi nasabah
+pair_approval_rate,0.003837317957551458,Rules,% pengajuan pasangan yang disetujui (1 thn)
+bday_to_month_end,0.0038024524211333777,Transaksi,sisa hari kerja sampai akhir bulan
+routing_peer_share,0.0033434975904069984,Riwayat,% approval rekan unit oleh unit approver ini
+pair_prior_n,0.003333510289963108,Riwayat,riwayat pasangan requester–approver
+approval_minutes,0.0032862826388668585,Transaksi,menit dari pengajuan ke approval
+pair_share_of_approver,0.002927902406285437,Riwayat,% keputusan approver dari requester ini
+debtor_type,0.0025649385664809243,Transaksi,Individual / SME
+debtor_loans_1y,0.0024377821482476766,Riwayat,pengajuan lain ke debitur sama ≤ 1 tahun
+g_appr_wdeg,0.002330833054922792,Graph,total transaksi approver (12 bln)
+g_debtor_n_requesters,0.002204655564052061,Graph,requester berbeda yang melayani debitur ini
+requester_approver_ratio,0.002191767544246564,Rules,pengajuan pasangan ÷ pengajuan requester (1 thn)
+requester_prior_n,0.002095976856460623,Riwayat,riwayat pengajuan requester
+g_pair_weight,0.0018970297858283464,Graph,frekuensi hubungan pasangan (12 bln)
+loan_product,0.0016998441259279508,Transaksi,Super Mikro / Mikro / Kecil
+g_req_shared_debtors,0.0013311093757705584,Graph,debitur requester yang dipakai bersama RM lain
+triad_prior_n,0.0012675752478315395,Riwayat,riwayat requester–approver–debitur
+rf_pair_dependency,0.0012215815803324546,Rules,rule 5 ketergantungan approver
+rf_debtor_repeat,0.000761602356166377,Rules,rule 4 debitur berulang
+rf_fast_approval,0.0007127962421456338,Rules,rule 3 approval kilat
+request_purpose,0.0005504791330439028,Transaksi,tujuan pinjaman
+business_sector,0.00044487748759779535,Transaksi,sektor usaha debitur
+approver_position,0.0004268224259051859,Transaksi,jabatan approver
+tenor_months,0.0003986747623313859,Transaksi,tenor (bulan)
+same_unit,0.0003806606930539012,Riwayat,requester & approver satu unit

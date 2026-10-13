@@ -1,0 +1,32 @@
+table,column,rows,type,recoverable_from
+requests,amount,895,missing,angka di request_description (100% konsisten)
+requests,debtor_id,895,missing,approvals.debtor_id
+requests,timestamp,537,missing,tidak dipulihkan; pakai approvals.timestamp / access_logs Edit
+requests,status,537,missing,approvals.decision
+requests,request_description,716,missing,approvals.request_description
+approvals,approver_id,716,missing,"access_logs (action=Approve, timestamp sama)"
+approvals,decision,537,missing,requests.status
+approvals,timestamp,537,missing,access_logs (action=Approve oleh approver yang sama)
+approvals,request_description,716,missing,requests.request_description
+requests,status,1790,inconsistent_case,standarisasi
+approvals,decision,1432,inconsistent_case,standarisasi
+requests,request_purpose,1432,inconsistent_case,standarisasi
+approvals,request_purpose,1432,inconsistent_case,standarisasi
+fraud_cases,approver_id,120,missing,approvals via request_id
+fraud_cases,debtor_id,150,missing,requests via request_id
+fraud_cases,case_date,90,missing,requests.timestamp via request_id
+employees,position,8,missing,approval_limit (limit>0 -> jabatan unik; limit=0 -> staf)
+employees,approval_limit,8,missing,position (1 jabatan = 1 limit)
+debtors,debtor_name,650,missing,"tidak dipulihkan (PII, bukan fitur)"
+debtors,region,650,missing,region unit requester yang melayani debitur
+debtors,debtor_type,520,placeholder,tidak; jadikan kategori Unknown
+debtors,debtor_type,520,whitespace,strip
+access_logs,employee_id,2154,missing,tidak; baris dibuang saat cleaning
+access_logs,system,2154,missing,"Login approver=Approval System, Login staf=Credit System; lainnya Unknown"
+access_logs,timestamp,2154,missing,tidak; baris dibuang saat cleaning
+employees,(baris),5,exact_duplicate,drop_duplicates
+debtors,(baris),650,exact_duplicate,drop_duplicates
+requests,(baris),1075,exact_duplicate,drop_duplicates
+approvals,(baris),1254,exact_duplicate,drop_duplicates
+access_logs,(baris),4309,exact_duplicate,drop_duplicates
+loan_performance,collectibility_status,1636,missing,collectibility (1-5) + outstanding_amount (0 = Lunas)

@@ -1,0 +1,30 @@
+# Lingkungan notebook (Python 3.11; PyCaret 3.3 belum mendukung Python 3.12+).
+# Disarankan: python -m venv .venv && pip install -r notebooks/requirements-notebook.txt
+# torch CPU: pip install torch==2.5.1 --index-url https://download.pytorch.org/whl/cpu  (sebelum baris di bawah)
+pycaret==3.3.2
+pandas==2.1.4
+numpy==1.26.4
+scipy==1.11.4
+scikit-learn==1.4.2
+joblib==1.3.2
+matplotlib==3.7.5
+seaborn==0.13.2
+networkx==3.3
+optuna==4.1.0
+shap==0.46.0
+mlflow==3.4.0
+xgboost==2.1.3
+lightgbm==4.5.0
+imbalanced-learn==0.12.4
+sentence-transformers==3.3.1
+faiss-cpu==1.9.0
+rank-bm25==0.2.2
+langchain-text-splitters==0.3.2
+litellm>=1.50
+sqlalchemy==2.0.36
+psycopg2-binary==2.9.10
+requests==2.32.3
+jupyterlab==4.2.5
+ipykernel==6.29.5
+# Catatan: kalau pip melaporkan konflik versi karena PyCaret, buat venv terpisah tanpa pycaret;
+# notebook otomatis memakai screening manual dengan CV deret waktu yang sama (Bagian 3.1).

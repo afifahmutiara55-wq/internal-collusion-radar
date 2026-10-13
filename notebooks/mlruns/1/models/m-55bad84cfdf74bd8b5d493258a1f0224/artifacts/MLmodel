@@ -1,0 +1,23 @@
+artifact_path: /Users/mutiara/Capstone - internal fraud n collusion/output jco/kur_collusion_radar_v9
+  2/notebooks/mlruns/1/models/m-55bad84cfdf74bd8b5d493258a1f0224/artifacts
+flavors:
+  python_function:
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.sklearn
+    model_path: model.pkl
+    predict_fn: predict
+    python_version: 3.11.16
+  sklearn:
+    code: null
+    pickled_model: model.pkl
+    serialization_format: cloudpickle
+    sklearn_version: 1.4.2
+mlflow_version: 3.4.0
+model_id: m-55bad84cfdf74bd8b5d493258a1f0224
+model_size_bytes: 17251305
+model_uuid: m-55bad84cfdf74bd8b5d493258a1f0224
+prompts: null
+run_id: 8896dbe47c8e43829d2f82cb1a7f5e42
+utc_time_created: '2026-10-12 01:41:11.000151'

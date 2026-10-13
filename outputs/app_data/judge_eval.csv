@@ -1,0 +1,126 @@
+id,pertanyaan,mode_jawaban,hit@4,faithfulness,relevance,correctness,citation,safety_tone,alasan_faithfulness,jawaban
+Q01,Berapa plafon maksimal KUR Super Mikro?,fallback,1,5.0,5.0,5.0,5.0,5.0,100% kalimat didukung konteks (overlap kata),"(Mode cadangan tanpa LLM) - KUR Super Mikro: plafon sampai dengan Rp10 juta per debitur. [S1]
+- KUR Mikro: plafon di atas Rp10 juta sampai dengan Rp100 juta. [S1]
+Dalam data prototype Collusion Radar, produk KUR dibatasi pada Super Mikro, Mikro, dan Kecil dengan [S1]
+plafon maksimal Rp500 juta, sesuai plafon KUR Kecil. [S1]"
+Q02,Apa beda KUR Mikro dan KUR Kecil dari sisi plafon?,fallback,1,5.0,5.0,4.555555555555555,5.0,5.0,100% kalimat didukung konteks (overlap kata),"(Mode cadangan tanpa LLM) - KUR Super Mikro: plafon sampai dengan Rp10 juta per debitur. [S1]
+- KUR Mikro: plafon di atas Rp10 juta sampai dengan Rp100 juta. [S1]
+- KUR Kecil: plafon di atas Rp100 juta sampai dengan Rp500 juta. [S1]
+Dalam data prototype Collusion Radar, produk KUR dibatasi pada Super Mikro, Mikro, dan Kecil dengan [S1]"
+Q03,Berapa suku bunga KUR Super Mikro menurut Permenko 1/2026?,fallback,1,5.0,5.0,5.0,5.0,5.0,100% kalimat didukung konteks (overlap kata),"(Mode cadangan tanpa LLM) - KUR Super Mikro: plafon sampai dengan Rp10 juta per debitur. [S1]
+Dalam data prototype Collusion Radar, produk KUR dibatasi pada Super Mikro, Mikro, dan Kecil dengan [S1]
+Berdasarkan siaran pers Kemenko Perekonomian tentang Permenko 1/2026, suku bunga KUR Super Mikro adalah 3% efektif per [S1]
+pemerintah menerbitkan Permenko Nomor 1 Tahun 2026 tentang Pedoman Pelaksanaa"
+Q04,Peraturan apa yang menjadi pedoman pelaksanaan KUR tahun 2026?,fallback,1,5.0,5.0,5.0,5.0,5.0,100% kalimat didukung konteks (overlap kata),"(Mode cadangan tanpa LLM) Karena ada uang negara di dalamnya, integritas penyaluran KUR menjadi perhatian pemerintah, regulator, dan bank [S1]
+Pedoman pelaksanaan KUR diatur dengan Peraturan Menteri Koordinator Bidang Perekonomian (Permenko). [S1]
+pemerintah menerbitkan Permenko Nomor 1 Tahun 2026 tentang Pedoman Pelaksanaan KUR, yang menurut siaran pers Kemenko [S1]
+Permenko Nomor 2 Tahun 2026 te"
+Q05,Apakah pengajuan KUR berulang ke debitur yang sama selalu mencurigakan?,fallback,1,5.0,4.2,1.8,5.0,5.0,100% kalimat didukung konteks (overlap kata),"(Mode cadangan tanpa LLM) Implikasi untuk analitik kolusi: karena akses berulang diperbolehkan, pengajuan ulang ke debitur yang sama tidak [S1]
+pengajuan berulang yang terlalu rapat (misalnya dua kali atau lebih dalam setahun untuk debitur yang sama) yang [S1]
+kolusi biasanya terdiri dari satu approver dan beberapa requester yang berulang kali bekerja sama. [S3]
+Split Loan | satu kebutuhan dipecah"
+Q06,Apa saja empat pilar strategi anti fraud dalam POJK 12/2024?,fallback,1,5.0,5.0,5.0,5.0,5.0,100% kalimat didukung konteks (overlap kata),"(Mode cadangan tanpa LLM) Abstrak POJK 12/2024 menyebutkan fraud meliputi: [S1]
+1. Korupsi (dalam praktik audit, kategori ini mencakup antara lain benturan kepentingan dan penyuapan; definisi resminya ada di teks POJK). [S1]
+2. Penyalahgunaan aset. [S1]
+3. Kecurangan laporan keuangan. [S1]
+4. Penipuan. [S1]
+5. Pembocoran informasi rahasia. [S1]
+Strategi anti fraud bertumpu pada empat pilar: [S1]
+1"
+Q07,POJK apa yang dicabut oleh POJK 12 Tahun 2024 untuk bank umum?,fallback,1,5.0,5.0,5.0,5.0,5.0,100% kalimat didukung konteks (overlap kata),"(Mode cadangan tanpa LLM) POJK Nomor 17 Tahun 2023 mengatur penerapan tata kelola bagi bank umum dan mencabut POJK Nomor 55/POJK.03/2016 tentang [S1]
+penerapan tata kelola bagi bank umum. [S1]
+POJK Nomor 12 Tahun 2024 mengatur kewajiban Lembaga Jasa Keuangan (LJK), termasuk bank umum, untuk menyusun dan [S2]
+antara lain POJK Nomor 39/POJK.03/2019 tentang Penerapan Strategi Anti Fraud bagi Bank Umu"
+Q08,Laporan apa saja yang wajib disampaikan LJK ke OJK terkait anti fraud?,fallback,1,5.0,5.0,5.0,5.0,5.0,100% kalimat didukung konteks (overlap kata),"(Mode cadangan tanpa LLM) LJK wajib menyampaikan kepada OJK: (1) strategi anti fraud, (2) laporan penerapan strategi anti fraud atau koreksinya, [S1]
+dan (3) laporan fraud yang berdampak signifikan. [S1]
+Cakupan strategi anti fraud meliputi LJK beserta entitas yang dikendalikannya, konsumen, serta pihak lain yang bekerja [S2]
+LJK juga diwajibkan memiliki sistem deteksi fraud yang memadai, didukung"
+Q09,Sebutkan jenis-jenis fraud menurut POJK 12/2024.,fallback,1,5.0,4.2,4.384615384615385,5.0,5.0,100% kalimat didukung konteks (overlap kata),"(Mode cadangan tanpa LLM) Abstrak POJK 12/2024 menyebutkan fraud meliputi: [S1]
+1. Korupsi (dalam praktik audit, kategori ini mencakup antara lain benturan kepentingan dan penyuapan; definisi resminya ada di teks POJK). [S1]
+2. Penyalahgunaan aset. [S1]
+3. Kecurangan laporan keuangan. [S1]
+4. Penipuan. [S1]
+5. Pembocoran informasi rahasia. [S1]
+antara lain POJK Nomor 39/POJK.03/2019 tentang Penera"
+Q10,Apa itu prinsip empat mata dalam keputusan kredit?,fallback,1,5.0,5.0,4.428571428571429,5.0,5.0,100% kalimat didukung konteks (overlap kata),"(Mode cadangan tanpa LLM) Ringkasan POJK 17/2023 menyebutkan bahwa keputusan penyaluran dan penghapusbukuan kredit harus bebas dari tekanan pihak [S1]
+luar dan mengikuti prinsip empat mata (four-eyes principle), yaitu pemisahan fungsi antara pihak yang mengusulkan [S1]
+luar kebiasaan unit, debitur yang dipakai bersama) merupakan cara langsung menguji apakah prinsip empat mata benar-benar [S1]
+- Ef"
+Q11,Apa kewajiban pihak internal bank bila terjadi benturan kepentingan?,fallback,1,5.0,5.0,4.555555555555555,5.0,5.0,100% kalimat didukung konteks (overlap kata),"(Mode cadangan tanpa LLM) Pihak internal bank wajib menghindari benturan kepentingan. [S1]
+Dalam hal terjadi benturan kepentingan dalam pengambilan [S1]
+keputusan, pihak terkait wajib mengungkapkannya dan dilarang mengambil tindakan yang dapat merugikan bank atau mengurangi [S1]
+- Bank wajib menerapkan strategi anti fraud, termasuk langkah anti penyuapan. Pihak terkait dilarang meminta atau meneri"
+Q12,Apa lima prinsip tata kelola bank umum menurut POJK 17/2023?,fallback,1,5.0,5.0,4.2,5.0,5.0,100% kalimat didukung konteks (overlap kata),"(Mode cadangan tanpa LLM) POJK Nomor 17 Tahun 2023 mengatur penerapan tata kelola bagi bank umum dan mencabut POJK Nomor 55/POJK.03/2016 tentang [S1]
+penerapan tata kelola bagi bank umum. [S1]
+Bank wajib menerapkan prinsip tata kelola: transparansi, akuntabilitas, pertanggungjawaban, independensi, dan [S1]
+POJK Nomor 12 Tahun 2024 mengatur kewajiban Lembaga Jasa Keuangan (LJK), termasuk bank umum,"
+Q13,Apakah data keuangan pribadi termasuk data pribadi spesifik menurut UU PDP?,fallback,1,5.0,5.0,4.111111111111111,5.0,5.0,100% kalimat didukung konteks (overlap kata),"(Mode cadangan tanpa LLM) UU PDP membedakan data pribadi yang bersifat umum (misalnya nama lengkap, jenis kelamin, kewarganegaraan, agama, [S1]
+spesifik (antara lain data kesehatan, biometrik, genetika, catatan kejahatan, data anak, dan data keuangan [S1]
+Data keuangan nasabah dan pegawai bank termasuk data spesifik yang menuntut perlindungan lebih ketat. [S1]
+UU PDP mengatur sanksi administratif "
+Q14,Berapa batas waktu notifikasi kegagalan pelindungan data pribadi?,fallback,1,5.0,5.0,5.0,5.0,5.0,100% kalimat didukung konteks (overlap kata),"(Mode cadangan tanpa LLM) - Penilaian dampak pelindungan data (DPIA) wajib untuk pemrosesan berisiko tinggi (Pasal 34), antara lain pengambilan keputusan otomatis yang berdampak signifikan, pemrosesan data spesifik, pemrosesan skala besar, evaluasi, penskoran, atau pemantauan sistematis, pencocokan atau penggabungan data, dan penggunaan teknologi baru. [S1]
+- Notifikasi kegagalan pelindungan data "
+Q15,Kapan DPIA wajib dilakukan menurut UU PDP?,fallback,1,5.0,5.0,4.6923076923076925,5.0,5.0,100% kalimat didukung konteks (overlap kata),"(Mode cadangan tanpa LLM) UU PDP mengatur sanksi administratif (Pasal 57) dan pidana, misalnya untuk mengungkapkan data pribadi secara melawan [S1]
+Kewajiban | Penerapan [S1]
+- Penilaian dampak pelindungan data (DPIA) wajib untuk pemrosesan berisiko tinggi (Pasal 34), antara lain pengambilan keputusan otomatis yang berdampak signifikan, pemrosesan data spesifik, pemrosesan skala besar, evaluasi, p"
+Q16,Mengapa LLM pada sistem ini dijalankan secara lokal?,blocked,0,1.0,1.0,1.0,1.0,5.0,0% kalimat didukung konteks (overlap kata),"Maaf, saya hanya bisa membantu topik Collusion Radar: alert, skor, jaringan risiko, regulasi KUR/anti fraud, dan investigasi."
+Q17,Metode deteksi fraud apa yang paling sering menurut ACFE 2024?,fallback,1,5.0,5.0,5.0,5.0,5.0,100% kalimat didukung konteks (overlap kata),"(Mode cadangan tanpa LLM) ACFE membagi occupational fraud — fraud yang dilakukan orang dalam terhadap organisasinya — menjadi tiga kelompok besar: [S1]
+1. Corruption (korupsi): benturan kepentingan, penyuapan, gratifikasi ilegal, dan pemerasan ekonomi. Kolusi requester–approver untuk meloloskan kredit titipan biasanya masuk kelompok ini (benturan kepentingan dan suap). [S1]
+2. Asset misappropriati"
+Q18,Berapa median durasi skema fraud sebelum terdeteksi menurut ACFE 2024?,fallback,1,5.0,5.0,5.0,5.0,5.0,100% kalimat didukung konteks (overlap kata),"(Mode cadangan tanpa LLM) - Organisasi diperkirakan kehilangan sekitar 5% pendapatan per tahun akibat fraud (estimasi konservatif). [S1]
+- Median kerugian per kasus sekitar USD145.000; median durasi skema 12 bulan sebelum terdeteksi. [S1]
+ACFE membagi occupational fraud — fraud yang dilakukan orang dalam terhadap organisasinya — menjadi tiga kelompok besar: [S2]
+1. Corruption (korupsi): benturan k"
+Q19,Apa tiga kelompok besar occupational fraud menurut ACFE?,fallback,1,5.0,5.0,5.0,5.0,5.0,100% kalimat didukung konteks (overlap kata),"(Mode cadangan tanpa LLM) ACFE membagi occupational fraud — fraud yang dilakukan orang dalam terhadap organisasinya — menjadi tiga kelompok besar: [S1]
+1. Corruption (korupsi): benturan kepentingan, penyuapan, gratifikasi ilegal, dan pemerasan ekonomi. Kolusi requester–approver untuk meloloskan kredit titipan biasanya masuk kelompok ini (benturan kepentingan dan suap). [S1]
+2. Asset misappropriati"
+Q20,Apa ciri pola kolusi Near Limit?,fallback,1,5.0,5.0,5.0,5.0,5.0,100% kalimat didukung konteks (overlap kata),"(Mode cadangan tanpa LLM) Kolusi terjadi bila requester dan approver bekerja sama sehingga keputusan kredit tidak lagi independen. [S2]
+Pola | Ciri di data | Sinyal utama [S2]
+Near Limit | nominal diatur sedikit di bawah limit approver kenalan (95–99%) supaya tidak perlu eskalasi | rule 1, limit_ratio [S2]
+Nominal bulat tepat di limit | Near Limit | tepat 100% (angka bulat), bukan 95–99% [S4]"
+Q21,Situasi sah apa yang mirip dengan pola After Hours?,fallback,1,5.0,5.0,4.6,5.0,5.0,100% kalimat didukung konteks (overlap kata),"(Mode cadangan tanpa LLM) Situasi sah | Mirip dengan | Pembeda [S1]
+Lembur closing akhir bulan | After Hours | umumnya selesai ±21:00, banyak pegawai lain juga aktif, tidak terkonsentrasi pada satu pasangan [S1]
+R2 rf_after_hours | approval pukul 19:00–06:59 atau Sabtu/Minggu | jam 17–19 masih ramai lembur closing yang sah | lembur akhir bulan [S2]
+After Hours | approval malam hari atau akhir peka"
+Q22,Bagaimana membedakan delegasi cuti dengan Routing Bypass?,fallback,1,5.0,5.0,4.5,5.0,5.0,100% kalimat didukung konteks (overlap kata),"(Mode cadangan tanpa LLM) Routing Bypass | requester rutin memakai approver di luar jalur routing unitnya | rule 5, pair_dependency_lift, beda unit [S1]
+Delegasi saat approver cuti | Routing Bypass | sesekali, ada catatan cuti, rasio pasangan kecil [S2]
+Plt (pelaksana tugas) dari unit lain | Routing Bypass | periode terbatas dan resmi [S2]
+- Periksa apakah ada penjelasan sah yang jelas: lembur akh"
+Q23,Bagaimana rumus pair_dependency_lift?,fallback,1,5.0,5.0,4.333333333333334,5.0,5.0,100% kalimat didukung konteks (overlap kata),"(Mode cadangan tanpa LLM) - pair_dependency_lift = requester_approver_ratio ÷ unit_approver_share. Lift 10× berarti requester memakai approver itu 10 kali lebih sering daripada kebiasaan rekan satu unitnya. [S1]
+R5 rf_pair_dependency | requester_approver_ratio ≥ 10%, minimal 5 pengajuan pasangan setahun, dan ≥ 5× porsi approver itu di unit requester | rasio mentah tidak membedakan karena RM memang"
+Q24,Kapan rule rf_pair_dependency terpenuhi?,fallback,1,5.0,5.0,5.0,5.0,5.0,100% kalimat didukung konteks (overlap kata),"(Mode cadangan tanpa LLM) R5 rf_pair_dependency | requester_approver_ratio ≥ 10%, minimal 5 pengajuan pasangan setahun, dan ≥ 5× porsi approver itu di unit requester | rasio mentah tidak membedakan karena RM memang bergantung pada manager unitnya | Plt/delegasi cuti (sesekali) [S1]
+rule_score = jumlah rule yang terpenuhi (0–5). [S1]
+Routing Bypass | requester rutin memakai approver di luar jalur r"
+Q25,"Kenapa jendela rule jam kerja dimulai pukul 19:00, bukan 17:00?",fallback,1,5.0,4.2,5.0,5.0,5.0,100% kalimat didukung konteks (overlap kata),"(Mode cadangan tanpa LLM) Lembur closing akhir bulan | After Hours | umumnya selesai ±21:00, banyak pegawai lain juga aktif, tidak terkonsentrasi pada satu pasangan [S1]
+R2 rf_after_hours | approval pukul 19:00–06:59 atau Sabtu/Minggu | jam 17–19 masih ramai lembur closing yang sah | lembur akhir bulan [S2]"
+Q26,Apa arti skor risiko transaksi 80?,fallback,1,5.0,5.0,4.636363636363637,5.0,5.0,100% kalimat didukung konteks (overlap kata),"(Mode cadangan tanpa LLM) - Cara membaca: skor 97 berarti perilaku approver bulan itu lebih menyimpang daripada 97% approver-bulan lain. [S2]
+- Kegunaan: menemukan approver yang perilakunya menyimpang walaupun belum ada transaksi berskor tinggi (pemeriksaan proaktif). Skor ini bukan input skor transaksi. [S2]
+- Cara membaca: skor adalah probabilitas setelah kalibrasi isotonic dikali 100. Skor 80 b"
+Q27,Apa arti skor anomali approver 97?,fallback,1,5.0,5.0,5.0,5.0,5.0,100% kalimat didukung konteks (overlap kata),"(Mode cadangan tanpa LLM) - Cara membaca: skor 97 berarti perilaku approver bulan itu lebih menyimpang daripada 97% approver-bulan lain. [S1]
+- Kegunaan: menemukan approver yang perilakunya menyimpang walaupun belum ada transaksi berskor tinggi (pemeriksaan proaktif). Skor ini bukan input skor transaksi. [S1]
+- Peta komunitas risiko dan skor anomali approver sebagai konteks. [S2]
+2. Ringkasan indi"
+Q28,Mengapa ketiga skor tidak digabung menjadi satu?,fallback,1,5.0,5.0,1.6666666666666665,5.0,5.0,100% kalimat didukung konteks (overlap kata),"(Mode cadangan tanpa LLM) Collusion Radar menghasilkan tiga skor yang terpisah. [S1]
+Skor-skor ini tidak digabung (tidak di-ensemble), karena [S1]
+Split Loan | satu kebutuhan dipecah menjadi beberapa pengajuan ke debitur yang sama dalam waktu berdekatan | rule 4, debtor_loans_1y [S3]
+- Penilaian dampak pelindungan data (DPIA) wajib untuk pemrosesan berisiko tinggi (Pasal 34), antara lain pengambil"
+Q29,Berapa target waktu triase untuk alert kategori Tinggi?,fallback,1,4.0,5.0,2.333333333333333,5.0,5.0,75% kalimat didukung konteks (overlap kata),"(Mode cadangan tanpa LLM) 1. Praduga tak perlu klarifikasi: alert adalah indikasi, bukan tuduhan. [S1]
+Kategori alert | Target triase | Target keputusan awal | Tindakan sementara [S1]
+- Kategori: Perlu dilihat ≥ 95; Pantau 80–95; selebihnya Normal. [S2]
+- Buka detail alert: skor, kategori, tiga alasan SHAP, rules yang terpenuhi, dan bukti graph. [S3]"
+Q30,Apa saja keputusan yang bisa diambil investigator atas alert?,fallback,1,5.0,5.0,1.0,5.0,5.0,100% kalimat didukung konteks (overlap kata),"(Mode cadangan tanpa LLM) Kategori alert | Target triase | Target keputusan awal | Tindakan sementara [S1]
+keputusan, pihak terkait wajib mengungkapkannya dan dilarang mengambil tindakan yang dapat merugikan bank atau mengurangi [S2]
+Skor Tinggi → investigator membuka detail alert → memverifikasi alasan dan bukti → memeriksa komunitas dan profil approver [S3]
+Pengguna (investigator, manajemen) | m"
+Q31,Kapan model harus dilatih ulang?,fallback,1,4.428571428571429,5.0,5.0,5.0,5.0,86% kalimat didukung konteks (overlap kata),"(Mode cadangan tanpa LLM) 3. pihak terkait beradaptasi. Kalau pola penghindaran berubah, kinerja model bisa turun; pemantauan drift dan pelatihan ulang berkala diperlukan. [S1]
+tercatat sebagai jejak audit dan umpan balik pelatihan ulang model. [S1]
+- Keputusan investigator menjadi label baru untuk pelatihan ulang model. [S2]
+7. Pelatihan ulang: kuartalan, atau lebih cepat bila PSI > 0,25 pada fit"
+Q32,Bagaimana cara menghitung kapasitas investigasi per bulan?,fallback,1,5.0,5.0,5.0,5.0,5.0,100% kalimat didukung konteks (overlap kata),"(Mode cadangan tanpa LLM) Kapasitas per bulan = jumlah investigator × jam kerja investigasi per bulan ÷ jam per alert. [S1]
+jam ÷ 2 jam = 360 alert per bulan. [S1]
+- Median kerugian per kasus sekitar USD145.000; median durasi skema 12 bulan sebelum terdeteksi. [S2]
+Alarm palsu per bulan | alert Tinggi yang ternyata normal, per bulan [S3]"
+Q33,Bagaimana rumus manfaat bersih sistem?,fallback,1,5.0,5.0,4.2,5.0,5.0,100% kalimat didukung konteks (overlap kata),"(Mode cadangan tanpa LLM) Penyaluran KUR dicatat dan dipantau melalui Sistem Informasi Kredit Program [S1]
+- Manfaat bersih = kerugian dicegah − biaya pemeriksaan. [S2]
+Keputusan otomatis (Pasal 10) | sistem tidak memutus; skor hanya mengurutkan antrean, keputusan oleh investigator [S3]
+### Rumus indikator hubungan [S4]"

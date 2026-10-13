@@ -1,0 +1,79 @@
+table,step,rows_affected,note
+employees,placeholder_to_nan,8,position: ['']
+employees,placeholder_to_nan,8,approval_limit: ['']
+employees,parse_datetime_failed,0,employment_start_date
+employees,parse_numeric_failed,0,approval_limit
+employees,drop_exact_duplicates,5,
+employees,rows_before_after,5,"1,542 -> 1,537"
+debtors,strip_whitespace,529,debtor_type
+debtors,placeholder_to_nan,658,debtor_name: ['']
+debtors,placeholder_to_nan,522,debtor_type: ['unknown']
+debtors,placeholder_to_nan,653,region: ['']
+debtors,parse_datetime_failed,0,customer_since
+debtors,drop_exact_duplicates,650,
+debtors,rows_before_after,650,"65,655 -> 65,005"
+requests,placeholder_to_nan,901,debtor_id: ['']
+requests,placeholder_to_nan,898,amount: ['']
+requests,placeholder_to_nan,541,timestamp: ['']
+requests,placeholder_to_nan,540,status: ['']
+requests,placeholder_to_nan,720,request_description: ['']
+requests,standardize_category,1799,status
+requests,standardize_category,1441,request_purpose
+requests,parse_datetime_failed,0,timestamp
+requests,parse_numeric_failed,0,amount
+requests,parse_numeric_failed,0,tenor_months
+requests,drop_exact_duplicates,1075,
+requests,rows_before_after,1075,"180,161 -> 179,086"
+approvals,placeholder_to_nan,720,approver_id: ['']
+approvals,placeholder_to_nan,541,decision: ['']
+approvals,placeholder_to_nan,1835,timestamp: ['']
+approvals,placeholder_to_nan,720,request_description: ['']
+approvals,standardize_category,1447,decision
+approvals,standardize_category,1440,request_purpose
+approvals,parse_datetime_failed,0,timestamp
+approvals,drop_exact_duplicates,1254,
+approvals,rows_before_after,1254,"180,340 -> 179,086"
+access_logs,placeholder_to_nan,2170,employee_id: ['']
+access_logs,placeholder_to_nan,2164,timestamp: ['']
+access_logs,placeholder_to_nan,2168,system: ['']
+access_logs,parse_datetime_failed,0,timestamp
+access_logs,drop_exact_duplicates,4309,
+access_logs,rows_before_after,4309,"722,550 -> 718,241"
+fraud_cases,placeholder_to_nan,120,approver_id: ['']
+fraud_cases,placeholder_to_nan,150,debtor_id: ['']
+fraud_cases,placeholder_to_nan,90,case_date: ['']
+fraud_cases,parse_datetime_failed,0,case_date
+fraud_cases,parse_numeric_failed,0,fraud_label
+fraud_cases,drop_exact_duplicates,0,
+fraud_cases,rows_before_after,0,"30,000 -> 30,000"
+loan_performance,placeholder_to_nan,1636,collectibility_status: ['']
+loan_performance,parse_datetime_failed,0,disbursement_date
+loan_performance,parse_datetime_failed,0,first_npl_date
+loan_performance,parse_numeric_failed,0,tenor_months
+loan_performance,parse_numeric_failed,0,outstanding_amount
+loan_performance,parse_numeric_failed,0,days_past_due
+loan_performance,parse_numeric_failed,0,collectibility
+loan_performance,drop_exact_duplicates,0,
+loan_performance,rows_before_after,0,"163,668 -> 163,668"
+requests,R1 amount <- description,895,
+requests,R2 debtor_id <- approvals,895,
+requests,R3 request_description <- approvals,716,
+approvals,R3 request_description <- requests,716,
+requests,R3 request_purpose <- approvals,0,
+approvals,R3 request_purpose <- requests,0,
+requests,R4 status <- decision,537,
+approvals,R4 decision <- status,537,
+employees,R5 approval_limit <- position,8,
+employees,R5 position <- approval_limit,8,
+debtors,R6 debtor_type NaN -> Unknown,520,
+fraud_cases,R7 approver_id <- log,120,
+fraud_cases,R7 debtor_id <- log,150,
+access_logs,R8 drop log tanpa pelaku/waktu,4308,
+access_logs,R8 system Login <- peran pegawai,1165,
+approvals,R9 approver_id <- log Approve,711,
+approvals,R9 timestamp <- log Approve,529,
+requests,R10 timestamp <- log Edit,527,
+fraud_cases,R7 case_date <- requests.timestamp,90,
+debtors,R11 region <- region unit requester,650,
+loan_performance,R12 collectibility_status <- collectibility,1636,
+debtors,PII masking debtor_name,65005,"nama asli dihapus, hanya inisial bermasker"

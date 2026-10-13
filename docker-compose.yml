@@ -1,0 +1,113 @@
+# Internal Collusion Radar v9 — seluruh komponen berjalan on-premise.
+#   docker compose up -d                 → postgres, mlflow, ollama (+ unduh model), app
+#   docker compose --profile lab up -d   → + JupyterLab untuk menjalankan notebook di lingkungan yang sama
+name: collusion-radar
+
+services:
+  postgres:
+    image: postgres:16-alpine
+    environment:
+      POSTGRES_USER: ${POSTGRES_USER:-radar}
+      POSTGRES_PASSWORD: ${POSTGRES_PASSWORD:-radar_password}
+      POSTGRES_DB: radar
+    volumes:
+      - pgdata:/var/lib/postgresql/data
+      - ./db/init.sql:/docker-entrypoint-initdb.d/01_init.sql:ro
+    ports:
+      - "5432:5432"            # DBeaver: host localhost, port 5432, database radar
+    healthcheck:
+      test: ["CMD-SHELL", "pg_isready -U ${POSTGRES_USER:-radar} -d radar"]
+      interval: 5s
+      retries: 20
+
+  mlflow:
+    build:
+      context: .
+      dockerfile: docker/mlflow.Dockerfile
+    command: >
+      mlflow server --host 0.0.0.0 --port 5000
+      --backend-store-uri postgresql+psycopg2://${POSTGRES_USER:-radar}:${POSTGRES_PASSWORD:-radar_password}@postgres:5432/mlflow
+      --artifacts-destination /mlflow/artifacts --serve-artifacts
+    volumes:
+      - mlflow-artifacts:/mlflow/artifacts
+    ports:
+      - "5000:5000"
+    depends_on:
+      postgres:
+        condition: service_healthy
+
+  ollama:
+    image: ollama/ollama:latest   # Gemma 4 butuh Ollama versi terbaru
+    volumes:
+      - ollama:/root/.ollama
+    ports:
+      - "11434:11434"
+    # Aktifkan bila server punya GPU NVIDIA:
+    # deploy:
+    #   resources:
+    #     reservations:
+    #       devices: [{driver: nvidia, count: all, capabilities: [gpu]}]
+
+  ollama-pull:
+    image: ollama/ollama:latest
+    depends_on:
+      - ollama
+    environment:
+      OLLAMA_HOST: http://ollama:11434
+      GENERATOR_MODEL: ${GENERATOR_MODEL:-gemma4:e4b}
+      GUARD_MODEL: ${GUARD_MODEL:-llama-guard3:1b}
+      JUDGE_MODEL: ${JUDGE_MODEL:-qwen2.5:7b-instruct}
+    entrypoint: ["/bin/sh", "-c"]
+    command: ["sleep 5 && ollama pull $$GENERATOR_MODEL && ollama pull $$GUARD_MODEL && ollama pull $$JUDGE_MODEL"]
+    restart: "no"
+
+  app:
+    build:
+      context: .
+      dockerfile: docker/app.Dockerfile
+    env_file: .env
+    environment:
+      DATABASE_URL: postgresql+psycopg2://${POSTGRES_USER:-radar}:${POSTGRES_PASSWORD:-radar_password}@postgres:5432/radar
+      OLLAMA_BASE_URL: http://ollama:11434
+      MLFLOW_TRACKING_URI: http://mlflow:5000
+      MLFLOW_UI_URL: ${MLFLOW_UI_URL:-http://localhost:5000}
+      RADAR_PROJECT_ROOT: /workspace
+    volumes:
+      - ./outputs:/workspace/outputs
+      - ./knowledge_base:/workspace/knowledge_base
+      - hf-cache:/root/.cache/huggingface
+    ports:
+      - "8501:8501"
+    depends_on:
+      postgres:
+        condition: service_healthy
+      mlflow:
+        condition: service_started
+      ollama:
+        condition: service_started
+
+  lab:
+    profiles: ["lab"]
+    build:
+      context: .
+      dockerfile: docker/notebook.Dockerfile
+    environment:
+      DATABASE_URL: postgresql+psycopg2://${POSTGRES_USER:-radar}:${POSTGRES_PASSWORD:-radar_password}@postgres:5432/radar
+      OLLAMA_BASE_URL: http://ollama:11434
+      MLFLOW_TRACKING_URI: http://mlflow:5000
+    volumes:
+      - .:/workspace
+      - hf-cache:/root/.cache/huggingface
+    working_dir: /workspace/notebooks
+    ports:
+      - "8888:8888"
+    command: ["jupyter", "lab", "--ip=0.0.0.0", "--no-browser", "--allow-root", "--IdentityProvider.token=${JUPYTER_TOKEN:-radar}"]
+    depends_on:
+      - postgres
+      - mlflow
+
+volumes:
+  pgdata:
+  mlflow-artifacts:
+  ollama:
+  hf-cache:

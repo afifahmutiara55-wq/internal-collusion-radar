@@ -1,0 +1,6 @@
+rule,nama,definisi,kembaran_sah,coverage,precision,recall
+rf_near_limit,Nominal 95–99% limit approver,"0,95 ≤ amount/limit approver < 1",nominal bulat tepat di limit,0.05756578947368421,0.8535714285714285,0.37936507936507935
+rf_after_hours,Approval di luar jam kerja (19–07 / akhir pekan),jam approval 19:00–06:59 atau Sabtu/Minggu,lembur closing akhir bulan,0.059004934210526314,0.49825783972125437,0.22698412698412698
+rf_fast_approval,Approval kilat < 20 menit,approval < 20 menit setelah pengajuan,top-up debitur lama,0.10546875,0.4346978557504873,0.353968253968254
+rf_debtor_repeat,≥ 2 pengajuan lain ke debitur sama ≤ 1 tahun,≥ 2 pengajuan lain ke debitur sama dalam 1 tahun,perpanjangan/top-up 1×/tahun,0.026932565789473683,0.8625954198473282,0.17936507936507937
+rf_pair_dependency,Ketergantungan tidak wajar pada 1 approver,"requester_approver_ratio ≥ 10%, ≥ 5 pengajuan/tahun, ≥ 5× porsi approver di unit requester",Plt/delegasi cuti (sesekali),0.010279605263157895,0.96,0.0761904761904762

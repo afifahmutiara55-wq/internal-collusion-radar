@@ -1,0 +1,1538 @@
+employee_id,employee_name,unit_name,unit_type,position,approval_limit,employment_start_date,role,region
+E00001,Lukman Nur Simanjuntak,Palima,KCP,Sub Branch Manager (AVP/MGR),250000000.0,2017-02-12,Approver,Banten
+E00002,Hendra Adi Wibowo,Arief Rate,KCP,Relationship Manager,0.0,2014-01-28,Requester,Sulawesi
+E00003,Oscar Tri Tanjung,BSD,KC,Relationship Manager,0.0,2015-08-26,Requester,Banten
+E00004,Endang Adi Gunawan,Serang,KC,Relationship Manager,0.0,2021-04-13,Requester,Banten
+E00005,Lina Putra Lestari,Surabaya,KC,Relationship Manager,0.0,2016-06-12,Requester,Jawa Timur
+E00006,Dian Dwi Utami,Fatmawati,KC,Relationship Manager,0.0,2012-03-09,Requester,DKI Jakarta
+E00007,Maya Wibowo,Serang,KC,Relationship Manager,0.0,2016-06-16,Requester,Banten
+E00008,Wahyu Tri Rahmawati,Jombang,KC,Relationship Manager,0.0,2014-11-15,Requester,Jawa Timur
+E00009,Eko Dwi Hidayat,Jakarta Kota,KC,Business Branch Manager,400000000.0,2011-04-19,Approver,DKI Jakarta
+E00010,Galih Putra Hidayat,Wonosari,KCP,Relationship Manager,0.0,2014-01-05,Requester,Jawa Tengah & DIY
+E00011,Galih Putra Kusuma,Gresik,KC,Business Branch Manager,400000000.0,2017-06-14,Approver,Jawa Timur
+E00012,Rizky Dwi Tanjung,JIExpo Kemayoran,KCP,Relationship Manager,0.0,2017-02-05,Requester,DKI Jakarta
+E00013,Putri Dwi Siregar,Cimone,KCP,Relationship Manager,0.0,2013-09-28,Requester,Banten
+E00014,Intan Dwi Syahputra,Makassar,KC,Credit Analyst,0.0,2018-08-27,Requester,Sulawesi
+E00015,Siti Sri Santoso,Fatmawati,KC,Relationship Manager,0.0,2020-07-07,Requester,DKI Jakarta
+E00016,Joko Nur Syahputra,Sidokarto,KCP,Relationship Manager,0.0,2021-02-18,Requester,Jawa Tengah & DIY
+E00017,Galih Adi Nugroho,Makassar,KC,Relationship Manager,0.0,2020-10-14,Requester,Sulawesi
+E00018,Putri Tri Gunawan,Pekanbaru,KC,Branch Manager,1000000000.0,2016-07-11,Approver,Sumatera
+E00019,Yanti Putra Syahputra,Sandubaya,KCP,Credit Analyst,0.0,2013-03-19,Requester,Nusa Tenggara
+E00020,Nadia Sri Hakim,JIExpo Kemayoran,KCP,Sub Branch Manager (AMGR),150000000.0,2010-01-06,Approver,DKI Jakarta
+E00021,Dimas Sri Gunawan,Padang,KC,Credit Analyst,0.0,2020-12-16,Requester,Sumatera
+E00022,Wahyu Nur Nugroho,Jakarta Kota,KC,Relationship Manager,0.0,2019-02-25,Requester,DKI Jakarta
+E00023,Siti Lestari,Bogor,KC,Relationship Manager,0.0,2014-11-03,Requester,Jawa Barat
+E00024,Hendra Dwi Hidayat,Cikarang Central City,KCP,Relationship Manager,0.0,2022-01-23,Requester,Jawa Barat
+E00025,Siti Putra Setiawan,Padang,KC,Relationship Manager,0.0,2013-02-26,Requester,Sumatera
+E00026,Slamet Sri Nasution,Jombang,KC,Credit Analyst,0.0,2020-08-19,Requester,Jawa Timur
+E00027,Nadia Nur Anggraini,Jombang,KC,Relationship Manager,0.0,2016-11-02,Requester,Jawa Timur
+E00028,Hendra Dwi Gunawan,Makassar,KC,Relationship Manager,0.0,2013-12-30,Requester,Sulawesi
+E00029,Dian Adi Nasution,Padang,KC,Credit Analyst,0.0,2015-02-10,Requester,Sumatera
+E00030,Lina Putra Pratama,Wonosari,KCP,Relationship Manager,0.0,2018-05-13,Requester,Jawa Tengah & DIY
+E00031,Dewi Sri Syahputra,Tangerang,KC,Credit Analyst,0.0,2018-02-19,Requester,Banten
+E00032,Kartika Adi Wijaya,Cibinong,KC,Relationship Manager,0.0,2024-02-02,Requester,Jawa Barat
+E00033,Taufik Tri Utami,Fatmawati,KC,Relationship Manager,0.0,2021-09-22,Requester,DKI Jakarta
+E00034,Yanti Putra Utami,Arief Rate,KCP,Sub Branch Manager (AVP/MGR),250000000.0,2013-05-08,Approver,Sulawesi
+E00035,Maya Putra Rahmawati,Surabaya,KC,Credit Analyst,0.0,2024-12-24,Requester,Jawa Timur
+E00036,Dimas Putra Nasution,Pamulang,KCP,Relationship Manager,0.0,2015-08-14,Requester,Banten
+E00037,Maya Sri Setiawan,Gajah Mada,KCP,Relationship Manager,0.0,2013-02-08,Requester,DKI Jakarta
+E00038,Mega Dwi Nasution,BSD,KC,Credit Analyst,0.0,2013-04-28,Requester,Banten
+E00039,Joko Tri Kurniawan,Jatiuwung,KCP,Relationship Manager,0.0,2012-06-02,Requester,Banten
+E00040,Nur Tri Syahputra,Batam,KC,Relationship Manager,0.0,2024-10-29,Requester,Sumatera
+E00041,Fajar Ramadhan,Serang,KC,Business Branch Manager,400000000.0,2011-09-19,Approver,Banten
+E00042,Hadi Putra Saputra,Jakarta Timur,KC,Credit Analyst,0.0,2017-04-01,Requester,DKI Jakarta
+E00043,Lukman Adi Nugroho,Makassar,KC,Credit Analyst,0.0,2018-12-08,Requester,Sulawesi
+E00044,Agus Rahmawati,Jakarta Pluit,KC,Relationship Manager,0.0,2012-02-12,Requester,DKI Jakarta
+E00045,Rina Wijaya,Jakarta Pluit,KC,Credit Analyst,0.0,2015-01-09,Requester,DKI Jakarta
+E00046,Wahyu Simanjuntak,Cikarang Central City,KCP,Relationship Manager,0.0,2016-06-01,Requester,Jawa Barat
+E00047,Yusuf Adi Hakim,Juanda,KCP,Sub Branch Manager (AVP/MGR),250000000.0,2016-02-14,Approver,Jawa Timur
+E00048,Gita Tri Tanjung,Pekanbaru,KC,Relationship Manager,0.0,2017-04-08,Requester,Sumatera
+E00049,Taufik Adi Syahputra,Serang,KC,Relationship Manager,0.0,2016-03-06,Requester,Banten
+E00050,Ayu Tri Wijaya,Rengasdengklok,KCP,Relationship Manager,0.0,2018-07-11,Requester,Jawa Barat
+E00051,Teguh Setiawan,Modernland,KCP,Credit Analyst,0.0,2012-02-02,Requester,Banten
+E00052,Siti Nur Susanto,Pekanbaru,KC,Credit Analyst,0.0,2019-05-30,Requester,Sumatera
+E00053,Teguh Putra Hidayat,Bogor,KC,Credit Analyst,0.0,2016-08-20,Requester,Jawa Barat
+E00054,Eko Tri Ramadhan,Kanaka,KCP,Relationship Manager,0.0,2017-06-25,Requester,Sulawesi
+E00055,Galih Adi Harahap,Bandung,KC,Relationship Manager,0.0,2020-04-06,Requester,Jawa Barat
+E00056,Hendra Sri Anggraini,Arief Rate,KCP,Relationship Manager,0.0,2013-02-20,Requester,Sulawesi
+E00057,Fitri Sri Utami,Jakarta Pluit,KC,Branch Manager,1000000000.0,2006-07-26,Approver,DKI Jakarta
+E00058,Fitri Dwi Halim,Jombang,KC,Credit Analyst,0.0,2019-08-17,Requester,Jawa Timur
+E00059,Taufik Sri Ramadhan,Jababeka,KCP,Relationship Manager,0.0,2019-01-20,Requester,Jawa Barat
+E00060,Slamet Nur Tanjung,Makassar,KC,Relationship Manager,0.0,2025-08-23,Requester,Sulawesi
+E00061,Dian Adi Setiawan,Surabaya,KC,Relationship Manager,0.0,2017-04-29,Requester,Jawa Timur
+E00062,Oscar Adi Permata,Jababeka,KCP,Relationship Manager,0.0,2012-04-25,Requester,Jawa Barat
+E00063,Dian Nur Kurniawan,Kutabumi,KCP,Credit Analyst,0.0,2014-11-10,Requester,Banten
+E00064,Teguh Kusuma,Bandung,KC,Business Branch Manager,400000000.0,2012-08-23,Approver,Jawa Barat
+E00065,Hadi Adi Kusuma,Jababeka,KCP,Relationship Manager,0.0,2013-06-23,Requester,Jawa Barat
+E00066,Oscar Sri Firmansyah,Cibinong,KC,Relationship Manager,0.0,2017-04-14,Requester,Jawa Barat
+E00067,Eko Sri Hidayat,Pamulang,KCP,Relationship Manager,0.0,2012-06-30,Requester,Banten
+E00068,Lina Tri Wibowo,Bekasi,KC,Credit Analyst,0.0,2015-12-16,Requester,Jawa Barat
+E00069,Dimas Nur Lestari,Bandung,KC,Relationship Manager,0.0,2020-06-02,Requester,Jawa Barat
+E00070,Nur Nur Harahap,Bekasi,KC,Credit Analyst,0.0,2015-11-05,Requester,Jawa Barat
+E00071,Teguh Putra Siregar,Cibinong,KC,Relationship Manager,0.0,2017-06-19,Requester,Jawa Barat
+E00072,Fitri Dwi Syahputra,Cibinong,KC,Relationship Manager,0.0,2025-02-19,Requester,Jawa Barat
+E00073,Nur Putra Gunawan,Tasikmalaya,KC,Credit Analyst,0.0,2015-11-09,Requester,Jawa Barat
+E00074,Gita Putra Simanjuntak,BSD,KC,Relationship Manager,0.0,2012-05-16,Requester,Banten
+E00075,Fitri Nur Susanto,Juanda,KCP,Relationship Manager,0.0,2015-04-30,Requester,Jawa Timur
+E00076,Teguh Putra Permata,Kanaka,KCP,Relationship Manager,0.0,2022-10-25,Requester,Sulawesi
+E00077,Nadia Nasution,Padang,KC,Relationship Manager,0.0,2017-10-27,Requester,Sumatera
+E00078,Intan Syahputra,Padang,KC,Relationship Manager,0.0,2022-03-02,Requester,Sumatera
+E00079,Fajar Nur Siregar,Pamulang,KCP,Relationship Manager,0.0,2013-12-02,Requester,Banten
+E00080,Hendra Putra Susanto,Serang,KC,Staff (unspecified),0.0,2017-05-05,Requester,Banten
+E00081,Andi Dwi Hakim,Jombang,KC,Relationship Manager,0.0,2023-09-06,Requester,Jawa Timur
+E00082,Galih Dwi Firmansyah,Jakarta Kota,KC,Relationship Manager,0.0,2017-01-25,Requester,DKI Jakarta
+E00083,Maya Nugroho,Bandung,KC,Credit Analyst,0.0,2015-02-21,Requester,Jawa Barat
+E00084,Andi Nur Hakim,Rengasdengklok,KCP,Credit Analyst,0.0,2017-09-21,Requester,Jawa Barat
+E00085,Maya Dwi Wibowo,Padang,KC,Credit Analyst,0.0,2012-05-15,Requester,Sumatera
+E00086,Lukman Putra Tanjung,Kanaka,KCP,Credit Analyst,0.0,2019-11-08,Requester,Sulawesi
+E00087,Agus Sri Rahmawati,Cibinong,KC,Relationship Manager,0.0,2023-10-15,Requester,Jawa Barat
+E00088,Rina Sri Anggraini,Kutabumi,KCP,Relationship Manager,0.0,2013-08-10,Requester,Banten
+E00089,Teguh Dwi Syahputra,Karawang,KC,Credit Analyst,0.0,2014-03-26,Requester,Jawa Barat
+E00090,Wahyu Nur Wibowo,Cikampek,KCP,Relationship Manager,0.0,2019-02-22,Requester,Jawa Barat
+E00091,Endang Simanjuntak,Padang,KC,Relationship Manager,0.0,2015-01-13,Requester,Sumatera
+E00092,Yanti Dwi Santoso,Batam,KC,Relationship Manager,0.0,2012-10-19,Requester,Sumatera
+E00093,Dewi Firmansyah,Palima,KCP,Relationship Manager,0.0,2016-08-31,Requester,Banten
+E00094,Fitri Hidayat,Jakarta Timur,KC,Relationship Manager,0.0,2021-01-05,Requester,DKI Jakarta
+E00095,Dian Nur Tanjung,Jakarta Timur,KC,Relationship Manager,0.0,2013-01-08,Requester,DKI Jakarta
+E00096,Lukman Nur Kurniawan,Cikampek,KCP,Relationship Manager,0.0,2016-05-20,Requester,Jawa Barat
+E00097,Teguh Dwi Maulana,Bogor,KC,Credit Analyst,0.0,2016-05-11,Requester,Jawa Barat
+E00098,Galih Syahputra,Bandung,KC,Relationship Manager,0.0,2017-06-13,Requester,Jawa Barat
+E00099,Dian Santoso,Malang,KC,Business Branch Manager,400000000.0,2006-10-19,Approver,Jawa Timur
+E00100,Oscar Nur Pratama,Kanaka,KCP,Relationship Manager,0.0,2018-06-29,Requester,Sulawesi
+E00101,Wahyu Nur Hidayat,Kutabumi,KCP,Sub Branch Manager (AVP/MGR),250000000.0,2010-10-19,Approver,Banten
+E00102,Lina Putra Wijaya,Surabaya,KC,Relationship Manager,0.0,2021-01-11,Requester,Jawa Timur
+E00103,Nur Tanjung,Rengasdengklok,KCP,Relationship Manager,0.0,2024-10-13,Requester,Jawa Barat
+E00104,Taufik Tri Maulana,Jakarta Kota,KC,Credit Analyst,0.0,2020-06-08,Requester,DKI Jakarta
+E00105,Hadi Nur Daulay,Wonosari,KCP,Relationship Manager,0.0,2014-09-15,Requester,Jawa Tengah & DIY
+E00106,Rizky Putra Syahputra,Tambun,KCP,Relationship Manager,0.0,2016-07-19,Requester,Jawa Barat
+E00107,Maya Dwi Lestari,Sutomo,KCP,Sub Branch Manager (AMGR),150000000.0,2018-08-28,Approver,Jawa Timur
+E00108,Galih Adi Gunawan,Jakarta Pluit,KC,Relationship Manager,0.0,2017-07-16,Requester,DKI Jakarta
+E00109,Lukman Sri Wijaya,Surabaya,KC,Relationship Manager,0.0,2024-08-11,Requester,Jawa Timur
+E00110,Maya Tri Maulana,Juanda,KCP,Relationship Manager,0.0,2013-12-19,Requester,Jawa Timur
+E00111,Teguh Dwi Lestari,Margonda,KCP,Credit Analyst,0.0,2013-03-23,Requester,Jawa Barat
+E00112,Wahyu Purnomo,Fatmawati,KC,Relationship Manager,0.0,2015-07-24,Requester,DKI Jakarta
+E00113,Yanti Tri Maulana,Karawang,KC,Relationship Manager,0.0,2013-06-08,Requester,Jawa Barat
+E00114,Intan Putra Kusuma,Tangerang,KC,Relationship Manager,0.0,2022-08-11,Requester,Banten
+E00115,Dimas Tri Syahputra,Kutabumi,KCP,Relationship Manager,0.0,2024-02-19,Requester,Banten
+E00116,Slamet Nur Wijaya,Margonda,KCP,Sub Branch Manager (AVP/MGR),250000000.0,2007-03-24,Approver,Jawa Barat
+E00117,Budi Firmansyah,Jakarta Timur,KC,Business Branch Manager,400000000.0,2009-02-16,Approver,DKI Jakarta
+E00118,Kartika Nur Gunawan,Bandung,KC,Relationship Manager,0.0,2014-08-05,Requester,Jawa Barat
+E00119,Maya Susanto,Wonosari,KCP,Relationship Manager,0.0,2019-01-12,Requester,Jawa Tengah & DIY
+E00120,Lina Sri Lestari,Tangerang,KC,Relationship Manager,0.0,2024-05-31,Requester,Banten
+E00121,Hendra Putra Tanjung,Serang,KC,Relationship Manager,0.0,2012-10-30,Requester,Banten
+E00122,Fajar Nur Ramadhan,Malang,KC,Relationship Manager,0.0,2012-01-27,Requester,Jawa Timur
+E00123,Bayu Dwi Tanjung,JIExpo Kemayoran,KCP,Relationship Manager,0.0,2015-06-25,Requester,DKI Jakarta
+E00124,Mega Siregar,Jakarta Kota,KC,Credit Analyst,0.0,2013-05-24,Requester,DKI Jakarta
+E00125,Lina Putra Nugroho,Tasikmalaya,KC,Relationship Manager,0.0,2018-11-22,Requester,Jawa Barat
+E00126,Wahyu Sri Ramadhan,Jatiuwung,KCP,Relationship Manager,0.0,2017-12-31,Requester,Banten
+E00127,Wahyu Setiawan,Arief Rate,KCP,Credit Analyst,0.0,2016-02-24,Requester,Sulawesi
+E00128,Indra Sri Hidayat,BSD,KC,Relationship Manager,0.0,2021-01-20,Requester,Banten
+E00129,Fajar Tri Rahmawati,Fatmawati,KC,Relationship Manager,0.0,2021-05-27,Requester,DKI Jakarta
+E00130,Ayu Dwi Halim,Kanaka,KCP,Relationship Manager,0.0,2022-06-12,Requester,Sulawesi
+E00131,Fajar Adi Nasution,Batam,KC,Relationship Manager,0.0,2015-06-28,Requester,Sumatera
+E00132,Agus Maulana,JIExpo Kemayoran,KCP,Relationship Manager,0.0,2016-05-27,Requester,DKI Jakarta
+E00133,Slamet Adi Ramadhan,Arief Rate,KCP,Relationship Manager,0.0,2019-11-25,Requester,Sulawesi
+E00134,Slamet Putra Halim,Pekanbaru,KC,Relationship Manager,0.0,2022-09-06,Requester,Sumatera
+E00135,Endang Adi Hidayat,Tambun,KCP,Relationship Manager,0.0,2023-06-30,Requester,Jawa Barat
+E00136,Fajar Dwi Hidayat,Sidokarto,KCP,Relationship Manager,0.0,2019-01-23,Requester,Jawa Tengah & DIY
+E00137,Fajar Tri Hidayat,Fatmawati,KC,Business Branch Manager,400000000.0,2013-12-28,Approver,DKI Jakarta
+E00138,Lukman Adi Anggraini,Padang,KC,Credit Analyst,0.0,2014-07-22,Requester,Sumatera
+E00139,Dimas Nur Maulana,Sandubaya,KCP,Credit Analyst,0.0,2021-11-08,Requester,Nusa Tenggara
+E00140,Andi Dwi Harahap,Bandung,KC,Relationship Manager,0.0,2019-08-02,Requester,Jawa Barat
+E00141,Lina Syahputra,Sandubaya,KCP,Credit Analyst,0.0,2013-04-09,Requester,Nusa Tenggara
+E00142,Ratna Putra Utami,Tangerang,KC,Relationship Manager,0.0,2022-08-24,Requester,Banten
+E00143,Slamet Sri Tanjung,Serang,KC,Relationship Manager,0.0,2023-12-29,Requester,Banten
+E00144,Dimas Nur Harahap,Makassar,KC,Credit Analyst,0.0,2017-11-30,Requester,Sulawesi
+E00145,Lina Dwi Gunawan,Jakarta Kota,KC,Relationship Manager,0.0,2014-07-17,Requester,DKI Jakarta
+E00146,Eko Hidayat,Jakarta Pluit,KC,Relationship Manager,0.0,2014-09-24,Requester,DKI Jakarta
+E00147,Andi Adi Halim,Sutomo,KCP,Relationship Manager,0.0,2024-09-19,Requester,Jawa Timur
+E00148,Dian Setiawan,Bogor,KC,Credit Analyst,0.0,2017-05-17,Requester,Jawa Barat
+E00149,Rizky Nur Syahputra,Margonda,KCP,Relationship Manager,0.0,2019-02-25,Requester,Jawa Barat
+E00150,Andi Dwi Santoso,Arief Rate,KCP,Relationship Manager,0.0,2017-08-08,Requester,Sulawesi
+E00151,Bayu Permata,Surabaya,KC,Credit Analyst,0.0,2018-10-18,Requester,Jawa Timur
+E00152,Kartika Nur Nugroho,Pamulang,KCP,Relationship Manager,0.0,2014-11-19,Requester,Banten
+E00153,Dimas Adi Anggraini,Pekanbaru,KC,Credit Analyst,0.0,2015-05-12,Requester,Sumatera
+E00154,Wahyu Dwi Wibowo,Arief Rate,KCP,Relationship Manager,0.0,2025-03-10,Requester,Sulawesi
+E00155,Yusuf Kurniawan,Bogor,KC,Relationship Manager,0.0,2025-08-16,Requester,Jawa Barat
+E00156,Rina Nur Hidayat,Cikarang Central City,KCP,Relationship Manager,0.0,2013-06-12,Requester,Jawa Barat
+E00157,Taufik Adi Nasution,Cibinong,KC,Relationship Manager,0.0,2020-11-18,Requester,Jawa Barat
+E00158,Andi Putra Lestari,Margonda,KCP,Relationship Manager,0.0,2013-08-08,Requester,Jawa Barat
+E00159,Yusuf Nur Kurniawan,Cibinong,KC,Credit Analyst,0.0,2018-01-10,Requester,Jawa Barat
+E00160,Fitri Putra Santoso,Jombang,KC,Branch Manager,1000000000.0,2007-03-18,Approver,Jawa Timur
+E00161,Teguh Dwi Siregar,Jakarta Kota,KC,Relationship Manager,0.0,2016-04-18,Requester,DKI Jakarta
+E00162,Slamet Adi Setiawan,Jakarta Pluit,KC,Relationship Manager,0.0,2016-12-28,Requester,DKI Jakarta
+E00163,Budi Dwi Tanjung,Jombang,KC,Relationship Manager,0.0,2024-02-02,Requester,Jawa Timur
+E00164,Lina Sri Wibowo,Fatmawati,KC,Business Branch Manager,400000000.0,2009-06-21,Approver,DKI Jakarta
+E00165,Putri Sri Nasution,Bogor,KC,Relationship Manager,0.0,2018-11-10,Requester,Jawa Barat
+E00166,Ayu Nur Permata,Sidokarto,KCP,Credit Analyst,0.0,2020-10-24,Requester,Jawa Tengah & DIY
+E00167,Agus Nugroho,Jombang,KC,Relationship Manager,0.0,2012-04-15,Requester,Jawa Timur
+E00168,Indra Dwi Syahputra,Cimone,KCP,Relationship Manager,0.0,2018-02-15,Requester,Banten
+E00169,Ayu Adi Maulana,Bandung,KC,Staff (unspecified),0.0,2016-08-27,Requester,Jawa Barat
+E00170,Dewi Nur Anggraini,Karawang,KC,Business Branch Manager,400000000.0,2012-10-11,Approver,Jawa Barat
+E00171,Endang Adi Wijaya,Sutomo,KCP,Relationship Manager,0.0,2015-10-19,Requester,Jawa Timur
+E00172,Agus Sri Firmansyah,Jakarta Timur,KC,Relationship Manager,0.0,2012-05-25,Requester,DKI Jakarta
+E00173,Yusuf Nur Simanjuntak,Cibinong,KC,Relationship Manager,0.0,2018-01-27,Requester,Jawa Barat
+E00174,Lukman Putra Firmansyah,Padang,KC,Relationship Manager,0.0,2015-03-21,Requester,Sumatera
+E00175,Ratna Nur Gunawan,Padang,KC,Relationship Manager,0.0,2023-03-10,Requester,Sumatera
+E00176,Hadi Adi Nasution,Pamulang,KCP,Relationship Manager,0.0,2015-09-28,Requester,Banten
+E00177,Nur Sri Siregar,Pamulang,KCP,Relationship Manager,0.0,2015-10-20,Requester,Banten
+E00178,Andi Tri Utami,Sandubaya,KCP,Credit Analyst,0.0,2021-03-23,Requester,Nusa Tenggara
+E00179,Yusuf Sri Saputra,Tasikmalaya,KC,Relationship Manager,0.0,2012-10-11,Requester,Jawa Barat
+E00180,Andi Nur Nugroho,Jakarta Pluit,KC,Relationship Manager,0.0,2022-11-21,Requester,DKI Jakarta
+E00181,Mega Adi Wibowo,Malang,KC,Business Branch Manager,400000000.0,2016-12-09,Approver,Jawa Timur
+E00182,Indra Putra Firmansyah,Bekasi,KC,Credit Analyst,0.0,2021-06-06,Requester,Jawa Barat
+E00183,Nur Nur Susanto,JIExpo Kemayoran,KCP,Relationship Manager,0.0,2014-10-06,Requester,DKI Jakarta
+E00184,Agus Putra Hidayat,Sandubaya,KCP,Credit Analyst,0.0,2013-08-26,Requester,Nusa Tenggara
+E00185,Hendra Putra Syahputra,Jombang,KC,Credit Analyst,0.0,2017-01-31,Requester,Jawa Timur
+E00186,Eko Simanjuntak,Surabaya,KC,Relationship Manager,0.0,2017-06-13,Requester,Jawa Timur
+E00187,Taufik Nur Daulay,Bogor,KC,Relationship Manager,0.0,2018-06-11,Requester,Jawa Barat
+E00188,Mega Nur Daulay,Tasikmalaya,KC,Relationship Manager,0.0,2014-09-19,Requester,Jawa Barat
+E00189,Andi Adi Rahmawati,JIExpo Kemayoran,KCP,Relationship Manager,0.0,2014-01-23,Requester,DKI Jakarta
+E00190,Bayu Putra Ramadhan,Bekasi,KC,Relationship Manager,0.0,2018-06-02,Requester,Jawa Barat
+E00191,Wahyu Saputra,Makassar,KC,Relationship Manager,0.0,2018-09-13,Requester,Sulawesi
+E00192,Joko Nasution,Cibinong,KC,Branch Manager,1000000000.0,2015-09-27,Approver,Jawa Barat
+E00193,Ayu Nur Siregar,Jakarta Timur,KC,Relationship Manager,0.0,2014-01-10,Requester,DKI Jakarta
+E00194,Endang Sri Lestari,Makassar,KC,Branch Manager,1000000000.0,2016-10-20,Approver,Sulawesi
+E00195,Teguh Sri Siregar,Cikampek,KCP,Relationship Manager,0.0,2016-01-03,Requester,Jawa Barat
+E00196,Maya Rahmawati,Serang,KC,Relationship Manager,0.0,2014-09-18,Requester,Banten
+E00197,Hadi Nur Rahmawati,Palima,KCP,Credit Analyst,0.0,2016-06-05,Requester,Banten
+E00198,Taufik Sri Harahap,Gresik,KC,Relationship Manager,0.0,2020-10-31,Requester,Jawa Timur
+E00199,Agus Putra Siregar,Wonosari,KCP,Relationship Manager,0.0,2018-08-18,Requester,Jawa Tengah & DIY
+E00200,Citra Adi Tanjung,Dieng,KCP,Sub Branch Manager (AVP/MGR),250000000.0,2012-03-10,Approver,Jawa Timur
+E00201,Hendra Syahputra,Karawang,KC,Relationship Manager,0.0,2012-09-26,Requester,Jawa Barat
+E00202,Ratna Nugroho,Dieng,KCP,Credit Analyst,0.0,2023-11-25,Requester,Jawa Timur
+E00203,Agus Susanto,Dieng,KCP,Credit Analyst,0.0,2013-12-12,Requester,Jawa Timur
+E00204,Siti Putra Maulana,Serang,KC,Credit Analyst,0.0,2025-05-24,Requester,Banten
+E00205,Putri Adi Susanto,Makassar,KC,Relationship Manager,0.0,2020-08-06,Requester,Sulawesi
+E00206,Gita Putra Daulay,Fatmawati,KC,Relationship Manager,0.0,2019-10-13,Requester,DKI Jakarta
+E00207,Agus Putra Utami,Batam,KC,Relationship Manager,0.0,2013-05-28,Requester,Sumatera
+E00208,Teguh Sri Simanjuntak,Jombang,KC,Relationship Manager,0.0,2018-04-16,Requester,Jawa Timur
+E00209,Slamet Kusuma,Wonosari,KCP,Relationship Manager,0.0,2015-07-18,Requester,Jawa Tengah & DIY
+E00210,Slamet Sri Hakim,Malang,KC,Relationship Manager,0.0,2020-01-13,Requester,Jawa Timur
+E00211,Ayu Nur Susanto,Gresik,KC,Relationship Manager,0.0,2014-09-28,Requester,Jawa Timur
+E00212,Hadi Putra Wibowo,Gresik,KC,Relationship Manager,0.0,2024-07-24,Requester,Jawa Timur
+E00213,Budi Tri Lestari,Padang,KC,Relationship Manager,0.0,2014-04-30,Requester,Sumatera
+E00214,Oscar Adi Nugroho,Juanda,KCP,Staff (unspecified),0.0,2019-08-04,Requester,Jawa Timur
+E00215,Sari Nur Harahap,Fatmawati,KC,Relationship Manager,0.0,2015-04-27,Requester,DKI Jakarta
+E00216,Sari Siregar,Cibinong,KC,Relationship Manager,0.0,2020-03-28,Requester,Jawa Barat
+E00217,Maya Putra Nugroho,Batam,KC,Relationship Manager,0.0,2018-05-31,Requester,Sumatera
+E00218,Dimas Sri Nugroho,Pamulang,KCP,Relationship Manager,0.0,2022-11-06,Requester,Banten
+E00219,Taufik Firmansyah,Jakarta Timur,KC,Relationship Manager,0.0,2025-07-19,Requester,DKI Jakarta
+E00220,Putri Putra Lestari,Jakarta Timur,KC,Business Branch Manager,400000000.0,2015-06-04,Approver,DKI Jakarta
+E00221,Wahyu Tri Lestari,Sutomo,KCP,Credit Analyst,0.0,2018-02-16,Requester,Jawa Timur
+E00222,Intan Nugroho,Padang,KC,Relationship Manager,0.0,2020-06-29,Requester,Sumatera
+E00223,Slamet Putra Hidayat,Arief Rate,KCP,Relationship Manager,0.0,2015-01-14,Requester,Sulawesi
+E00224,Rina Saputra,Makassar,KC,Business Branch Manager,400000000.0,2011-11-08,Approver,Sulawesi
+E00225,Nur Tri Daulay,Dieng,KCP,Relationship Manager,0.0,2012-05-01,Requester,Jawa Timur
+E00226,Wahyu Nur Syahputra,Jombang,KC,Credit Analyst,0.0,2020-11-06,Requester,Jawa Timur
+E00227,Rizky Dwi Harahap,Fatmawati,KC,Business Branch Manager,400000000.0,2009-10-22,Approver,DKI Jakarta
+E00228,Budi Dwi Wibowo,Fatmawati,KC,Credit Analyst,0.0,2017-01-09,Requester,DKI Jakarta
+E00229,Nadia Putra Hakim,Padang,KC,Relationship Manager,0.0,2014-12-16,Requester,Sumatera
+E00230,Lina Putra Kurniawan,Cibinong,KC,Relationship Manager,0.0,2017-06-24,Requester,Jawa Barat
+E00231,Hadi Santoso,Serang,KC,Relationship Manager,0.0,2015-11-01,Requester,Banten
+E00232,Putri Putra Rahmawati,Batam,KC,Relationship Manager,0.0,2020-10-02,Requester,Sumatera
+E00233,Fajar Harahap,Pamulang,KCP,Credit Analyst,0.0,2013-08-17,Requester,Banten
+E00234,Gita Nugroho,Serang,KC,Relationship Manager,0.0,2012-04-23,Requester,Banten
+E00235,Lina Sri Purnomo,Malang,KC,Relationship Manager,0.0,2019-08-04,Requester,Jawa Timur
+E00236,Fajar Sri Nasution,Sandubaya,KCP,Credit Analyst,0.0,2012-05-31,Requester,Nusa Tenggara
+E00237,Citra Nur Setiawan,Bogor,KC,Relationship Manager,0.0,2015-02-15,Requester,Jawa Barat
+E00238,Siti Tri Lestari,Bandung,KC,Credit Analyst,0.0,2017-07-15,Requester,Jawa Barat
+E00239,Budi Putra Daulay,Juanda,KCP,Credit Analyst,0.0,2017-10-05,Requester,Jawa Timur
+E00240,Dimas Putra Firmansyah,Surabaya,KC,Relationship Manager,0.0,2017-01-24,Requester,Jawa Timur
+E00241,Joko Dwi Susanto,Surabaya,KC,Business Branch Manager,400000000.0,2017-06-07,Approver,Jawa Timur
+E00242,Yusuf Putra Gunawan,Bogor,KC,Business Branch Manager,400000000.0,2010-11-02,Approver,Jawa Barat
+E00243,Siti Adi Ramadhan,Kutabumi,KCP,Relationship Manager,0.0,2015-11-14,Requester,Banten
+E00244,Nadia Adi Firmansyah,Pekanbaru,KC,Credit Analyst,0.0,2012-03-25,Requester,Sumatera
+E00245,Siti Tri Ramadhan,Pamulang,KCP,Relationship Manager,0.0,2012-12-19,Requester,Banten
+E00246,Hadi Tri Permata,Serang,KC,Relationship Manager,0.0,2018-04-20,Requester,Banten
+E00247,Joko Dwi Halim,Malang,KC,Relationship Manager,0.0,2017-01-08,Requester,Jawa Timur
+E00248,Dimas Putra Harahap,Pekanbaru,KC,Credit Analyst,0.0,2019-12-13,Requester,Sumatera
+E00249,Bayu Nur Setiawan,Bekasi,KC,Credit Analyst,0.0,2018-11-17,Requester,Jawa Barat
+E00250,Lina Santoso,Cibinong,KC,Business Branch Manager,400000000.0,2019-07-16,Approver,Jawa Barat
+E00251,Gita Dwi Daulay,Tangerang,KC,Relationship Manager,0.0,2017-02-23,Requester,Banten
+E00252,Siti Tri Harahap,Cikampek,KCP,Relationship Manager,0.0,2019-10-23,Requester,Jawa Barat
+E00253,Joko Nur Kurniawan,Sandubaya,KCP,Relationship Manager,0.0,2023-11-21,Requester,Nusa Tenggara
+E00254,Oscar Dwi Hidayat,Jakarta Pluit,KC,Credit Analyst,0.0,2018-12-30,Requester,DKI Jakarta
+E00255,Dewi Putra Lestari,Bogor,KC,Relationship Manager,0.0,2023-04-22,Requester,Jawa Barat
+E00256,Mega Nur Hidayat,Batam,KC,Relationship Manager,0.0,2017-05-12,Requester,Sumatera
+E00257,Teguh Nur Pratama,Jombang,KC,Credit Analyst,0.0,2013-11-25,Requester,Jawa Timur
+E00258,Teguh Permata,Jakarta Kota,KC,Relationship Manager,0.0,2020-09-06,Requester,DKI Jakarta
+E00259,Yusuf Sri Santoso,Tambun,KCP,Credit Analyst,0.0,2014-06-08,Requester,Jawa Barat
+E00260,Ratna Tri Setiawan,Dieng,KCP,Relationship Manager,0.0,2013-05-28,Requester,Jawa Timur
+E00261,Andi Adi Kurniawan,Sidokarto,KCP,Relationship Manager,0.0,2020-06-11,Requester,Jawa Tengah & DIY
+E00262,Agus Sri Purnomo,Makassar,KC,Relationship Manager,0.0,2024-09-09,Requester,Sulawesi
+E00263,Sari Adi Harahap,Pekanbaru,KC,Relationship Manager,0.0,2018-05-28,Requester,Sumatera
+E00264,Dimas Dwi Maulana,JIExpo Kemayoran,KCP,Relationship Manager,0.0,2024-05-06,Requester,DKI Jakarta
+E00265,Galih Dwi Setiawan,Kutabumi,KCP,Credit Analyst,0.0,2018-02-23,Requester,Banten
+E00266,Ratna Adi Saputra,Jakarta Timur,KC,Relationship Manager,0.0,2012-06-06,Requester,DKI Jakarta
+E00267,Nadia Sri Simanjuntak,Modernland,KCP,Relationship Manager,0.0,2017-01-25,Requester,Banten
+E00268,Dewi Nur Halim,Palima,KCP,Relationship Manager,0.0,2013-02-07,Requester,Banten
+E00269,Kartika Sri Permata,Modernland,KCP,Relationship Manager,0.0,2019-10-22,Requester,Banten
+E00270,Lukman Gunawan,Jakarta Timur,KC,Relationship Manager,0.0,2019-07-31,Requester,DKI Jakarta
+E00271,Hendra Tri Kurniawan,Jombang,KC,Credit Analyst,0.0,2017-06-08,Requester,Jawa Timur
+E00272,Hadi Tri Utami,Juanda,KCP,Relationship Manager,0.0,2012-01-10,Requester,Jawa Timur
+E00273,Lina Tri Syahputra,Bandung,KC,Credit Analyst,0.0,2014-11-24,Requester,Jawa Barat
+E00274,Lukman Tri Permata,Bekasi,KC,Credit Analyst,0.0,2019-03-06,Requester,Jawa Barat
+E00275,Intan Sri Susanto,Tangerang,KC,Credit Analyst,0.0,2024-10-11,Requester,Banten
+E00276,Indra Sri Wijaya,Jakarta Timur,KC,Relationship Manager,0.0,2013-02-26,Requester,DKI Jakarta
+E00277,Rina Putra Harahap,Kanaka,KCP,Relationship Manager,0.0,2021-12-20,Requester,Sulawesi
+E00278,Yusuf Putra Wijaya,Jatiuwung,KCP,Credit Analyst,0.0,2015-09-02,Requester,Banten
+E00279,Oscar Putra Tanjung,Gresik,KC,Relationship Manager,0.0,2021-01-10,Requester,Jawa Timur
+E00280,Nur Adi Hidayat,Sidokarto,KCP,Relationship Manager,0.0,2012-08-13,Requester,Jawa Tengah & DIY
+E00281,Lukman Tri Nasution,Tasikmalaya,KC,Credit Analyst,0.0,2013-10-30,Requester,Jawa Barat
+E00282,Putri Setiawan,Wonosari,KCP,Relationship Manager,0.0,2015-08-25,Requester,Jawa Tengah & DIY
+E00283,Maya Tri Purnomo,Malang,KC,Business Branch Manager,400000000.0,2014-10-06,Approver,Jawa Timur
+E00284,Sari Tri Nugroho,Makassar,KC,Relationship Manager,0.0,2019-09-19,Requester,Sulawesi
+E00285,Galih Tri Kusuma,Jakarta Pluit,KC,Relationship Manager,0.0,2018-08-19,Requester,DKI Jakarta
+E00286,Lina Sri Hidayat,Padang,KC,Relationship Manager,0.0,2016-12-06,Requester,Sumatera
+E00287,Yanti Sri Saputra,Serang,KC,Relationship Manager,0.0,2020-04-08,Requester,Banten
+E00288,Teguh Tri Saputra,Pekanbaru,KC,Relationship Manager,0.0,2018-07-10,Requester,Sumatera
+E00289,Lukman Putra Nasution,Gresik,KC,Relationship Manager,0.0,2012-10-23,Requester,Jawa Timur
+E00290,Hadi Saputra,Bandung,KC,Relationship Manager,0.0,2015-07-28,Requester,Jawa Barat
+E00291,Taufik Putra Rahmawati,Sidokarto,KCP,Credit Analyst,0.0,2012-07-20,Requester,Jawa Tengah & DIY
+E00292,Hadi Nur Syahputra,Tasikmalaya,KC,Business Branch Manager,400000000.0,2007-06-22,Approver,Jawa Barat
+E00293,Lina Tri Utami,Pamulang,KCP,Relationship Manager,0.0,2020-10-22,Requester,Banten
+E00294,Siti Tri Kurniawan,Bogor,KC,Relationship Manager,0.0,2014-12-22,Requester,Jawa Barat
+E00295,Siti Tri Wibowo,Dieng,KCP,Relationship Manager,0.0,2018-06-08,Requester,Jawa Timur
+E00296,Endang Adi Santoso,Margonda,KCP,Credit Analyst,0.0,2023-07-12,Requester,Jawa Barat
+E00297,Rizky Nur Purnomo,Cikarang Central City,KCP,Relationship Manager,0.0,2017-03-07,Requester,Jawa Barat
+E00298,Ratna Adi Wibowo,Tasikmalaya,KC,Relationship Manager,0.0,2017-05-21,Requester,Jawa Barat
+E00299,Nur Nur Saputra,Juanda,KCP,Relationship Manager,0.0,2017-08-25,Requester,Jawa Timur
+E00300,Putri Adi Hidayat,JIExpo Kemayoran,KCP,Credit Analyst,0.0,2018-06-18,Requester,DKI Jakarta
+E00301,Kartika Putra Purnomo,Batam,KC,Relationship Manager,0.0,2012-07-20,Requester,Sumatera
+E00302,Galih Tri Firmansyah,Jombang,KC,Credit Analyst,0.0,2021-06-30,Requester,Jawa Timur
+E00303,Fajar Wibowo,Padang,KC,Credit Analyst,0.0,2012-08-08,Requester,Sumatera
+E00304,Putri Sri Simanjuntak,Bandung,KC,Credit Analyst,0.0,2015-08-07,Requester,Jawa Barat
+E00305,Bayu Tri Setiawan,Margonda,KCP,Relationship Manager,0.0,2015-09-18,Requester,Jawa Barat
+E00306,Galih Putra Rahmawati,Bandung,KC,Relationship Manager,0.0,2018-11-24,Requester,Jawa Barat
+E00307,Fajar Tri Nugroho,Malang,KC,Relationship Manager,0.0,2019-05-24,Requester,Jawa Timur
+E00308,Kartika Sri Hidayat,Kutabumi,KCP,Relationship Manager,0.0,2026-03-01,Requester,Banten
+E00309,Fajar Adi Syahputra,Malang,KC,Relationship Manager,0.0,2022-12-10,Requester,Jawa Timur
+E00310,Sari Adi Saputra,Tambun,KCP,Relationship Manager,0.0,2023-01-09,Requester,Jawa Barat
+E00311,Maya Putra Nasution,Pekanbaru,KC,Credit Analyst,0.0,2017-08-21,Requester,Sumatera
+E00312,Wahyu Tri Purnomo,Pekanbaru,KC,Credit Analyst,0.0,2016-09-01,Requester,Sumatera
+E00313,Dewi Tri Halim,Padang,KC,Relationship Manager,0.0,2018-05-29,Requester,Sumatera
+E00314,Sari Nur Permata,Batam,KC,Relationship Manager,0.0,2012-07-18,Requester,Sumatera
+E00315,Teguh Susanto,Karawang,KC,Business Branch Manager,400000000.0,2018-03-05,Approver,Jawa Barat
+E00316,Dimas Dwi Daulay,Pekanbaru,KC,Relationship Manager,0.0,2016-01-15,Requester,Sumatera
+E00317,Oscar Putra Ramadhan,Jakarta Timur,KC,Relationship Manager,0.0,2024-12-31,Requester,DKI Jakarta
+E00318,Hadi Nur Susanto,Arief Rate,KCP,Credit Analyst,0.0,2020-03-20,Requester,Sulawesi
+E00319,Sari Tri Kurniawan,Jakarta Timur,KC,Relationship Manager,0.0,2015-03-06,Requester,DKI Jakarta
+E00320,Bayu Putra Susanto,Sandubaya,KCP,Credit Analyst,0.0,2013-04-01,Requester,Nusa Tenggara
+E00321,Mega Sri Maulana,Kutabumi,KCP,Relationship Manager,0.0,2014-01-16,Requester,Banten
+E00322,Dian Adi Hakim,Surabaya,KC,Credit Analyst,0.0,2023-09-14,Requester,Jawa Timur
+E00323,Rizky Adi Rahmawati,Cimone,KCP,Relationship Manager,0.0,2017-01-25,Requester,Banten
+E00324,Joko Sri Setiawan,Jatiuwung,KCP,Relationship Manager,0.0,2013-08-15,Requester,Banten
+E00325,Sari Sri Saputra,Pamulang,KCP,Relationship Manager,0.0,2020-08-30,Requester,Banten
+E00326,Yanti Adi Hakim,Batam,KC,Relationship Manager,0.0,2018-01-14,Requester,Sumatera
+E00327,Eko Sri Pratama,Makassar,KC,Credit Analyst,0.0,2013-09-18,Requester,Sulawesi
+E00328,Fajar Dwi Wijaya,Bogor,KC,Relationship Manager,0.0,2014-08-11,Requester,Jawa Barat
+E00329,Endang Kurniawan,Rengasdengklok,KCP,Credit Analyst,0.0,2017-09-06,Requester,Jawa Barat
+E00330,Dimas Tri Purnomo,Bogor,KC,Relationship Manager,0.0,2025-01-07,Requester,Jawa Barat
+E00331,Nur Tri Nugroho,Cimone,KCP,Credit Analyst,0.0,2019-09-11,Requester,Banten
+E00332,Dewi Adi Syahputra,Karawang,KC,Credit Analyst,0.0,2012-10-06,Requester,Jawa Barat
+E00333,Maya Dwi Hidayat,BSD,KC,Relationship Manager,0.0,2020-10-27,Requester,Banten
+E00334,Indra Putra Purnomo,Bekasi,KC,Relationship Manager,0.0,2012-01-31,Requester,Jawa Barat
+E00335,Oscar Adi Simanjuntak,Jakarta Timur,KC,Relationship Manager,0.0,2018-03-14,Requester,DKI Jakarta
+E00336,Intan Putra Gunawan,BSD,KC,Relationship Manager,0.0,2019-12-01,Requester,Banten
+E00337,Gita Nur Permata,Palima,KCP,Relationship Manager,0.0,2017-01-22,Requester,Banten
+E00338,Indra Sri Firmansyah,Tangerang,KC,Relationship Manager,0.0,2020-12-10,Requester,Banten
+E00339,Lukman Sri Maulana,Jakarta Kota,KC,Credit Analyst,0.0,2018-07-31,Requester,DKI Jakarta
+E00340,Maya Nur Firmansyah,Modernland,KCP,Credit Analyst,0.0,2018-06-15,Requester,Banten
+E00341,Hadi Tri Gunawan,Padang,KC,Relationship Manager,0.0,2016-04-30,Requester,Sumatera
+E00342,Agus Nur Wibowo,Jombang,KC,Relationship Manager,0.0,2014-09-24,Requester,Jawa Timur
+E00343,Galih Putra Halim,JIExpo Kemayoran,KCP,Credit Analyst,0.0,2012-07-12,Requester,DKI Jakarta
+E00344,Citra Putra Utami,Sandubaya,KCP,Sub Branch Manager (AMGR),150000000.0,2012-02-03,Approver,Nusa Tenggara
+E00345,Lina Putra Wibowo,BSD,KC,Credit Analyst,0.0,2019-06-11,Requester,Banten
+E00346,Intan Sri Hidayat,Padang,KC,Relationship Manager,0.0,2015-05-30,Requester,Sumatera
+E00347,Andi Dwi Wibowo,Serang,KC,Relationship Manager,0.0,2021-05-23,Requester,Banten
+E00348,Endang Tri Lestari,BSD,KC,Relationship Manager,0.0,2020-05-24,Requester,Banten
+E00349,Nadia Tri Halim,Jatiuwung,KCP,Credit Analyst,0.0,2012-07-11,Requester,Banten
+E00350,Siti Putra Rahmawati,Pamulang,KCP,Relationship Manager,0.0,2013-07-03,Requester,Banten
+E00351,Kartika Dwi Pratama,Cikarang Central City,KCP,Relationship Manager,0.0,2016-05-04,Requester,Jawa Barat
+E00352,Rina Adi Utami,JIExpo Kemayoran,KCP,Sub Branch Manager (AVP/MGR),250000000.0,2010-08-15,Approver,DKI Jakarta
+E00353,Fitri Simanjuntak,Makassar,KC,Business Branch Manager,400000000.0,2008-02-02,Approver,Sulawesi
+E00354,Joko Dwi Kusuma,Tangerang,KC,Relationship Manager,0.0,2013-05-06,Requester,Banten
+E00355,Ratna Dwi Syahputra,Rengasdengklok,KCP,Relationship Manager,0.0,2020-02-12,Requester,Jawa Barat
+E00356,Taufik Dwi Tanjung,Gresik,KC,Relationship Manager,0.0,2017-08-22,Requester,Jawa Timur
+E00357,Lukman Tri Wijaya,Bogor,KC,Relationship Manager,0.0,2019-01-06,Requester,Jawa Barat
+E00358,Slamet Sri Lestari,Rengasdengklok,KCP,Relationship Manager,0.0,2025-01-14,Requester,Jawa Barat
+E00359,Bayu Tri Purnomo,Serang,KC,Credit Analyst,0.0,2016-10-11,Requester,Banten
+E00360,Joko Anggraini,Bogor,KC,Branch Manager,1000000000.0,2011-01-27,Approver,Jawa Barat
+E00361,Sari Syahputra,Tasikmalaya,KC,Relationship Manager,0.0,2024-03-05,Requester,Jawa Barat
+E00362,Sari Adi Pratama,Surabaya,KC,Credit Analyst,0.0,2012-06-07,Requester,Jawa Timur
+E00363,Fitri Sri Harahap,Sutomo,KCP,Credit Analyst,0.0,2013-09-29,Requester,Jawa Timur
+E00364,Lukman Putra Santoso,Tangerang,KC,Branch Manager,1000000000.0,2008-05-01,Approver,Banten
+E00365,Siti Wibowo,Bandung,KC,Credit Analyst,0.0,2017-10-31,Requester,Jawa Barat
+E00366,Joko Putra Kurniawan,Pekanbaru,KC,Relationship Manager,0.0,2023-05-19,Requester,Sumatera
+E00367,Oscar Sri Harahap,Bandung,KC,Relationship Manager,0.0,2017-09-10,Requester,Jawa Barat
+E00368,Fajar Adi Harahap,Bandung,KC,Branch Manager,1000000000.0,2007-01-26,Approver,Jawa Barat
+E00369,Dian Putra Maulana,Bandung,KC,Credit Analyst,0.0,2025-06-03,Requester,Jawa Barat
+E00370,Yanti Dwi Syahputra,Kanaka,KCP,Relationship Manager,0.0,2014-03-21,Requester,Sulawesi
+E00371,Andi Dwi Firmansyah,Kutabumi,KCP,Credit Analyst,0.0,2018-11-04,Requester,Banten
+E00372,Endang Sri Permata,Jakarta Pluit,KC,Relationship Manager,0.0,2012-12-01,Requester,DKI Jakarta
+E00373,Nadia Dwi Setiawan,Jombang,KC,Relationship Manager,0.0,2022-03-24,Requester,Jawa Timur
+E00374,Ratna Tri Saputra,Makassar,KC,Credit Analyst,0.0,2015-07-10,Requester,Sulawesi
+E00375,Wahyu Tri Permata,Cibinong,KC,Relationship Manager,0.0,2016-10-13,Requester,Jawa Barat
+E00376,Nadia Adi Nugroho,Makassar,KC,Credit Analyst,0.0,2016-06-27,Requester,Sulawesi
+E00377,Sari Nur Ramadhan,Serang,KC,Credit Analyst,0.0,2019-07-23,Requester,Banten
+E00378,Dewi Adi Hidayat,Makassar,KC,Credit Analyst,0.0,2013-06-19,Requester,Sulawesi
+E00379,Nur Dwi Halim,Cikampek,KCP,Relationship Manager,0.0,2015-06-21,Requester,Jawa Barat
+E00380,Oscar Putra Halim,Bogor,KC,Relationship Manager,0.0,2014-11-26,Requester,Jawa Barat
+E00381,Taufik Dwi Saputra,Cikarang Central City,KCP,Sub Branch Manager (AMGR),150000000.0,2010-06-02,Approver,Jawa Barat
+E00382,Nur Putra Utami,Sidokarto,KCP,Relationship Manager,0.0,2022-09-19,Requester,Jawa Tengah & DIY
+E00383,Maya Tri Rahmawati,Cibinong,KC,Relationship Manager,0.0,2021-11-07,Requester,Jawa Barat
+E00384,Rizky Gunawan,Bekasi,KC,Relationship Manager,0.0,2020-11-04,Requester,Jawa Barat
+E00385,Bayu Dwi Lestari,Tangerang,KC,Relationship Manager,0.0,2017-09-11,Requester,Banten
+E00386,Budi Adi Hidayat,Arief Rate,KCP,Relationship Manager,0.0,2022-09-17,Requester,Sulawesi
+E00387,Wahyu Adi Lestari,Juanda,KCP,Relationship Manager,0.0,2023-10-07,Requester,Jawa Timur
+E00388,Rizky Nur Daulay,Tasikmalaya,KC,Relationship Manager,0.0,2018-11-20,Requester,Jawa Barat
+E00389,Nur Dwi Firmansyah,Sutomo,KCP,Relationship Manager,0.0,2012-12-26,Requester,Jawa Timur
+E00390,Intan Adi Gunawan,Kanaka,KCP,Credit Analyst,0.0,2013-07-16,Requester,Sulawesi
+E00391,Nadia Sri Wibowo,Bekasi,KC,Business Branch Manager,400000000.0,2011-10-22,Approver,Jawa Barat
+E00392,Wahyu Putra Harahap,Rengasdengklok,KCP,Credit Analyst,0.0,2014-01-17,Requester,Jawa Barat
+E00393,Indra Nasution,Pekanbaru,KC,Credit Analyst,0.0,2020-03-18,Requester,Sumatera
+E00394,Bayu Sri Tanjung,Karawang,KC,Relationship Manager,0.0,2014-09-08,Requester,Jawa Barat
+E00395,Mega Dwi Ramadhan,Malang,KC,Relationship Manager,0.0,2015-03-06,Requester,Jawa Timur
+E00396,Wahyu Putra Pratama,Pekanbaru,KC,Credit Analyst,0.0,2016-01-22,Requester,Sumatera
+E00397,Oscar Sri Syahputra,Makassar,KC,Relationship Manager,0.0,2014-09-04,Requester,Sulawesi
+E00398,Andi Putra Tanjung,Pekanbaru,KC,Relationship Manager,0.0,2017-11-11,Requester,Sumatera
+E00399,Maya Gunawan,Wonosari,KCP,Credit Analyst,0.0,2014-03-26,Requester,Jawa Tengah & DIY
+E00400,Endang Dwi Purnomo,Sidokarto,KCP,Credit Analyst,0.0,2021-07-14,Requester,Jawa Tengah & DIY
+E00401,Joko Putra Permata,Pekanbaru,KC,Relationship Manager,0.0,2014-12-17,Requester,Sumatera
+E00402,Endang Dwi Daulay,Surabaya,KC,Relationship Manager,0.0,2017-05-09,Requester,Jawa Timur
+E00403,Endang Sri Nugroho,Padang,KC,Credit Analyst,0.0,2017-12-22,Requester,Sumatera
+E00404,Nadia Sri Gunawan,Jombang,KC,Relationship Manager,0.0,2016-07-12,Requester,Jawa Timur
+E00405,Mega Sri Hakim,Jakarta Timur,KC,Relationship Manager,0.0,2014-04-30,Requester,DKI Jakarta
+E00406,Eko Tri Halim,Dieng,KCP,Credit Analyst,0.0,2016-01-22,Requester,Jawa Timur
+E00407,Yanti Dwi Firmansyah,Bandung,KC,Credit Analyst,0.0,2018-11-01,Requester,Jawa Barat
+E00408,Intan Adi Maulana,Malang,KC,Relationship Manager,0.0,2018-08-21,Requester,Jawa Timur
+E00409,Lina Tri Harahap,Rengasdengklok,KCP,Relationship Manager,0.0,2017-03-17,Requester,Jawa Barat
+E00410,Slamet Adi Rahmawati,Malang,KC,Credit Analyst,0.0,2015-04-27,Requester,Jawa Timur
+E00411,Rizky Sri Gunawan,Tasikmalaya,KC,Credit Analyst,0.0,2016-02-11,Requester,Jawa Barat
+E00412,Rizky Dwi Lestari,Batam,KC,Relationship Manager,0.0,2016-03-18,Requester,Sumatera
+E00413,Rina Adi Purnomo,Malang,KC,Relationship Manager,0.0,2013-05-01,Requester,Jawa Timur
+E00414,Ratna Dwi Halim,Fatmawati,KC,Relationship Manager,0.0,2021-10-04,Requester,DKI Jakarta
+E00415,Fitri Sri Hakim,Karawang,KC,Relationship Manager,0.0,2017-07-03,Requester,Jawa Barat
+E00416,Yanti Dwi Nugroho,Jakarta Timur,KC,Relationship Manager,0.0,2020-08-14,Requester,DKI Jakarta
+E00417,Putri Putra Hidayat,Gresik,KC,Credit Analyst,0.0,2017-11-11,Requester,Jawa Timur
+E00418,Agus Dwi Kusuma,Kanaka,KCP,Relationship Manager,0.0,2015-03-29,Requester,Sulawesi
+E00419,Joko Firmansyah,Cibinong,KC,Relationship Manager,0.0,2019-08-19,Requester,Jawa Barat
+E00420,Endang Putra Nugroho,Jakarta Kota,KC,Relationship Manager,0.0,2014-05-09,Requester,DKI Jakarta
+E00421,Ayu Adi Permata,Tangerang,KC,Credit Analyst,0.0,2013-12-05,Requester,Banten
+E00422,Lina Nur Nasution,Serang,KC,Branch Manager,1000000000.0,2015-12-29,Approver,Banten
+E00423,Intan Tri Syahputra,Gajah Mada,KCP,Relationship Manager,0.0,2021-11-07,Requester,DKI Jakarta
+E00424,Wahyu Dwi Purnomo,Sandubaya,KCP,Relationship Manager,0.0,2013-09-12,Requester,Nusa Tenggara
+E00425,Agus Tri Wibowo,Pekanbaru,KC,Credit Analyst,0.0,2013-01-19,Requester,Sumatera
+E00426,Fitri Tri Susanto,Cibinong,KC,Credit Analyst,0.0,2023-05-10,Requester,Jawa Barat
+E00427,Dewi Maulana,Jakarta Timur,KC,Credit Analyst,0.0,2018-12-20,Requester,DKI Jakarta
+E00428,Ayu Sri Maulana,Jakarta Timur,KC,Credit Analyst,0.0,2016-12-11,Requester,DKI Jakarta
+E00429,Teguh Tri Daulay,Gresik,KC,Relationship Manager,0.0,2016-04-23,Requester,Jawa Timur
+E00430,Galih Tri Siregar,Karawang,KC,Relationship Manager,0.0,2019-01-25,Requester,Jawa Barat
+E00431,Budi Putra Kurniawan,Arief Rate,KCP,Credit Analyst,0.0,2024-08-04,Requester,Sulawesi
+E00432,Ratna Putra Rahmawati,BSD,KC,Relationship Manager,0.0,2017-02-04,Requester,Banten
+E00433,Endang Sri Purnomo,Padang,KC,Relationship Manager,0.0,2017-01-27,Requester,Sumatera
+E00434,Gita Dwi Utami,Gajah Mada,KCP,Relationship Manager,0.0,2018-12-28,Requester,DKI Jakarta
+E00435,Rina Harahap,Padang,KC,Relationship Manager,0.0,2013-04-29,Requester,Sumatera
+E00436,Endang Adi Nugroho,Malang,KC,Relationship Manager,0.0,2025-02-09,Requester,Jawa Timur
+E00437,Putri Dwi Ramadhan,Bekasi,KC,Relationship Manager,0.0,2014-07-05,Requester,Jawa Barat
+E00438,Rina Nur Santoso,JIExpo Kemayoran,KCP,Relationship Manager,0.0,2024-01-22,Requester,DKI Jakarta
+E00439,Yusuf Tri Firmansyah,Cibinong,KC,Relationship Manager,0.0,2017-05-02,Requester,Jawa Barat
+E00440,Budi Adi Firmansyah,Padang,KC,Relationship Manager,0.0,2019-04-07,Requester,Sumatera
+E00441,Citra Adi Pratama,Makassar,KC,Relationship Manager,0.0,2020-11-14,Requester,Sulawesi
+E00442,Gita Susanto,Pamulang,KCP,Relationship Manager,0.0,2012-02-06,Requester,Banten
+E00443,Siti Simanjuntak,Cikarang Central City,KCP,Credit Analyst,0.0,2024-08-06,Requester,Jawa Barat
+E00444,Agus Adi Firmansyah,JIExpo Kemayoran,KCP,Relationship Manager,0.0,2014-07-01,Requester,DKI Jakarta
+E00445,Nur Dwi Wibowo,Pamulang,KCP,Sub Branch Manager (AMGR),150000000.0,2006-03-22,Approver,Banten
+E00446,Wahyu Kurniawan,Tasikmalaya,KC,Relationship Manager,0.0,2013-02-22,Requester,Jawa Barat
+E00447,Slamet Adi Kusuma,Tangerang,KC,Credit Analyst,0.0,2017-07-24,Requester,Banten
+E00448,Agus Wijaya,Gajah Mada,KCP,Credit Analyst,0.0,2016-06-16,Requester,DKI Jakarta
+E00449,Dian Harahap,Sutomo,KCP,Relationship Manager,0.0,2014-06-03,Requester,Jawa Timur
+E00450,Andi Putra Saputra,Sandubaya,KCP,Relationship Manager,0.0,2017-08-07,Requester,Nusa Tenggara
+E00451,Citra Purnomo,Pamulang,KCP,Relationship Manager,0.0,2014-12-04,Requester,Banten
+E00452,Yusuf Putra Kusuma,Malang,KC,Credit Analyst,0.0,2017-05-30,Requester,Jawa Timur
+E00453,Galih Dwi Hidayat,Bekasi,KC,Relationship Manager,0.0,2020-03-03,Requester,Jawa Barat
+E00454,Oscar Sri Pratama,Bogor,KC,Relationship Manager,0.0,2024-01-20,Requester,Jawa Barat
+E00455,Hendra Putra Daulay,Karawang,KC,Business Branch Manager,400000000.0,2015-12-17,Approver,Jawa Barat
+E00456,Wahyu Putra Utami,Cimone,KCP,Relationship Manager,0.0,2016-09-29,Requester,Banten
+E00457,Oscar Nur Utami,Surabaya,KC,Relationship Manager,0.0,2019-02-11,Requester,Jawa Timur
+E00458,Rizky Sri Wibowo,Karawang,KC,Credit Analyst,0.0,2019-12-04,Requester,Jawa Barat
+E00459,Fajar Adi Kusuma,Surabaya,KC,Relationship Manager,0.0,2018-03-08,Requester,Jawa Timur
+E00460,Siti Dwi Utami,Bekasi,KC,Relationship Manager,0.0,2014-11-30,Requester,Jawa Barat
+E00461,Agus Adi Kusuma,BSD,KC,Business Branch Manager,400000000.0,2008-01-05,Approver,Banten
+E00462,Dian Putra Setiawan,Karawang,KC,Relationship Manager,0.0,2012-11-16,Requester,Jawa Barat
+E00463,Fajar Adi Anggraini,Makassar,KC,Credit Analyst,0.0,2020-11-28,Requester,Sulawesi
+E00464,Endang Adi Simanjuntak,Kutabumi,KCP,Credit Analyst,0.0,2017-10-17,Requester,Banten
+E00465,Intan Adi Simanjuntak,Pekanbaru,KC,Business Branch Manager,400000000.0,2006-10-13,Approver,Sumatera
+E00466,Bayu Sri Susanto,Jakarta Kota,KC,Relationship Manager,0.0,2012-01-14,Requester,DKI Jakarta
+E00467,Rizky Dwi Pratama,Rengasdengklok,KCP,Relationship Manager,0.0,2016-12-07,Requester,Jawa Barat
+E00468,Lina Adi Saputra,Jombang,KC,Relationship Manager,0.0,2020-04-26,Requester,Jawa Timur
+E00469,Ratna Adi Pratama,Modernland,KCP,Relationship Manager,0.0,2019-11-24,Requester,Banten
+E00470,Mega Nur Pratama,Arief Rate,KCP,Relationship Manager,0.0,2014-05-11,Requester,Sulawesi
+E00471,Nadia Syahputra,Fatmawati,KC,Relationship Manager,0.0,2026-03-15,Requester,DKI Jakarta
+E00472,Lukman Tri Saputra,Serang,KC,Credit Analyst,0.0,2013-08-07,Requester,Banten
+E00473,Maya Nasution,Malang,KC,Credit Analyst,0.0,2013-07-29,Requester,Jawa Timur
+E00474,Bayu Putra Syahputra,Bandung,KC,Relationship Manager,0.0,2017-05-14,Requester,Jawa Barat
+E00475,Taufik Hakim,Jombang,KC,Relationship Manager,0.0,2019-02-19,Requester,Jawa Timur
+E00476,Oscar Tri Setiawan,Padang,KC,Relationship Manager,0.0,2020-03-30,Requester,Sumatera
+E00477,Galih Sri Maulana,Tangerang,KC,Relationship Manager,0.0,2013-05-21,Requester,Banten
+E00478,Lukman Sri Rahmawati,Jombang,KC,Credit Analyst,0.0,2022-08-10,Requester,Jawa Timur
+E00479,Nadia Dwi Simanjuntak,Arief Rate,KCP,Relationship Manager,0.0,2021-11-10,Requester,Sulawesi
+E00480,Nur Sri Kurniawan,Kanaka,KCP,Relationship Manager,0.0,2013-10-09,Requester,Sulawesi
+E00481,Dimas Adi Permata,Jakarta Timur,KC,Credit Analyst,0.0,2017-10-10,Requester,DKI Jakarta
+E00482,Mega Sri Wibowo,Fatmawati,KC,Credit Analyst,0.0,2021-04-21,Requester,DKI Jakarta
+E00483,Ratna Putra Simanjuntak,Jatiuwung,KCP,Relationship Manager,0.0,2014-05-29,Requester,Banten
+E00484,Nadia Ramadhan,Kutabumi,KCP,Relationship Manager,0.0,2019-07-11,Requester,Banten
+E00485,Dimas Dwi Saputra,Margonda,KCP,Credit Analyst,0.0,2012-01-11,Requester,Jawa Barat
+E00486,Fajar Putra Ramadhan,Margonda,KCP,Relationship Manager,0.0,2015-09-11,Requester,Jawa Barat
+E00487,Ratna Sri Purnomo,Tangerang,KC,Relationship Manager,0.0,2018-12-29,Requester,Banten
+E00488,Nur Putra Purnomo,Rengasdengklok,KCP,Relationship Manager,0.0,2025-05-03,Requester,Jawa Barat
+E00489,Wahyu Sri Wibowo,Bekasi,KC,Relationship Manager,0.0,2020-05-06,Requester,Jawa Barat
+E00490,Ratna Nur Siregar,Jakarta Timur,KC,Relationship Manager,0.0,2020-04-07,Requester,DKI Jakarta
+E00491,Mega Nugroho,Gresik,KC,Relationship Manager,0.0,2017-10-11,Requester,Jawa Timur
+E00492,Dewi Adi Anggraini,Juanda,KCP,Sub Branch Manager (AMGR),150000000.0,2019-01-19,Approver,Jawa Timur
+E00493,Ratna Nur Hidayat,Surabaya,KC,Relationship Manager,0.0,2020-03-10,Requester,Jawa Timur
+E00494,Galih Adi Lestari,Fatmawati,KC,Relationship Manager,0.0,2016-08-06,Requester,DKI Jakarta
+E00495,Bayu Sri Nugroho,Rengasdengklok,KCP,Relationship Manager,0.0,2012-06-05,Requester,Jawa Barat
+E00496,Ayu Sri Simanjuntak,Bandung,KC,Relationship Manager,0.0,2021-01-10,Requester,Jawa Barat
+E00497,Hadi Adi Simanjuntak,Fatmawati,KC,Relationship Manager,0.0,2020-03-29,Requester,DKI Jakarta
+E00498,Joko Utami,Jakarta Pluit,KC,Relationship Manager,0.0,2016-09-03,Requester,DKI Jakarta
+E00499,Eko Sri Utami,Kanaka,KCP,Credit Analyst,0.0,2024-11-15,Requester,Sulawesi
+E00500,Dimas Syahputra,Jatiuwung,KCP,Relationship Manager,0.0,2020-09-13,Requester,Banten
+E00501,Intan Tri Lestari,Makassar,KC,Credit Analyst,0.0,2025-12-16,Requester,Sulawesi
+E00502,Eko Anggraini,Pamulang,KCP,Sub Branch Manager (AVP/MGR),250000000.0,2009-07-23,Approver,Banten
+E00503,Yusuf Ramadhan,Karawang,KC,Credit Analyst,0.0,2025-12-29,Requester,Jawa Barat
+E00504,Nadia Tri Rahmawati,Bogor,KC,Credit Analyst,0.0,2014-02-11,Requester,Jawa Barat
+E00505,Mega Santoso,Sutomo,KCP,Credit Analyst,0.0,2016-09-05,Requester,Jawa Timur
+E00506,Sari Dwi Gunawan,Dieng,KCP,Relationship Manager,0.0,2014-09-09,Requester,Jawa Timur
+E00507,Hadi Sri Nasution,Cikarang Central City,KCP,Credit Analyst,0.0,2012-04-07,Requester,Jawa Barat
+E00508,Intan Putra Siregar,Cikampek,KCP,Sub Branch Manager (AVP/MGR),250000000.0,2007-06-02,Approver,Jawa Barat
+E00509,Indra Rahmawati,Bandung,KC,Credit Analyst,0.0,2018-02-21,Requester,Jawa Barat
+E00510,Maya Sri Harahap,Tasikmalaya,KC,Relationship Manager,0.0,2015-06-11,Requester,Jawa Barat
+E00511,Nur Putra Permata,Jombang,KC,Relationship Manager,0.0,2019-09-25,Requester,Jawa Timur
+E00512,Ayu Rahmawati,Cibinong,KC,Relationship Manager,0.0,2015-02-15,Requester,Jawa Barat
+E00513,Fajar Putra Halim,Bandung,KC,Relationship Manager,0.0,2019-03-27,Requester,Jawa Barat
+E00514,Kartika Sri Hakim,Tasikmalaya,KC,Credit Analyst,0.0,2014-07-27,Requester,Jawa Barat
+E00515,Ratna Adi Utami,Bandung,KC,Relationship Manager,0.0,2018-10-13,Requester,Jawa Barat
+E00516,Andi Nur Kurniawan,Margonda,KCP,Relationship Manager,0.0,2025-03-26,Requester,Jawa Barat
+E00517,Nadia Nur Siregar,Cibinong,KC,Business Branch Manager,400000000.0,2007-04-19,Approver,Jawa Barat
+E00518,Lukman Nur Saputra,Rengasdengklok,KCP,Sub Branch Manager (AVP/MGR),250000000.0,2013-01-24,Approver,Jawa Barat
+E00519,Sari Simanjuntak,Sutomo,KCP,Credit Analyst,0.0,2013-04-02,Requester,Jawa Timur
+E00520,Sari Dwi Halim,Gresik,KC,Relationship Manager,0.0,2013-05-21,Requester,Jawa Timur
+E00521,Sari Nur Anggraini,Jakarta Timur,KC,Relationship Manager,0.0,2022-12-01,Requester,DKI Jakarta
+E00522,Dewi Nur Permata,Fatmawati,KC,Relationship Manager,0.0,2016-08-24,Requester,DKI Jakarta
+E00523,Galih Sri Pratama,Dieng,KCP,Sub Branch Manager (AMGR),150000000.0,2014-06-06,Approver,Jawa Timur
+E00524,Yanti Putra Hidayat,Serang,KC,Relationship Manager,0.0,2017-05-30,Requester,Banten
+E00525,Mega Adi Siregar,Tambun,KCP,Credit Analyst,0.0,2019-05-25,Requester,Jawa Barat
+E00526,Andi Putra Wibowo,Bekasi,KC,Business Branch Manager,400000000.0,2010-06-09,Approver,Jawa Barat
+E00527,Citra Putra Hakim,Gresik,KC,Credit Analyst,0.0,2015-08-13,Requester,Jawa Timur
+E00528,Kartika Adi Pratama,Kutabumi,KCP,Credit Analyst,0.0,2014-08-23,Requester,Banten
+E00529,Hendra Putra Utami,Tangerang,KC,Business Branch Manager,400000000.0,2017-02-14,Approver,Banten
+E00530,Yanti Adi Wibowo,Makassar,KC,Relationship Manager,0.0,2014-10-07,Requester,Sulawesi
+E00531,Teguh Adi Utami,Cibinong,KC,Relationship Manager,0.0,2022-06-29,Requester,Jawa Barat
+E00532,Fajar Tri Purnomo,BSD,KC,Relationship Manager,0.0,2013-09-26,Requester,Banten
+E00533,Lina Nur Ramadhan,Cimone,KCP,Credit Analyst,0.0,2017-06-07,Requester,Banten
+E00534,Rizky Dwi Daulay,Jakarta Pluit,KC,Credit Analyst,0.0,2020-11-14,Requester,DKI Jakarta
+E00535,Dimas Lestari,Kanaka,KCP,Relationship Manager,0.0,2020-06-25,Requester,Sulawesi
+E00536,Siti Tri Utami,Pamulang,KCP,Relationship Manager,0.0,2018-02-27,Requester,Banten
+E00537,Bayu Tri Nasution,Jombang,KC,Relationship Manager,0.0,2018-10-16,Requester,Jawa Timur
+E00538,Ratna Putra Permata,Serang,KC,Relationship Manager,0.0,2019-06-13,Requester,Banten
+E00539,Bayu Nur Kusuma,JIExpo Kemayoran,KCP,Relationship Manager,0.0,2017-10-06,Requester,DKI Jakarta
+E00540,Rina Adi Susanto,Tangerang,KC,Credit Analyst,0.0,2016-12-13,Requester,Banten
+E00541,Budi Sri Ramadhan,Tasikmalaya,KC,Relationship Manager,0.0,2015-05-11,Requester,Jawa Barat
+E00542,Kartika Tri Wijaya,Gresik,KC,Relationship Manager,0.0,2015-03-06,Requester,Jawa Timur
+E00543,Lina Sri Nugroho,Karawang,KC,Relationship Manager,0.0,2015-12-04,Requester,Jawa Barat
+E00544,Andi Santoso,Sutomo,KCP,Sub Branch Manager (AVP/MGR),250000000.0,2014-07-01,Approver,Jawa Timur
+E00545,Galih Sri Wijaya,Jombang,KC,Credit Analyst,0.0,2021-04-22,Requester,Jawa Timur
+E00546,Hendra Kurniawan,Tangerang,KC,Relationship Manager,0.0,2015-03-27,Requester,Banten
+E00547,Citra Nur Susanto,Gresik,KC,Relationship Manager,0.0,2016-07-26,Requester,Jawa Timur
+E00548,Yusuf Nur Santoso,Jakarta Timur,KC,Credit Analyst,0.0,2017-08-27,Requester,DKI Jakarta
+E00549,Sari Adi Ramadhan,Tambun,KCP,Relationship Manager,0.0,2016-07-18,Requester,Jawa Barat
+E00550,Lina Nur Syahputra,Jakarta Timur,KC,Credit Analyst,0.0,2022-03-16,Requester,DKI Jakarta
+E00551,Mega Adi Ramadhan,Bandung,KC,Relationship Manager,0.0,2020-03-30,Requester,Jawa Barat
+E00552,Maya Dwi Gunawan,Fatmawati,KC,Relationship Manager,0.0,2019-05-20,Requester,DKI Jakarta
+E00553,Slamet Dwi Ramadhan,Surabaya,KC,Relationship Manager,0.0,2018-03-14,Requester,Jawa Timur
+E00554,Ratna Putra Anggraini,Cibinong,KC,Relationship Manager,0.0,2019-04-24,Requester,Jawa Barat
+E00555,Ratna Tri Daulay,Fatmawati,KC,Relationship Manager,0.0,2018-04-11,Requester,DKI Jakarta
+E00556,Maya Putra Wibowo,Sutomo,KCP,Sub Branch Manager (AMGR),150000000.0,2018-06-18,Approver,Jawa Timur
+E00557,Ayu Nur Harahap,Jombang,KC,Relationship Manager,0.0,2020-06-19,Requester,Jawa Timur
+E00558,Indra Harahap,Cibinong,KC,Relationship Manager,0.0,2017-11-16,Requester,Jawa Barat
+E00559,Mega Tri Lestari,Bekasi,KC,Relationship Manager,0.0,2012-09-10,Requester,Jawa Barat
+E00560,Wahyu Nugroho,Sutomo,KCP,Relationship Manager,0.0,2019-01-29,Requester,Jawa Timur
+E00561,Yanti Sri Susanto,Malang,KC,Credit Analyst,0.0,2017-08-14,Requester,Jawa Timur
+E00562,Eko Sri Firmansyah,Rengasdengklok,KCP,Relationship Manager,0.0,2020-01-02,Requester,Jawa Barat
+E00563,Teguh Tri Kusuma,Tasikmalaya,KC,Credit Analyst,0.0,2017-03-31,Requester,Jawa Barat
+E00564,Dewi Putra Utami,Karawang,KC,Relationship Manager,0.0,2017-10-04,Requester,Jawa Barat
+E00565,Siti Sri Permata,Jakarta Timur,KC,Relationship Manager,0.0,2014-09-01,Requester,DKI Jakarta
+E00566,Nur Dwi Nugroho,Serang,KC,Relationship Manager,0.0,2018-01-11,Requester,Banten
+E00567,Endang Purnomo,Bekasi,KC,Credit Analyst,0.0,2017-10-18,Requester,Jawa Barat
+E00568,Gita Putra Siregar,Jakarta Kota,KC,Business Branch Manager,400000000.0,2012-10-09,Approver,DKI Jakarta
+E00569,Taufik Putra Permata,Jakarta Pluit,KC,Relationship Manager,0.0,2014-09-24,Requester,DKI Jakarta
+E00570,Taufik Putra Kusuma,Kanaka,KCP,Credit Analyst,0.0,2014-03-30,Requester,Sulawesi
+E00571,Dewi Adi Santoso,Jakarta Timur,KC,Branch Manager,1000000000.0,2006-12-17,Approver,DKI Jakarta
+E00572,Gita Nur Halim,Jakarta Timur,KC,Relationship Manager,0.0,2014-06-29,Requester,DKI Jakarta
+E00573,Dimas Putra Halim,Bekasi,KC,Credit Analyst,0.0,2012-08-04,Requester,Jawa Barat
+E00574,Endang Dwi Setiawan,Surabaya,KC,Branch Manager,1000000000.0,2017-07-16,Approver,Jawa Timur
+E00575,Sari Dwi Permata,Makassar,KC,Relationship Manager,0.0,2013-05-14,Requester,Sulawesi
+E00576,Putri Putra Utami,Jakarta Timur,KC,Relationship Manager,0.0,2019-04-05,Requester,DKI Jakarta
+E00577,Kartika Adi Gunawan,Sandubaya,KCP,Relationship Manager,0.0,2023-09-04,Requester,Nusa Tenggara
+E00578,Oscar Putra Gunawan,Sandubaya,KCP,Relationship Manager,0.0,2019-08-30,Requester,Nusa Tenggara
+E00579,Lukman Sri Nasution,Karawang,KC,Credit Analyst,0.0,2013-05-20,Requester,Jawa Barat
+E00580,Yanti Dwi Kusuma,Surabaya,KC,Relationship Manager,0.0,2017-12-18,Requester,Jawa Timur
+E00581,Fajar Adi Pratama,Serang,KC,Relationship Manager,0.0,2015-08-20,Requester,Banten
+E00582,Wahyu Adi Harahap,BSD,KC,Relationship Manager,0.0,2020-05-06,Requester,Banten
+E00583,Dewi Nur Hidayat,Gajah Mada,KCP,Relationship Manager,0.0,2023-04-12,Requester,DKI Jakarta
+E00584,Lukman Adi Saputra,Padang,KC,Relationship Manager,0.0,2012-05-27,Requester,Sumatera
+E00585,Andi Sri Kusuma,Sandubaya,KCP,Relationship Manager,0.0,2020-06-15,Requester,Nusa Tenggara
+E00586,Endang Putra Siregar,Wonosari,KCP,Relationship Manager,0.0,2017-01-15,Requester,Jawa Tengah & DIY
+E00587,Budi Tri Kusuma,Dieng,KCP,Credit Analyst,0.0,2020-04-24,Requester,Jawa Timur
+E00588,Maya Putra Anggraini,Tangerang,KC,Relationship Manager,0.0,2014-11-17,Requester,Banten
+E00589,Nur Adi Ramadhan,Modernland,KCP,Relationship Manager,0.0,2012-11-04,Requester,Banten
+E00590,Citra Nur Saputra,Tasikmalaya,KC,Relationship Manager,0.0,2025-03-28,Requester,Jawa Barat
+E00591,Lukman Dwi Maulana,Bandung,KC,Relationship Manager,0.0,2018-06-26,Requester,Jawa Barat
+E00592,Joko Nur Rahmawati,Tambun,KCP,Relationship Manager,0.0,2019-05-29,Requester,Jawa Barat
+E00593,Agus Adi Syahputra,Jatiuwung,KCP,Relationship Manager,0.0,2017-02-08,Requester,Banten
+E00594,Hadi Nur Hakim,Pekanbaru,KC,Relationship Manager,0.0,2014-03-04,Requester,Sumatera
+E00595,Yusuf Nur Utami,Kanaka,KCP,Relationship Manager,0.0,2021-05-22,Requester,Sulawesi
+E00596,Teguh Dwi Wijaya,Jombang,KC,Relationship Manager,0.0,2012-07-01,Requester,Jawa Timur
+E00597,Dian Rahmawati,Karawang,KC,Relationship Manager,0.0,2013-05-05,Requester,Jawa Barat
+E00598,Ayu Sri Setiawan,Jakarta Kota,KC,Relationship Manager,0.0,2025-09-30,Requester,DKI Jakarta
+E00599,Nur Maulana,Cimone,KCP,Relationship Manager,0.0,2021-04-13,Requester,Banten
+E00600,Agus Adi Hakim,Jakarta Pluit,KC,Business Branch Manager,400000000.0,2018-08-29,Approver,DKI Jakarta
+E00601,Maya Kurniawan,BSD,KC,Relationship Manager,0.0,2014-10-06,Requester,Banten
+E00602,Yanti Adi Siregar,Serang,KC,Credit Analyst,0.0,2020-11-10,Requester,Banten
+E00603,Galih Tri Nugroho,Gresik,KC,Credit Analyst,0.0,2012-02-08,Requester,Jawa Timur
+E00604,Oscar Tanjung,Makassar,KC,Relationship Manager,0.0,2016-03-14,Requester,Sulawesi
+E00605,Kartika Nur Wijaya,JIExpo Kemayoran,KCP,Relationship Manager,0.0,2012-03-16,Requester,DKI Jakarta
+E00606,Ayu Sri Daulay,Jakarta Kota,KC,Relationship Manager,0.0,2012-10-28,Requester,DKI Jakarta
+E00607,Fitri Adi Tanjung,Cibinong,KC,Business Branch Manager,400000000.0,2009-06-13,Approver,Jawa Barat
+E00608,Yanti Adi Lestari,Juanda,KCP,Relationship Manager,0.0,2020-03-01,Requester,Jawa Timur
+E00609,Mega Dwi Harahap,Palima,KCP,Relationship Manager,0.0,2023-05-26,Requester,Banten
+E00610,Fajar Adi Nugroho,Fatmawati,KC,Credit Analyst,0.0,2013-10-21,Requester,DKI Jakarta
+E00611,Rina Putra Purnomo,Jakarta Timur,KC,Credit Analyst,0.0,2016-10-18,Requester,DKI Jakarta
+E00612,Budi Permata,Modernland,KCP,Sub Branch Manager (AMGR),150000000.0,2010-04-17,Approver,Banten
+E00613,Kartika Putra Santoso,Jakarta Pluit,KC,Credit Analyst,0.0,2016-10-10,Requester,DKI Jakarta
+E00614,Slamet Putra Purnomo,Juanda,KCP,Relationship Manager,0.0,2020-10-02,Requester,Jawa Timur
+E00615,Dian Dwi Wibowo,Cibinong,KC,Relationship Manager,0.0,2013-12-04,Requester,Jawa Barat
+E00616,Teguh Putra Daulay,Makassar,KC,Relationship Manager,0.0,2012-11-05,Requester,Sulawesi
+E00617,Dian Nur Daulay,Serang,KC,Credit Analyst,0.0,2019-06-04,Requester,Banten
+E00618,Mega Nur Susanto,Gajah Mada,KCP,Relationship Manager,0.0,2016-03-12,Requester,DKI Jakarta
+E00619,Oscar Dwi Pratama,Jakarta Pluit,KC,Relationship Manager,0.0,2022-06-21,Requester,DKI Jakarta
+E00620,Joko Putra Ramadhan,Jakarta Pluit,KC,Relationship Manager,0.0,2014-10-29,Requester,DKI Jakarta
+E00621,Maya Tri Harahap,Fatmawati,KC,Relationship Manager,0.0,2021-01-15,Requester,DKI Jakarta
+E00622,Intan Nur Syahputra,Juanda,KCP,Credit Analyst,0.0,2014-04-03,Requester,Jawa Timur
+E00623,Dian Putra Tanjung,JIExpo Kemayoran,KCP,Credit Analyst,0.0,2019-09-28,Requester,DKI Jakarta
+E00624,Galih Putra Nugroho,Tangerang,KC,Credit Analyst,0.0,2012-06-28,Requester,Banten
+E00625,Dian Dwi Nasution,Jakarta Pluit,KC,Relationship Manager,0.0,2012-11-03,Requester,DKI Jakarta
+E00626,Lukman Nur Rahmawati,Padang,KC,Credit Analyst,0.0,2022-01-03,Requester,Sumatera
+E00627,Gita Nur Hidayat,Jombang,KC,Credit Analyst,0.0,2015-04-19,Requester,Jawa Timur
+E00628,Bayu Adi Syahputra,Palima,KCP,Relationship Manager,0.0,2016-07-26,Requester,Banten
+E00629,Wahyu Harahap,BSD,KC,Credit Analyst,0.0,2020-06-19,Requester,Banten
+E00630,Dimas Hakim,Padang,KC,Relationship Manager,0.0,2013-03-15,Requester,Sumatera
+E00631,Indra Dwi Gunawan,Jababeka,KCP,Relationship Manager,0.0,2015-05-10,Requester,Jawa Barat
+E00632,Rizky Nur Lestari,Jakarta Timur,KC,Relationship Manager,0.0,2013-11-14,Requester,DKI Jakarta
+E00633,Fitri Adi Nugroho,Surabaya,KC,Relationship Manager,0.0,2024-05-30,Requester,Jawa Timur
+E00634,Nadia Nur Harahap,Padang,KC,Credit Analyst,0.0,2024-07-11,Requester,Sumatera
+E00635,Maya Dwi Harahap,BSD,KC,Relationship Manager,0.0,2020-09-02,Requester,Banten
+E00636,Teguh Adi Nasution,Bekasi,KC,Relationship Manager,0.0,2024-04-10,Requester,Jawa Barat
+E00637,Agus Sri Maulana,Kanaka,KCP,Credit Analyst,0.0,2016-12-25,Requester,Sulawesi
+E00638,Maya Putra Siregar,Jakarta Kota,KC,Relationship Manager,0.0,2016-01-11,Requester,DKI Jakarta
+E00639,Lukman Putra Simanjuntak,Kanaka,KCP,Credit Analyst,0.0,2021-12-05,Requester,Sulawesi
+E00640,Citra Tri Setiawan,Tasikmalaya,KC,Relationship Manager,0.0,2015-07-07,Requester,Jawa Barat
+E00641,Oscar Putra Utami,Rengasdengklok,KCP,Credit Analyst,0.0,2012-06-27,Requester,Jawa Barat
+E00642,Endang Nur Anggraini,Pekanbaru,KC,Credit Analyst,0.0,2017-10-15,Requester,Sumatera
+E00643,Kartika Tri Susanto,Cimone,KCP,Relationship Manager,0.0,2014-10-09,Requester,Banten
+E00644,Nur Adi Halim,Cikarang Central City,KCP,Relationship Manager,0.0,2013-08-21,Requester,Jawa Barat
+E00645,Teguh Adi Harahap,Cikarang Central City,KCP,Relationship Manager,0.0,2013-01-31,Requester,Jawa Barat
+E00646,Lina Setiawan,Dieng,KCP,Relationship Manager,0.0,2015-09-23,Requester,Jawa Timur
+E00647,Intan Nur Simanjuntak,Margonda,KCP,Relationship Manager,0.0,2021-04-21,Requester,Jawa Barat
+E00648,Ayu Sri Harahap,Bandung,KC,Relationship Manager,0.0,2017-01-25,Requester,Jawa Barat
+E00649,Dian Sri Purnomo,Bandung,KC,Relationship Manager,0.0,2016-03-16,Requester,Jawa Barat
+E00650,Maya Maulana,Jakarta Kota,KC,Relationship Manager,0.0,2015-11-17,Requester,DKI Jakarta
+E00651,Wahyu Dwi Santoso,Gresik,KC,Relationship Manager,0.0,2014-09-15,Requester,Jawa Timur
+E00652,Eko Sri Lestari,Jababeka,KCP,Relationship Manager,0.0,2014-07-11,Requester,Jawa Barat
+E00653,Lukman Nur Santoso,Cikampek,KCP,Credit Analyst,0.0,2020-08-11,Requester,Jawa Barat
+E00654,Taufik Sri Simanjuntak,Batam,KC,Relationship Manager,0.0,2019-04-13,Requester,Sumatera
+E00655,Maya Sri Nasution,BSD,KC,Relationship Manager,0.0,2018-09-06,Requester,Banten
+E00656,Eko Adi Harahap,Makassar,KC,Relationship Manager,0.0,2019-04-15,Requester,Sulawesi
+E00657,Nur Sri Hakim,Bandung,KC,Business Branch Manager,400000000.0,2019-08-10,Approver,Jawa Barat
+E00658,Rina Tri Kusuma,Karawang,KC,Relationship Manager,0.0,2022-06-18,Requester,Jawa Barat
+E00659,Eko Gunawan,Cikampek,KCP,Relationship Manager,0.0,2022-04-19,Requester,Jawa Barat
+E00660,Maya Dwi Pratama,Bekasi,KC,Credit Analyst,0.0,2012-03-05,Requester,Jawa Barat
+E00661,Eko Nur Susanto,Jakarta Kota,KC,Branch Manager,1000000000.0,2015-04-11,Approver,DKI Jakarta
+E00662,Intan Sri Santoso,Kutabumi,KCP,Relationship Manager,0.0,2014-10-18,Requester,Banten
+E00663,Indra Tri Rahmawati,Bekasi,KC,Relationship Manager,0.0,2020-11-12,Requester,Jawa Barat
+E00664,Dimas Dwi Nasution,Tangerang,KC,Relationship Manager,0.0,2014-04-15,Requester,Banten
+E00665,Slamet Adi Gunawan,Jababeka,KCP,Relationship Manager,0.0,2014-04-02,Requester,Jawa Barat
+E00666,Wahyu Nur Utami,Rengasdengklok,KCP,Relationship Manager,0.0,2018-04-02,Requester,Jawa Barat
+E00667,Dimas Dwi Siregar,Gajah Mada,KCP,Relationship Manager,0.0,2016-02-09,Requester,DKI Jakarta
+E00668,Fajar Sri Wijaya,Jombang,KC,Business Branch Manager,400000000.0,2016-02-02,Approver,Jawa Timur
+E00669,Fitri Adi Syahputra,Kanaka,KCP,Relationship Manager,0.0,2017-04-24,Requester,Sulawesi
+E00670,Fitri Sri Firmansyah,Fatmawati,KC,Relationship Manager,0.0,2020-04-09,Requester,DKI Jakarta
+E00671,Joko Adi Setiawan,Jababeka,KCP,Credit Analyst,0.0,2018-04-14,Requester,Jawa Barat
+E00672,Kartika Tri Ramadhan,Pekanbaru,KC,Business Branch Manager,400000000.0,2019-06-30,Approver,Sumatera
+E00673,Hendra Sri Kurniawan,Tangerang,KC,Business Branch Manager,400000000.0,2017-05-08,Approver,Banten
+E00674,Yusuf Adi Lestari,Cibinong,KC,Relationship Manager,0.0,2018-06-12,Requester,Jawa Barat
+E00675,Mega Putra Siregar,Pamulang,KCP,Credit Analyst,0.0,2018-09-04,Requester,Banten
+E00676,Bayu Dwi Halim,Pekanbaru,KC,Credit Analyst,0.0,2017-07-03,Requester,Sumatera
+E00677,Nadia Setiawan,Fatmawati,KC,Relationship Manager,0.0,2018-06-14,Requester,DKI Jakarta
+E00678,Putri Santoso,Fatmawati,KC,Relationship Manager,0.0,2025-08-26,Requester,DKI Jakarta
+E00679,Ratna Putra Harahap,Jakarta Pluit,KC,Relationship Manager,0.0,2015-04-01,Requester,DKI Jakarta
+E00680,Endang Dwi Simanjuntak,Sandubaya,KCP,Sub Branch Manager (AMGR),150000000.0,2018-08-25,Approver,Nusa Tenggara
+E00681,Nur Adi Tanjung,Gresik,KC,Relationship Manager,0.0,2025-04-28,Requester,Jawa Timur
+E00682,Budi Tri Tanjung,Sidokarto,KCP,Relationship Manager,0.0,2014-03-28,Requester,Jawa Tengah & DIY
+E00683,Budi Putra Gunawan,Wonosari,KCP,Credit Analyst,0.0,2012-03-06,Requester,Jawa Tengah & DIY
+E00684,Citra Susanto,Sutomo,KCP,Credit Analyst,0.0,2024-12-29,Requester,Jawa Timur
+E00685,Hendra Anggraini,Jababeka,KCP,Relationship Manager,0.0,2012-03-16,Requester,Jawa Barat
+E00686,Hadi Pratama,Dieng,KCP,Relationship Manager,0.0,2020-03-04,Requester,Jawa Timur
+E00687,Indra Dwi Permata,Cikarang Central City,KCP,Credit Analyst,0.0,2014-12-16,Requester,Jawa Barat
+E00688,Eko Sri Hakim,Karawang,KC,Relationship Manager,0.0,2012-09-12,Requester,Jawa Barat
+E00689,Rizky Santoso,Palima,KCP,Relationship Manager,0.0,2017-05-13,Requester,Banten
+E00690,Slamet Putra Hakim,Tangerang,KC,Relationship Manager,0.0,2013-09-02,Requester,Banten
+E00691,Yusuf Sri Kurniawan,Bogor,KC,Relationship Manager,0.0,2018-04-17,Requester,Jawa Barat
+E00692,Fajar Putra Kurniawan,Cimone,KCP,Relationship Manager,0.0,2020-03-16,Requester,Banten
+E00693,Rina Nur Wijaya,Arief Rate,KCP,Relationship Manager,0.0,2013-07-24,Requester,Sulawesi
+E00694,Rina Sri Lestari,Kanaka,KCP,Credit Analyst,0.0,2020-07-02,Requester,Sulawesi
+E00695,Nadia Sri Ramadhan,Malang,KC,Credit Analyst,0.0,2023-11-18,Requester,Jawa Timur
+E00696,Hendra Adi Wijaya,Dieng,KCP,Relationship Manager,0.0,2017-09-29,Requester,Jawa Timur
+E00697,Rizky Sri Hakim,Malang,KC,Relationship Manager,0.0,2025-09-09,Requester,Jawa Timur
+E00698,Joko Maulana,Cikampek,KCP,Relationship Manager,0.0,2012-01-26,Requester,Jawa Barat
+E00699,Nur Nur Ramadhan,Fatmawati,KC,Credit Analyst,0.0,2014-02-01,Requester,DKI Jakarta
+E00700,Gita Sri Firmansyah,Palima,KCP,Relationship Manager,0.0,2014-07-12,Requester,Banten
+E00701,Citra Tri Santoso,Malang,KC,Credit Analyst,0.0,2024-11-01,Requester,Jawa Timur
+E00702,Galih Dwi Saputra,Wonosari,KCP,Relationship Manager,0.0,2018-07-08,Requester,Jawa Tengah & DIY
+E00703,Dewi Sri Anggraini,Juanda,KCP,Relationship Manager,0.0,2018-04-07,Requester,Jawa Timur
+E00704,Andi Putra Siregar,Jakarta Pluit,KC,Relationship Manager,0.0,2020-08-24,Requester,DKI Jakarta
+E00705,Yusuf Sri Tanjung,Bandung,KC,Relationship Manager,0.0,2022-02-03,Requester,Jawa Barat
+E00706,Kartika Tri Nasution,Batam,KC,Relationship Manager,0.0,2019-11-10,Requester,Sumatera
+E00707,Joko Putra Santoso,Tambun,KCP,Credit Analyst,0.0,2015-05-27,Requester,Jawa Barat
+E00708,Andi Tri Daulay,Jatiuwung,KCP,Relationship Manager,0.0,2018-07-13,Requester,Banten
+E00709,Indra Putra Halim,Rengasdengklok,KCP,Relationship Manager,0.0,2014-11-14,Requester,Jawa Barat
+E00710,Yanti Nur Kusuma,Batam,KC,Credit Analyst,0.0,2013-09-11,Requester,Sumatera
+E00711,Eko Dwi Lestari,Bogor,KC,Relationship Manager,0.0,2012-12-23,Requester,Jawa Barat
+E00712,Budi Adi Kusuma,Tangerang,KC,Relationship Manager,0.0,2012-06-08,Requester,Banten
+E00713,Budi Maulana,Jakarta Pluit,KC,Relationship Manager,0.0,2018-12-19,Requester,DKI Jakarta
+E00714,Kartika Putra Simanjuntak,Juanda,KCP,Credit Analyst,0.0,2025-02-09,Requester,Jawa Timur
+E00715,Dimas Putra Lestari,Malang,KC,Credit Analyst,0.0,2014-07-23,Requester,Jawa Timur
+E00716,Siti Tri Simanjuntak,Karawang,KC,Credit Analyst,0.0,2019-09-06,Requester,Jawa Barat
+E00717,Rina Adi Hakim,Karawang,KC,Credit Analyst,0.0,2015-10-03,Requester,Jawa Barat
+E00718,Intan Dwi Gunawan,Batam,KC,Credit Analyst,0.0,2017-01-10,Requester,Sumatera
+E00719,Maya Dwi Kusuma,Bekasi,KC,Relationship Manager,0.0,2025-02-20,Requester,Jawa Barat
+E00720,Hendra Adi Hakim,Serang,KC,Credit Analyst,0.0,2016-06-26,Requester,Banten
+E00721,Intan Dwi Permata,Cibinong,KC,Credit Analyst,0.0,2017-11-13,Requester,Jawa Barat
+E00722,Oscar Kusuma,Surabaya,KC,Relationship Manager,0.0,2020-07-31,Requester,Jawa Timur
+E00723,Maya Siregar,Jababeka,KCP,Relationship Manager,0.0,2022-02-12,Requester,Jawa Barat
+E00724,Ayu Putra Siregar,Jakarta Kota,KC,Relationship Manager,0.0,2018-05-04,Requester,DKI Jakarta
+E00725,Hadi Dwi Kurniawan,Batam,KC,Credit Analyst,0.0,2024-06-13,Requester,Sumatera
+E00726,Teguh Putra Halim,Padang,KC,Relationship Manager,0.0,2020-08-06,Requester,Sumatera
+E00727,Sari Nur Simanjuntak,Pamulang,KCP,Credit Analyst,0.0,2014-05-23,Requester,Banten
+E00728,Sari Tri Saputra,Jakarta Kota,KC,Credit Analyst,0.0,2016-11-10,Requester,DKI Jakarta
+E00729,Joko Simanjuntak,Bandung,KC,Relationship Manager,0.0,2014-07-24,Requester,Jawa Barat
+E00730,Endang Dwi Kusuma,Malang,KC,Relationship Manager,0.0,2020-04-07,Requester,Jawa Timur
+E00731,Budi Putra Nugroho,Bogor,KC,Credit Analyst,0.0,2019-08-04,Requester,Jawa Barat
+E00732,Siti Hakim,Modernland,KCP,Relationship Manager,0.0,2012-03-11,Requester,Banten
+E00733,Nadia Nur Nasution,Jombang,KC,Business Branch Manager,400000000.0,2017-11-18,Approver,Jawa Timur
+E00734,Nadia Dwi Saputra,Rengasdengklok,KCP,Relationship Manager,0.0,2020-06-20,Requester,Jawa Barat
+E00735,Yusuf Tri Ramadhan,Bogor,KC,Relationship Manager,0.0,2021-03-17,Requester,Jawa Barat
+E00736,Nur Nur Firmansyah,Karawang,KC,Credit Analyst,0.0,2024-12-01,Requester,Jawa Barat
+E00737,Mega Tri Utami,Jombang,KC,Relationship Manager,0.0,2019-03-03,Requester,Jawa Timur
+E00738,Galih Sri Kurniawan,Sidokarto,KCP,Credit Analyst,0.0,2014-01-27,Requester,Jawa Tengah & DIY
+E00739,Wahyu Dwi Nasution,Jakarta Kota,KC,Relationship Manager,0.0,2012-09-14,Requester,DKI Jakarta
+E00740,Rina Adi Anggraini,Juanda,KCP,Relationship Manager,0.0,2022-04-30,Requester,Jawa Timur
+E00741,Taufik Nur Rahmawati,Juanda,KCP,Relationship Manager,0.0,2022-09-14,Requester,Jawa Timur
+E00742,Fitri Dwi Tanjung,Palima,KCP,Relationship Manager,0.0,2023-06-16,Requester,Banten
+E00743,Andi Sri Simanjuntak,Serang,KC,Credit Analyst,0.0,2016-11-11,Requester,Banten
+E00744,Ratna Dwi Ramadhan,Jakarta Timur,KC,Relationship Manager,0.0,2013-02-23,Requester,DKI Jakarta
+E00745,Fajar Tri Santoso,Kutabumi,KCP,Relationship Manager,0.0,2018-10-11,Requester,Banten
+E00746,Rina Sri Nasution,Karawang,KC,Credit Analyst,0.0,2017-01-05,Requester,Jawa Barat
+E00747,Gita Firmansyah,Tambun,KCP,Sub Branch Manager (AMGR),150000000.0,2015-09-16,Approver,Jawa Barat
+E00748,Mega Adi Susanto,Padang,KC,Business Branch Manager,400000000.0,2018-12-26,Approver,Sumatera
+E00749,Endang Sri Tanjung,Jatiuwung,KCP,Sub Branch Manager (AVP/MGR),250000000.0,2011-12-13,Approver,Banten
+E00750,Nur Dwi Tanjung,Cikarang Central City,KCP,Credit Analyst,0.0,2014-10-31,Requester,Jawa Barat
+E00751,Endang Dwi Ramadhan,Jababeka,KCP,Relationship Manager,0.0,2015-05-12,Requester,Jawa Barat
+E00752,Dewi Tri Harahap,Cibinong,KC,Credit Analyst,0.0,2012-09-17,Requester,Jawa Barat
+E00753,Endang Utami,Bogor,KC,Business Branch Manager,400000000.0,2011-03-02,Approver,Jawa Barat
+E00754,Agus Dwi Firmansyah,Palima,KCP,Credit Analyst,0.0,2014-01-08,Requester,Banten
+E00755,Rina Kusuma,BSD,KC,Relationship Manager,0.0,2013-05-04,Requester,Banten
+E00756,Lina Adi Ramadhan,Jombang,KC,Relationship Manager,0.0,2015-07-08,Requester,Jawa Timur
+E00757,Dimas Pratama,Batam,KC,Relationship Manager,0.0,2017-10-18,Requester,Sumatera
+E00758,Slamet Dwi Permata,Jakarta Timur,KC,Credit Analyst,0.0,2013-10-28,Requester,DKI Jakarta
+E00759,Oscar Hidayat,Fatmawati,KC,Credit Analyst,0.0,2020-06-09,Requester,DKI Jakarta
+E00760,Ratna Nur Firmansyah,Surabaya,KC,Relationship Manager,0.0,2012-09-26,Requester,Jawa Timur
+E00761,Teguh Dwi Tanjung,Tasikmalaya,KC,Business Branch Manager,400000000.0,2008-10-15,Approver,Jawa Barat
+E00762,Maya Nur Ramadhan,Batam,KC,Credit Analyst,0.0,2021-07-28,Requester,Sumatera
+E00763,Eko Tri Harahap,Sutomo,KCP,Credit Analyst,0.0,2019-07-04,Requester,Jawa Timur
+E00764,Nur Putra Saputra,Jakarta Pluit,KC,Relationship Manager,0.0,2018-01-17,Requester,DKI Jakarta
+E00765,Andi Sri Nugroho,BSD,KC,Relationship Manager,0.0,2018-07-07,Requester,Banten
+E00766,Ayu Tri Saputra,Sidokarto,KCP,Relationship Manager,0.0,2020-04-28,Requester,Jawa Tengah & DIY
+E00767,Kartika Nur Susanto,Batam,KC,Relationship Manager,0.0,2012-02-29,Requester,Sumatera
+E00768,Rizky Adi Gunawan,Jakarta Kota,KC,Relationship Manager,0.0,2016-10-03,Requester,DKI Jakarta
+E00769,Gita Tri Pratama,Padang,KC,Relationship Manager,0.0,2020-01-24,Requester,Sumatera
+E00770,Rina Dwi Kurniawan,Pekanbaru,KC,Relationship Manager,0.0,2017-05-27,Requester,Sumatera
+E00771,Citra Putra Kusuma,BSD,KC,Credit Analyst,0.0,2019-01-10,Requester,Banten
+E00772,Bayu Nur Kurniawan,Tangerang,KC,Relationship Manager,0.0,2015-06-05,Requester,Banten
+E00773,Andi Putra Permata,Serang,KC,Relationship Manager,0.0,2013-05-17,Requester,Banten
+E00774,Hadi Putra Nugroho,Fatmawati,KC,Relationship Manager,0.0,2016-12-01,Requester,DKI Jakarta
+E00775,Lina Nugroho,Jakarta Timur,KC,Credit Analyst,0.0,2026-02-25,Requester,DKI Jakarta
+E00776,Taufik Dwi Nugroho,Cikarang Central City,KCP,Credit Analyst,0.0,2013-03-24,Requester,Jawa Barat
+E00777,Galih Sri Saputra,Jababeka,KCP,Relationship Manager,0.0,2019-12-31,Requester,Jawa Barat
+E00778,Lukman Setiawan,Pamulang,KCP,Credit Analyst,0.0,2012-05-03,Requester,Banten
+E00779,Yusuf Nur Lestari,Tasikmalaya,KC,Relationship Manager,0.0,2019-12-08,Requester,Jawa Barat
+E00780,Yanti Dwi Hidayat,Batam,KC,Relationship Manager,0.0,2012-02-12,Requester,Sumatera
+E00781,Oscar Nur Maulana,Surabaya,KC,Credit Analyst,0.0,2019-01-04,Requester,Jawa Timur
+E00782,Budi Adi Syahputra,BSD,KC,Relationship Manager,0.0,2021-07-06,Requester,Banten
+E00783,Kartika Dwi Lestari,Jakarta Timur,KC,Relationship Manager,0.0,2013-08-26,Requester,DKI Jakarta
+E00784,Budi Dwi Permata,Sandubaya,KCP,Relationship Manager,0.0,2018-08-03,Requester,Nusa Tenggara
+E00785,Joko Putra Nasution,BSD,KC,Relationship Manager,0.0,2013-10-02,Requester,Banten
+E00786,Lina Putra Kusuma,Sutomo,KCP,Relationship Manager,0.0,2024-08-12,Requester,Jawa Timur
+E00787,Mega Putra Rahmawati,Jombang,KC,Credit Analyst,0.0,2014-08-29,Requester,Jawa Timur
+E00788,Galih Nur Hidayat,Malang,KC,Relationship Manager,0.0,2023-12-13,Requester,Jawa Timur
+E00789,Taufik Adi Hidayat,Sandubaya,KCP,Relationship Manager,0.0,2020-02-21,Requester,Nusa Tenggara
+E00790,Endang Adi Purnomo,Serang,KC,Relationship Manager,0.0,2021-08-28,Requester,Banten
+E00791,Dian Dwi Anggraini,Cibinong,KC,Relationship Manager,0.0,2014-05-01,Requester,Jawa Barat
+E00792,Citra Nugroho,Karawang,KC,Relationship Manager,0.0,2018-10-06,Requester,Jawa Barat
+E00793,Slamet Putra Lestari,Makassar,KC,Credit Analyst,0.0,2017-01-15,Requester,Sulawesi
+E00794,Rizky Dwi Nasution,Jakarta Pluit,KC,Relationship Manager,0.0,2015-03-05,Requester,DKI Jakarta
+E00795,Yanti Tri Nugroho,BSD,KC,Relationship Manager,0.0,2018-08-28,Requester,Banten
+E00796,Teguh Tri Harahap,Makassar,KC,Relationship Manager,0.0,2021-11-06,Requester,Sulawesi
+E00797,Intan Putra Ramadhan,Margonda,KCP,Relationship Manager,0.0,2013-01-24,Requester,Jawa Barat
+E00798,Rina Hakim,Arief Rate,KCP,Credit Analyst,0.0,2015-02-04,Requester,Sulawesi
+E00799,Fitri Nur Santoso,Surabaya,KC,Relationship Manager,0.0,2017-09-10,Requester,Jawa Timur
+E00800,Ratna Putra Nasution,Jakarta Pluit,KC,Relationship Manager,0.0,2013-09-17,Requester,DKI Jakarta
+E00801,Mega Dwi Hidayat,Tasikmalaya,KC,Relationship Manager,0.0,2014-11-01,Requester,Jawa Barat
+E00802,Slamet Adi Susanto,Tasikmalaya,KC,Relationship Manager,0.0,2018-12-30,Requester,Jawa Barat
+E00803,Eko Dwi Purnomo,Padang,KC,Relationship Manager,0.0,2017-10-12,Requester,Sumatera
+E00804,Gita Putra Kurniawan,BSD,KC,Relationship Manager,0.0,2012-06-14,Requester,Banten
+E00805,Nadia Dwi Kusuma,Jombang,KC,Relationship Manager,0.0,2018-02-05,Requester,Jawa Timur
+E00806,Rizky Nur Harahap,JIExpo Kemayoran,KCP,Credit Analyst,0.0,2014-01-07,Requester,DKI Jakarta
+E00807,Oscar Nur Gunawan,Sutomo,KCP,Relationship Manager,0.0,2020-12-12,Requester,Jawa Timur
+E00808,Hadi Tri Siregar,Fatmawati,KC,Relationship Manager,0.0,2015-04-17,Requester,DKI Jakarta
+E00809,Nur Tri Gunawan,Jakarta Timur,KC,Credit Analyst,0.0,2017-12-19,Requester,DKI Jakarta
+E00810,Hendra Nur Syahputra,Karawang,KC,Relationship Manager,0.0,2025-08-12,Requester,Jawa Barat
+E00811,Hadi Sri Maulana,Juanda,KCP,Credit Analyst,0.0,2012-12-17,Requester,Jawa Timur
+E00812,Bayu Sri Setiawan,Jatiuwung,KCP,Relationship Manager,0.0,2018-03-30,Requester,Banten
+E00813,Bayu Tri Kusuma,Padang,KC,Relationship Manager,0.0,2020-04-18,Requester,Sumatera
+E00814,Maya Nur Harahap,Tasikmalaya,KC,Credit Analyst,0.0,2015-06-06,Requester,Jawa Barat
+E00815,Nur Tri Nasution,Gresik,KC,Relationship Manager,0.0,2018-04-27,Requester,Jawa Timur
+E00816,Gita Dwi Simanjuntak,Pekanbaru,KC,Relationship Manager,0.0,2020-02-17,Requester,Sumatera
+E00817,Lukman Putra Pratama,Jakarta Pluit,KC,Business Branch Manager,400000000.0,2017-07-05,Approver,DKI Jakarta
+E00818,Agus Nur Utami,Bekasi,KC,Relationship Manager,0.0,2020-04-03,Requester,Jawa Barat
+E00819,Rizky Nur Saputra,Bandung,KC,Relationship Manager,0.0,2012-07-20,Requester,Jawa Barat
+E00820,Dian Sri Hakim,Gajah Mada,KCP,Credit Analyst,0.0,2013-06-06,Requester,DKI Jakarta
+E00821,Wahyu Tri Firmansyah,Pekanbaru,KC,Credit Analyst,0.0,2012-03-13,Requester,Sumatera
+E00822,Teguh Nur Tanjung,Cimone,KCP,Credit Analyst,0.0,2022-07-18,Requester,Banten
+E00823,Indra Tri Maulana,Malang,KC,Relationship Manager,0.0,2016-01-24,Requester,Jawa Timur
+E00824,Joko Dwi Utami,BSD,KC,Relationship Manager,0.0,2016-08-29,Requester,Banten
+E00825,Nur Sri Setiawan,Karawang,KC,Relationship Manager,0.0,2020-06-22,Requester,Jawa Barat
+E00826,Eko Sri Ramadhan,Jombang,KC,Credit Analyst,0.0,2021-02-02,Requester,Jawa Timur
+E00827,Rina Adi Setiawan,Margonda,KCP,Relationship Manager,0.0,2021-05-01,Requester,Jawa Barat
+E00828,Nadia Adi Halim,Tasikmalaya,KC,Relationship Manager,0.0,2015-11-25,Requester,Jawa Barat
+E00829,Budi Adi Saputra,Sidokarto,KCP,Relationship Manager,0.0,2013-11-21,Requester,Jawa Tengah & DIY
+E00830,Oscar Tri Nasution,Bogor,KC,Business Branch Manager,400000000.0,2007-07-23,Approver,Jawa Barat
+E00831,Teguh Hakim,Jakarta Pluit,KC,Relationship Manager,0.0,2017-01-01,Requester,DKI Jakarta
+E00832,Taufik Adi Siregar,Wonosari,KCP,Relationship Manager,0.0,2014-08-04,Requester,Jawa Tengah & DIY
+E00833,Intan Hidayat,Modernland,KCP,Relationship Manager,0.0,2019-12-08,Requester,Banten
+E00834,Yanti Putra Lestari,Pekanbaru,KC,Credit Analyst,0.0,2019-11-12,Requester,Sumatera
+E00835,Endang Tri Simanjuntak,Jababeka,KCP,Credit Analyst,0.0,2014-03-10,Requester,Jawa Barat
+E00836,Slamet Nur Lestari,Pekanbaru,KC,Relationship Manager,0.0,2019-10-26,Requester,Sumatera
+E00837,Andi Adi Siregar,Batam,KC,Credit Analyst,0.0,2026-03-04,Requester,Sumatera
+E00838,Wahyu Nasution,BSD,KC,Staff (unspecified),0.0,2013-02-21,Requester,Banten
+E00839,Maya Sri Lestari,Surabaya,KC,Relationship Manager,0.0,2015-02-19,Requester,Jawa Timur
+E00840,Gita Tri Anggraini,Jakarta Pluit,KC,Relationship Manager,0.0,2017-05-28,Requester,DKI Jakarta
+E00841,Taufik Tri Susanto,Sutomo,KCP,Relationship Manager,0.0,2013-12-22,Requester,Jawa Timur
+E00842,Siti Nur Permata,Cibinong,KC,Credit Analyst,0.0,2016-08-04,Requester,Jawa Barat
+E00843,Ayu Sri Halim,Fatmawati,KC,Relationship Manager,0.0,2017-03-05,Requester,DKI Jakarta
+E00844,Kartika Putra Daulay,Jakarta Pluit,KC,Credit Analyst,0.0,2017-12-08,Requester,DKI Jakarta
+E00845,Agus Putra Susanto,Bandung,KC,Relationship Manager,0.0,2015-11-29,Requester,Jawa Barat
+E00846,Hadi Harahap,Juanda,KCP,Credit Analyst,0.0,2020-10-12,Requester,Jawa Timur
+E00847,Nur Nur Nugroho,Batam,KC,Relationship Manager,0.0,2013-05-22,Requester,Sumatera
+E00848,Siti Putra Utami,Jatiuwung,KCP,Relationship Manager,0.0,2022-08-27,Requester,Banten
+E00849,Siti Utami,Gresik,KC,Credit Analyst,0.0,2015-07-17,Requester,Jawa Timur
+E00850,Fitri Adi Nasution,Tangerang,KC,Relationship Manager,0.0,2012-04-09,Requester,Banten
+E00851,Taufik Adi Susanto,Rengasdengklok,KCP,Relationship Manager,0.0,2012-08-17,Requester,Jawa Barat
+E00852,Nadia Tri Maulana,Bandung,KC,Relationship Manager,0.0,2017-04-01,Requester,Jawa Barat
+E00853,Nur Susanto,Serang,KC,Relationship Manager,0.0,2019-12-03,Requester,Banten
+E00854,Joko Dwi Setiawan,Margonda,KCP,Relationship Manager,0.0,2015-11-27,Requester,Jawa Barat
+E00855,Agus Nur Daulay,Gajah Mada,KCP,Staff (unspecified),0.0,2012-10-11,Requester,DKI Jakarta
+E00856,Gita Sri Kurniawan,Jakarta Timur,KC,Relationship Manager,0.0,2017-03-06,Requester,DKI Jakarta
+E00857,Andi Sri Halim,Serang,KC,Relationship Manager,0.0,2016-06-18,Requester,Banten
+E00858,Budi Putra Lestari,Jatiuwung,KCP,Relationship Manager,0.0,2020-07-19,Requester,Banten
+E00859,Intan Tri Halim,Malang,KC,Branch Manager,1000000000.0,2015-06-30,Approver,Jawa Timur
+E00860,Fitri Sri Pratama,JIExpo Kemayoran,KCP,Relationship Manager,0.0,2012-08-05,Requester,DKI Jakarta
+E00861,Taufik Wijaya,Jombang,KC,Relationship Manager,0.0,2019-01-13,Requester,Jawa Timur
+E00862,Lina Tri Permata,JIExpo Kemayoran,KCP,Relationship Manager,0.0,2012-02-09,Requester,DKI Jakarta
+E00863,Sari Tri Kusuma,Pamulang,KCP,Credit Analyst,0.0,2023-10-20,Requester,Banten
+E00864,Fitri Sri Kurniawan,Cikampek,KCP,Relationship Manager,0.0,2019-11-20,Requester,Jawa Barat
+E00865,Bayu Dwi Setiawan,Tangerang,KC,Credit Analyst,0.0,2014-04-14,Requester,Banten
+E00866,Kartika Nur Ramadhan,Sandubaya,KCP,Relationship Manager,0.0,2025-08-31,Requester,Nusa Tenggara
+E00867,Lukman Ramadhan,JIExpo Kemayoran,KCP,Credit Analyst,0.0,2012-08-13,Requester,DKI Jakarta
+E00868,Hendra Nur Santoso,Padang,KC,Relationship Manager,0.0,2013-09-07,Requester,Sumatera
+E00869,Intan Putra Nugroho,Kanaka,KCP,Relationship Manager,0.0,2017-11-28,Requester,Sulawesi
+E00870,Fitri Siregar,Jakarta Pluit,KC,Relationship Manager,0.0,2014-06-07,Requester,DKI Jakarta
+E00871,Wahyu Dwi Simanjuntak,JIExpo Kemayoran,KCP,Credit Analyst,0.0,2021-05-08,Requester,DKI Jakarta
+E00872,Yusuf Dwi Tanjung,Pekanbaru,KC,Credit Analyst,0.0,2019-12-07,Requester,Sumatera
+E00873,Maya Putra Maulana,BSD,KC,Relationship Manager,0.0,2016-09-12,Requester,Banten
+E00874,Rizky Dwi Santoso,Rengasdengklok,KCP,Relationship Manager,0.0,2013-04-22,Requester,Jawa Barat
+E00875,Joko Adi Maulana,Cibinong,KC,Relationship Manager,0.0,2018-08-05,Requester,Jawa Barat
+E00876,Indra Sri Maulana,Karawang,KC,Credit Analyst,0.0,2019-04-18,Requester,Jawa Barat
+E00877,Yanti Dwi Wijaya,Margonda,KCP,Credit Analyst,0.0,2018-03-13,Requester,Jawa Barat
+E00878,Slamet Nur Hakim,JIExpo Kemayoran,KCP,Credit Analyst,0.0,2014-08-02,Requester,DKI Jakarta
+E00879,Fajar Dwi Tanjung,Padang,KC,Relationship Manager,0.0,2019-01-08,Requester,Sumatera
+E00880,Siti Nur Santoso,Sandubaya,KCP,Sub Branch Manager (AVP/MGR),250000000.0,2012-07-01,Approver,Nusa Tenggara
+E00881,Yusuf Dwi Harahap,BSD,KC,Relationship Manager,0.0,2015-09-13,Requester,Banten
+E00882,Yanti Tri Siregar,Jakarta Pluit,KC,Relationship Manager,0.0,2012-03-18,Requester,DKI Jakarta
+E00883,Sari Adi Hakim,Fatmawati,KC,Credit Analyst,0.0,2025-08-20,Requester,DKI Jakarta
+E00884,Galih Utami,Margonda,KCP,Credit Analyst,0.0,2018-09-27,Requester,Jawa Barat
+E00885,Budi Tri Daulay,Malang,KC,Relationship Manager,0.0,2019-05-08,Requester,Jawa Timur
+E00886,Sari Sri Setiawan,Karawang,KC,Branch Manager,1000000000.0,2019-10-07,Approver,Jawa Barat
+E00887,Kartika Dwi Wibowo,Cimone,KCP,Relationship Manager,0.0,2016-04-10,Requester,Banten
+E00888,Andi Dwi Tanjung,Serang,KC,Relationship Manager,0.0,2014-02-01,Requester,Banten
+E00889,Gita Dwi Gunawan,Kanaka,KCP,Relationship Manager,0.0,2012-02-25,Requester,Sulawesi
+E00890,Andi Sri Hidayat,Jombang,KC,Relationship Manager,0.0,2012-11-29,Requester,Jawa Timur
+E00891,Bayu Dwi Simanjuntak,Tangerang,KC,Relationship Manager,0.0,2013-12-18,Requester,Banten
+E00892,Bayu Nur Susanto,Bekasi,KC,Relationship Manager,0.0,2022-03-13,Requester,Jawa Barat
+E00893,Lukman Dwi Permata,Sutomo,KCP,Relationship Manager,0.0,2019-08-29,Requester,Jawa Timur
+E00894,Indra Nugroho,Kanaka,KCP,Relationship Manager,0.0,2021-08-19,Requester,Sulawesi
+E00895,Fajar Tri Permata,Arief Rate,KCP,Relationship Manager,0.0,2025-09-19,Requester,Sulawesi
+E00896,Teguh Nur Hidayat,Margonda,KCP,Relationship Manager,0.0,2020-02-20,Requester,Jawa Barat
+E00897,Ratna Sri Firmansyah,Serang,KC,Business Branch Manager,400000000.0,2012-05-18,Approver,Banten
+E00898,Joko Putra Siregar,Dieng,KCP,Relationship Manager,0.0,2016-11-10,Requester,Jawa Timur
+E00899,Yanti Maulana,Gresik,KC,Relationship Manager,0.0,2021-01-24,Requester,Jawa Timur
+E00900,Nur Tri Kusuma,Pekanbaru,KC,Relationship Manager,0.0,2015-08-18,Requester,Sumatera
+E00901,Indra Dwi Simanjuntak,Tasikmalaya,KC,Relationship Manager,0.0,2018-04-02,Requester,Jawa Barat
+E00902,Joko Adi Kusuma,Kanaka,KCP,Sub Branch Manager (AMGR),150000000.0,2018-04-02,Approver,Sulawesi
+E00903,Ayu Adi Gunawan,Surabaya,KC,Relationship Manager,0.0,2013-04-07,Requester,Jawa Timur
+E00904,Maya Putra Santoso,Batam,KC,Relationship Manager,0.0,2015-01-29,Requester,Sumatera
+E00905,Indra Tri Setiawan,Cikarang Central City,KCP,Relationship Manager,0.0,2018-12-12,Requester,Jawa Barat
+E00906,Wahyu Tri Nugroho,Serang,KC,Relationship Manager,0.0,2012-04-29,Requester,Banten
+E00907,Nadia Putra Permata,Tasikmalaya,KC,Relationship Manager,0.0,2024-10-25,Requester,Jawa Barat
+E00908,Yusuf Nur Anggraini,Karawang,KC,Relationship Manager,0.0,2020-08-07,Requester,Jawa Barat
+E00909,Budi Dwi Kurniawan,Kutabumi,KCP,Relationship Manager,0.0,2024-04-30,Requester,Banten
+E00910,Mega Hidayat,Jakarta Kota,KC,Credit Analyst,0.0,2019-09-13,Requester,DKI Jakarta
+E00911,Siti Sri Setiawan,Cikampek,KCP,Relationship Manager,0.0,2024-08-28,Requester,Jawa Barat
+E00912,Andi Tri Maulana,Serang,KC,Relationship Manager,0.0,2014-01-15,Requester,Banten
+E00913,Rizky Tri Maulana,Padang,KC,Branch Manager,1000000000.0,2013-01-17,Approver,Sumatera
+E00914,Dimas Tri Tanjung,Jababeka,KCP,Relationship Manager,0.0,2013-04-19,Requester,Jawa Barat
+E00915,Gita Putra Nugroho,Tangerang,KC,Credit Analyst,0.0,2019-10-08,Requester,Banten
+E00916,Ratna Nur Syahputra,Jakarta Kota,KC,Relationship Manager,0.0,2014-07-02,Requester,DKI Jakarta
+E00917,Yanti Putra Saputra,Padang,KC,Relationship Manager,0.0,2015-04-13,Requester,Sumatera
+E00918,Hadi Dwi Rahmawati,Bogor,KC,Relationship Manager,0.0,2013-07-04,Requester,Jawa Barat
+E00919,Dimas Nur Setiawan,Margonda,KCP,Relationship Manager,0.0,2015-02-10,Requester,Jawa Barat
+E00920,Hendra Dwi Wijaya,Gresik,KC,Credit Analyst,0.0,2024-05-04,Requester,Jawa Timur
+E00921,Oscar Nur Halim,Arief Rate,KCP,Credit Analyst,0.0,2025-05-12,Requester,Sulawesi
+E00922,Joko Dwi Wibowo,Cikarang Central City,KCP,Credit Analyst,0.0,2017-04-23,Requester,Jawa Barat
+E00923,Bayu Nur Nugroho,Sutomo,KCP,Credit Analyst,0.0,2016-05-16,Requester,Jawa Timur
+E00924,Lina Sri Siregar,Jababeka,KCP,Credit Analyst,0.0,2015-08-08,Requester,Jawa Barat
+E00925,Taufik Putra Hakim,Palima,KCP,Relationship Manager,0.0,2019-11-21,Requester,Banten
+E00926,Joko Dwi Lestari,Gresik,KC,Relationship Manager,0.0,2015-02-27,Requester,Jawa Timur
+E00927,Siti Nur Maulana,Margonda,KCP,Relationship Manager,0.0,2023-08-21,Requester,Jawa Barat
+E00928,Sari Sri Tanjung,Serang,KC,Relationship Manager,0.0,2013-02-26,Requester,Banten
+E00929,Taufik Tri Harahap,Sutomo,KCP,Relationship Manager,0.0,2017-10-06,Requester,Jawa Timur
+E00930,Dian Nur Simanjuntak,Gajah Mada,KCP,Sub Branch Manager (AVP/MGR),250000000.0,2006-07-05,Approver,DKI Jakarta
+E00931,Lina Ramadhan,Wonosari,KCP,Relationship Manager,0.0,2018-08-21,Requester,Jawa Tengah & DIY
+E00932,Rizky Dwi Permata,Jakarta Kota,KC,Relationship Manager,0.0,2014-09-07,Requester,DKI Jakarta
+E00933,Bayu Putra Maulana,Fatmawati,KC,Credit Analyst,0.0,2015-12-16,Requester,DKI Jakarta
+E00934,Sari Putra Tanjung,Bogor,KC,Relationship Manager,0.0,2012-07-24,Requester,Jawa Barat
+E00935,Dewi Putra Santoso,Padang,KC,Relationship Manager,0.0,2015-02-26,Requester,Sumatera
+E00936,Slamet Sri Daulay,BSD,KC,Relationship Manager,0.0,2019-06-10,Requester,Banten
+E00937,Wahyu Putra Lestari,Bandung,KC,Relationship Manager,0.0,2019-01-23,Requester,Jawa Barat
+E00938,Sari Daulay,Bekasi,KC,Branch Manager,1000000000.0,2015-10-20,Approver,Jawa Barat
+E00939,Dian Putra Siregar,Tambun,KCP,Relationship Manager,0.0,2013-05-20,Requester,Jawa Barat
+E00940,Dian Sri Santoso,Karawang,KC,Credit Analyst,0.0,2013-04-23,Requester,Jawa Barat
+E00941,Ratna Santoso,Bogor,KC,Credit Analyst,0.0,2020-10-23,Requester,Jawa Barat
+E00942,Dewi Sri Susanto,Gresik,KC,Relationship Manager,0.0,2016-01-10,Requester,Jawa Timur
+E00943,Agus Putra Anggraini,BSD,KC,Credit Analyst,0.0,2018-02-20,Requester,Banten
+E00944,Maya Dwi Nasution,Jakarta Timur,KC,Relationship Manager,0.0,2015-12-11,Requester,DKI Jakarta
+E00945,Galih Saputra,Jatiuwung,KCP,Credit Analyst,0.0,2017-09-30,Requester,Banten
+E00946,Mega Nur Rahmawati,Cikampek,KCP,Credit Analyst,0.0,2012-11-30,Requester,Jawa Barat
+E00947,Sari Tri Setiawan,Jatiuwung,KCP,Relationship Manager,0.0,2017-02-16,Requester,Banten
+E00948,Budi Sri Hidayat,Pekanbaru,KC,Relationship Manager,0.0,2019-01-14,Requester,Sumatera
+E00949,Eko Dwi Nugroho,Palima,KCP,Relationship Manager,0.0,2023-03-18,Requester,Banten
+E00950,Sari Adi Susanto,Sidokarto,KCP,Relationship Manager,0.0,2014-08-15,Requester,Jawa Tengah & DIY
+E00951,Sari Putra Lestari,Jombang,KC,Relationship Manager,0.0,2018-06-24,Requester,Jawa Timur
+E00952,Teguh Sri Rahmawati,Fatmawati,KC,Relationship Manager,0.0,2015-11-06,Requester,DKI Jakarta
+E00953,Fajar Halim,Karawang,KC,Relationship Manager,0.0,2018-06-11,Requester,Jawa Barat
+E00954,Galih Adi Kusuma,Jakarta Timur,KC,Relationship Manager,0.0,2025-06-23,Requester,DKI Jakarta
+E00955,Galih Dwi Halim,Kutabumi,KCP,Credit Analyst,0.0,2012-04-04,Requester,Banten
+E00956,Nur Putra Setiawan,Palima,KCP,Relationship Manager,0.0,2012-06-08,Requester,Banten
+E00957,Fajar Sri Anggraini,Tasikmalaya,KC,Credit Analyst,0.0,2016-12-05,Requester,Jawa Barat
+E00958,Yusuf Adi Tanjung,Gresik,KC,Relationship Manager,0.0,2020-06-17,Requester,Jawa Timur
+E00959,Nadia Nur Kusuma,Jakarta Timur,KC,Relationship Manager,0.0,2020-06-17,Requester,DKI Jakarta
+E00960,Ratna Putra Hidayat,Makassar,KC,Relationship Manager,0.0,2015-07-08,Requester,Sulawesi
+E00961,Eko Dwi Permata,Padang,KC,Relationship Manager,0.0,2014-01-18,Requester,Sumatera
+E00962,Maya Sri Kurniawan,Wonosari,KCP,Sub Branch Manager (AMGR),150000000.0,2010-07-29,Approver,Jawa Tengah & DIY
+E00963,Fajar Tri Daulay,Gajah Mada,KCP,Relationship Manager,0.0,2020-04-24,Requester,DKI Jakarta
+E00964,Gita Nur Pratama,Kutabumi,KCP,Credit Analyst,0.0,2012-12-07,Requester,Banten
+E00965,Bayu Putra Wijaya,Makassar,KC,Relationship Manager,0.0,2013-06-13,Requester,Sulawesi
+E00966,Agus Halim,Gresik,KC,Relationship Manager,0.0,2014-04-25,Requester,Jawa Timur
+E00967,Teguh Adi Wibowo,Pekanbaru,KC,Relationship Manager,0.0,2017-08-22,Requester,Sumatera
+E00968,Yanti Dwi Daulay,Fatmawati,KC,Branch Manager,1000000000.0,2009-12-11,Approver,DKI Jakarta
+E00969,Fitri Tri Maulana,Bogor,KC,Credit Analyst,0.0,2016-04-10,Requester,Jawa Barat
+E00970,Dewi Nur Nasution,Makassar,KC,Business Branch Manager,400000000.0,2007-11-21,Approver,Sulawesi
+E00971,Yanti Tri Saputra,Gresik,KC,Relationship Manager,0.0,2025-04-16,Requester,Jawa Timur
+E00972,Fajar Putra Utami,Bogor,KC,Relationship Manager,0.0,2017-03-30,Requester,Jawa Barat
+E00973,Maya Pratama,Serang,KC,Credit Analyst,0.0,2013-01-12,Requester,Banten
+E00974,Dian Adi Hidayat,Batam,KC,Credit Analyst,0.0,2017-12-05,Requester,Sumatera
+E00975,Bayu Sri Firmansyah,Surabaya,KC,Credit Analyst,0.0,2015-05-21,Requester,Jawa Timur
+E00976,Wahyu Daulay,Surabaya,KC,Relationship Manager,0.0,2012-06-20,Requester,Jawa Timur
+E00977,Intan Nur Santoso,Sidokarto,KCP,Sub Branch Manager (AVP/MGR),250000000.0,2017-08-25,Approver,Jawa Tengah & DIY
+E00978,Mega Setiawan,Tangerang,KC,Relationship Manager,0.0,2014-08-20,Requester,Banten
+E00979,Sari Sri Wijaya,Cikampek,KCP,Relationship Manager,0.0,2012-08-04,Requester,Jawa Barat
+E00980,Ayu Nur Anggraini,Dieng,KCP,Credit Analyst,0.0,2016-02-05,Requester,Jawa Timur
+E00981,Maya Sri Utami,Jababeka,KCP,Sub Branch Manager (AVP/MGR),250000000.0,2020-01-09,Approver,Jawa Barat
+E00982,Budi Sri Saputra,Cibinong,KC,Relationship Manager,0.0,2019-04-02,Requester,Jawa Barat
+E00983,Galih Tri Wibowo,Pekanbaru,KC,Credit Analyst,0.0,2020-08-20,Requester,Sumatera
+E00984,Rizky Putra Harahap,Cikampek,KCP,Relationship Manager,0.0,2013-05-30,Requester,Jawa Barat
+E00985,Kartika Putra Wijaya,Cikampek,KCP,Relationship Manager,0.0,2018-01-31,Requester,Jawa Barat
+E00986,Nur Sri Anggraini,BSD,KC,Relationship Manager,0.0,2023-04-28,Requester,Banten
+E00987,Eko Adi Simanjuntak,Batam,KC,Credit Analyst,0.0,2021-03-28,Requester,Sumatera
+E00988,Yanti Nur Maulana,Tangerang,KC,Relationship Manager,0.0,2023-03-01,Requester,Banten
+E00989,Galih Putra Siregar,Cibinong,KC,Relationship Manager,0.0,2018-05-17,Requester,Jawa Barat
+E00990,Teguh Adi Rahmawati,Fatmawati,KC,Credit Analyst,0.0,2015-08-10,Requester,DKI Jakarta
+E00991,Kartika Sri Maulana,Jombang,KC,Relationship Manager,0.0,2019-08-14,Requester,Jawa Timur
+E00992,Nur Nur Halim,Bogor,KC,Relationship Manager,0.0,2018-07-09,Requester,Jawa Barat
+E00993,Galih Ramadhan,BSD,KC,Relationship Manager,0.0,2016-10-19,Requester,Banten
+E00994,Oscar Tri Anggraini,Malang,KC,Relationship Manager,0.0,2012-01-24,Requester,Jawa Timur
+E00995,Joko Sri Lestari,Jakarta Timur,KC,Credit Analyst,0.0,2012-09-14,Requester,DKI Jakarta
+E00996,Kartika Nur Anggraini,Serang,KC,Credit Analyst,0.0,2017-10-11,Requester,Banten
+E00997,Mega Tri Hidayat,Batam,KC,Credit Analyst,0.0,2023-05-31,Requester,Sumatera
+E00998,Slamet Dwi Tanjung,Jatiuwung,KCP,Relationship Manager,0.0,2016-04-03,Requester,Banten
+E00999,Taufik Daulay,Malang,KC,Relationship Manager,0.0,2018-11-01,Requester,Jawa Timur
+E01000,Nur Sri Ramadhan,Makassar,KC,Relationship Manager,0.0,2020-04-05,Requester,Sulawesi
+E01001,Lina Dwi Nugroho,JIExpo Kemayoran,KCP,Sub Branch Manager (AMGR),150000000.0,2017-11-19,Approver,DKI Jakarta
+E01002,Lukman Kusuma,Arief Rate,KCP,Relationship Manager,0.0,2018-01-22,Requester,Sulawesi
+E01003,Taufik Putra Gunawan,Jakarta Pluit,KC,Relationship Manager,0.0,2017-05-30,Requester,DKI Jakarta
+E01004,Galih Dwi Simanjuntak,JIExpo Kemayoran,KCP,Relationship Manager,0.0,2025-03-08,Requester,DKI Jakarta
+E01005,Andi Siregar,BSD,KC,Relationship Manager,0.0,2022-05-01,Requester,Banten
+E01006,Kartika Anggraini,Bandung,KC,Credit Analyst,0.0,2024-12-21,Requester,Jawa Barat
+E01007,Dewi Nur Tanjung,Margonda,KCP,Credit Analyst,0.0,2013-12-14,Requester,Jawa Barat
+E01008,Andi Adi Wibowo,BSD,KC,Relationship Manager,0.0,2018-09-19,Requester,Banten
+E01009,Yanti Adi Maulana,Palima,KCP,Credit Analyst,0.0,2024-05-27,Requester,Banten
+E01010,Ratna Tri Siregar,Batam,KC,Relationship Manager,0.0,2022-01-30,Requester,Sumatera
+E01011,Dewi Putra Ramadhan,Sidokarto,KCP,Relationship Manager,0.0,2013-04-28,Requester,Jawa Tengah & DIY
+E01012,Andi Nur Lestari,Sandubaya,KCP,Relationship Manager,0.0,2012-11-16,Requester,Nusa Tenggara
+E01013,Dian Putra Wijaya,Sandubaya,KCP,Relationship Manager,0.0,2013-03-17,Requester,Nusa Tenggara
+E01014,Bayu Adi Utami,Wonosari,KCP,Sub Branch Manager (AVP/MGR),250000000.0,2009-07-03,Approver,Jawa Tengah & DIY
+E01015,Slamet Adi Harahap,Jakarta Timur,KC,Relationship Manager,0.0,2017-06-10,Requester,DKI Jakarta
+E01016,Oscar Nur Nugroho,Dieng,KCP,Credit Analyst,0.0,2016-10-31,Requester,Jawa Timur
+E01017,Agus Tri Setiawan,Bekasi,KC,Relationship Manager,0.0,2014-06-25,Requester,Jawa Barat
+E01018,Endang Nur Harahap,Tangerang,KC,Business Branch Manager,400000000.0,2014-12-28,Approver,Banten
+E01019,Dimas Adi Syahputra,Cibinong,KC,Relationship Manager,0.0,2017-09-16,Requester,Jawa Barat
+E01020,Rizky Putra Siregar,Jakarta Kota,KC,Staff (unspecified),0.0,2017-06-17,Requester,DKI Jakarta
+E01021,Siti Putra Wibowo,Karawang,KC,Relationship Manager,0.0,2025-10-28,Requester,Jawa Barat
+E01022,Andi Sri Utami,Surabaya,KC,Relationship Manager,0.0,2014-10-07,Requester,Jawa Timur
+E01023,Joko Nur Permata,Cikarang Central City,KCP,Sub Branch Manager (AVP/MGR),250000000.0,2007-07-01,Approver,Jawa Barat
+E01024,Hadi Nur Harahap,Cikampek,KCP,Sub Branch Manager (AMGR),150000000.0,2009-09-08,Approver,Jawa Barat
+E01025,Wahyu Putra Hakim,Modernland,KCP,Sub Branch Manager (AVP/MGR),250000000.0,2006-10-18,Approver,Banten
+E01026,Rina Nur Firmansyah,Cimone,KCP,Relationship Manager,0.0,2017-04-04,Requester,Banten
+E01027,Putri Nugroho,Jatiuwung,KCP,Relationship Manager,0.0,2018-04-11,Requester,Banten
+E01028,Endang Sri Wijaya,Jababeka,KCP,Relationship Manager,0.0,2017-01-17,Requester,Jawa Barat
+E01029,Andi Nugroho,Sandubaya,KCP,Relationship Manager,0.0,2012-08-29,Requester,Nusa Tenggara
+E01030,Wahyu Dwi Maulana,Surabaya,KC,Relationship Manager,0.0,2026-03-26,Requester,Jawa Timur
+E01031,Hadi Putra Syahputra,Surabaya,KC,Relationship Manager,0.0,2022-01-20,Requester,Jawa Timur
+E01032,Lukman Dwi Nugroho,Kutabumi,KCP,Relationship Manager,0.0,2012-01-13,Requester,Banten
+E01033,Hendra Tanjung,Pekanbaru,KC,Relationship Manager,0.0,2024-01-19,Requester,Sumatera
+E01034,Nur Nur Wibowo,Batam,KC,Business Branch Manager,400000000.0,2006-08-03,Approver,Sumatera
+E01035,Rizky Dwi Wijaya,Bogor,KC,Relationship Manager,0.0,2013-06-22,Requester,Jawa Barat
+E01036,Dewi Ramadhan,Wonosari,KCP,Credit Analyst,0.0,2017-03-05,Requester,Jawa Tengah & DIY
+E01037,Oscar Dwi Gunawan,Pamulang,KCP,Relationship Manager,0.0,2014-02-17,Requester,Banten
+E01038,Intan Sri Lestari,Fatmawati,KC,Relationship Manager,0.0,2020-04-25,Requester,DKI Jakarta
+E01039,Dewi Putra Siregar,Malang,KC,Relationship Manager,0.0,2020-03-02,Requester,Jawa Timur
+E01040,Eko Sri Kurniawan,Cimone,KCP,Sub Branch Manager (AMGR),150000000.0,2019-06-21,Approver,Banten
+E01041,Maya Adi Utami,Jakarta Timur,KC,Relationship Manager,0.0,2019-08-27,Requester,DKI Jakarta
+E01042,Dewi Tri Nugroho,Cibinong,KC,Relationship Manager,0.0,2024-03-13,Requester,Jawa Barat
+E01043,Wahyu Sri Anggraini,Makassar,KC,Credit Analyst,0.0,2018-11-06,Requester,Sulawesi
+E01044,Fitri Tri Harahap,Tangerang,KC,Relationship Manager,0.0,2017-08-04,Requester,Banten
+E01045,Lukman Putra Harahap,JIExpo Kemayoran,KCP,Relationship Manager,0.0,2019-08-22,Requester,DKI Jakarta
+E01046,Putri Nur Anggraini,Malang,KC,Relationship Manager,0.0,2012-02-11,Requester,Jawa Timur
+E01047,Rina Pratama,Jakarta Kota,KC,Credit Analyst,0.0,2015-05-08,Requester,DKI Jakarta
+E01048,Budi Sri Utami,Malang,KC,Relationship Manager,0.0,2020-03-15,Requester,Jawa Timur
+E01049,Joko Sri Hakim,Gajah Mada,KCP,Relationship Manager,0.0,2019-05-16,Requester,DKI Jakarta
+E01050,Citra Tri Halim,Fatmawati,KC,Relationship Manager,0.0,2016-10-16,Requester,DKI Jakarta
+E01051,Joko Tri Kusuma,Pekanbaru,KC,Relationship Manager,0.0,2015-08-21,Requester,Sumatera
+E01052,Maya Sri Susanto,Padang,KC,Credit Analyst,0.0,2020-05-15,Requester,Sumatera
+E01053,Ayu Nur Maulana,Jakarta Pluit,KC,Relationship Manager,0.0,2023-06-22,Requester,DKI Jakarta
+E01054,Teguh Adi Wijaya,Bogor,KC,Relationship Manager,0.0,2025-09-22,Requester,Jawa Barat
+E01055,Galih Sri Gunawan,Cibinong,KC,Relationship Manager,0.0,2013-06-20,Requester,Jawa Barat
+E01056,Lukman Daulay,BSD,KC,Relationship Manager,0.0,2013-01-16,Requester,Banten
+E01057,Citra Sri Hidayat,Bogor,KC,Credit Analyst,0.0,2018-06-11,Requester,Jawa Barat
+E01058,Dimas Adi Setiawan,Pekanbaru,KC,Relationship Manager,0.0,2019-06-09,Requester,Sumatera
+E01059,Fajar Sri Hakim,Jombang,KC,Relationship Manager,0.0,2017-10-14,Requester,Jawa Timur
+E01060,Rina Putra Kusuma,Fatmawati,KC,Relationship Manager,0.0,2015-03-12,Requester,DKI Jakarta
+E01061,Taufik Dwi Santoso,Kutabumi,KCP,Relationship Manager,0.0,2014-07-13,Requester,Banten
+E01062,Ayu Hakim,Bandung,KC,Relationship Manager,0.0,2026-02-20,Requester,Jawa Barat
+E01063,Rina Sri Siregar,Palima,KCP,Credit Analyst,0.0,2015-09-25,Requester,Banten
+E01064,Taufik Tri Hidayat,Cibinong,KC,Relationship Manager,0.0,2015-06-11,Requester,Jawa Barat
+E01065,Citra Nur Wijaya,Surabaya,KC,Relationship Manager,0.0,2015-09-21,Requester,Jawa Timur
+E01066,Joko Purnomo,Jatiuwung,KCP,Relationship Manager,0.0,2012-11-18,Requester,Banten
+E01067,Mega Putra Firmansyah,Batam,KC,Business Branch Manager,400000000.0,2006-10-17,Approver,Sumatera
+E01068,Agus Nasution,Jakarta Timur,KC,Relationship Manager,0.0,2017-06-09,Requester,DKI Jakarta
+E01069,Lina Sri Tanjung,Jakarta Timur,KC,Credit Analyst,0.0,2018-09-12,Requester,DKI Jakarta
+E01070,Oscar Tri Daulay,Jatiuwung,KCP,Credit Analyst,0.0,2013-04-23,Requester,Banten
+E01071,Joko Nur Wijaya,Pekanbaru,KC,Relationship Manager,0.0,2012-09-16,Requester,Sumatera
+E01072,Dimas Susanto,Modernland,KCP,Relationship Manager,0.0,2012-02-10,Requester,Banten
+E01073,Ayu Putra Pratama,Padang,KC,Relationship Manager,0.0,2021-02-22,Requester,Sumatera
+E01074,Mega Dwi Hakim,Jakarta Pluit,KC,Relationship Manager,0.0,2024-04-04,Requester,DKI Jakarta
+E01075,Hendra Tri Halim,Sandubaya,KCP,Relationship Manager,0.0,2017-03-14,Requester,Nusa Tenggara
+E01076,Yanti Adi Firmansyah,Jatiuwung,KCP,Sub Branch Manager (AMGR),150000000.0,2016-09-23,Approver,Banten
+E01077,Oscar Nur Setiawan,Batam,KC,Relationship Manager,0.0,2017-09-09,Requester,Sumatera
+E01078,Ratna Adi Wijaya,Padang,KC,Relationship Manager,0.0,2019-04-15,Requester,Sumatera
+E01079,Ayu Tri Permata,Surabaya,KC,Relationship Manager,0.0,2026-03-14,Requester,Jawa Timur
+E01080,Rina Putra Kurniawan,Batam,KC,Credit Analyst,0.0,2018-06-25,Requester,Sumatera
+E01081,Galih Sri Siregar,Jababeka,KCP,Relationship Manager,0.0,2018-05-27,Requester,Jawa Barat
+E01082,Maya Dwi Setiawan,Jakarta Pluit,KC,Credit Analyst,0.0,2017-12-19,Requester,DKI Jakarta
+E01083,Maya Adi Purnomo,Jakarta Kota,KC,Credit Analyst,0.0,2016-03-24,Requester,DKI Jakarta
+E01084,Nadia Kusuma,Arief Rate,KCP,Relationship Manager,0.0,2019-12-25,Requester,Sulawesi
+E01085,Lina Putra Syahputra,Serang,KC,Relationship Manager,0.0,2024-08-02,Requester,Banten
+E01086,Nur Nur Kurniawan,Surabaya,KC,Relationship Manager,0.0,2018-08-13,Requester,Jawa Timur
+E01087,Galih Dwi Pratama,Tangerang,KC,Credit Analyst,0.0,2018-01-29,Requester,Banten
+E01088,Yanti Dwi Simanjuntak,Batam,KC,Credit Analyst,0.0,2016-01-10,Requester,Sumatera
+E01089,Andi Adi Lestari,Jakarta Pluit,KC,Credit Analyst,0.0,2023-05-20,Requester,DKI Jakarta
+E01090,Taufik Nur Wijaya,Sandubaya,KCP,Relationship Manager,0.0,2014-05-06,Requester,Nusa Tenggara
+E01091,Intan Adi Hidayat,Jakarta Timur,KC,Credit Analyst,0.0,2016-08-01,Requester,DKI Jakarta
+E01092,Endang Nugroho,Batam,KC,Relationship Manager,0.0,2015-08-01,Requester,Sumatera
+E01093,Nadia Adi Lestari,Jombang,KC,Relationship Manager,0.0,2016-06-15,Requester,Jawa Timur
+E01094,Eko Wibowo,Margonda,KCP,Relationship Manager,0.0,2015-05-19,Requester,Jawa Barat
+E01095,Galih Nur Maulana,JIExpo Kemayoran,KCP,Relationship Manager,0.0,2019-06-09,Requester,DKI Jakarta
+E01096,Lina Putra Gunawan,Rengasdengklok,KCP,Credit Analyst,0.0,2014-12-13,Requester,Jawa Barat
+E01097,Siti Sri Pratama,Karawang,KC,Relationship Manager,0.0,2018-01-23,Requester,Jawa Barat
+E01098,Dewi Nur Simanjuntak,Pekanbaru,KC,Relationship Manager,0.0,2015-07-10,Requester,Sumatera
+E01099,Siti Sri Utami,Wonosari,KCP,Relationship Manager,0.0,2015-01-24,Requester,Jawa Tengah & DIY
+E01100,Ayu Wijaya,Malang,KC,Relationship Manager,0.0,2014-02-12,Requester,Jawa Timur
+E01101,Citra Tri Wibowo,Bogor,KC,Credit Analyst,0.0,2017-05-21,Requester,Jawa Barat
+E01102,Hendra Nur Hakim,Pamulang,KCP,Relationship Manager,0.0,2017-05-06,Requester,Banten
+E01103,Dimas Kusuma,Surabaya,KC,Relationship Manager,0.0,2013-12-02,Requester,Jawa Timur
+E01104,Sari Putra Rahmawati,Jakarta Timur,KC,Relationship Manager,0.0,2014-05-28,Requester,DKI Jakarta
+E01105,Rina Putra Gunawan,Jakarta Pluit,KC,Relationship Manager,0.0,2015-01-05,Requester,DKI Jakarta
+E01106,Lina Sri Syahputra,Bekasi,KC,Relationship Manager,0.0,2014-09-18,Requester,Jawa Barat
+E01107,Budi Putra Kusuma,Gresik,KC,Relationship Manager,0.0,2015-04-17,Requester,Jawa Timur
+E01108,Kartika Nur Setiawan,Kutabumi,KCP,Relationship Manager,0.0,2012-09-11,Requester,Banten
+E01109,Sari Tri Santoso,Gresik,KC,Credit Analyst,0.0,2016-04-12,Requester,Jawa Timur
+E01110,Fajar Adi Daulay,Modernland,KCP,Credit Analyst,0.0,2014-10-16,Requester,Banten
+E01111,Kartika Tri Saputra,Jababeka,KCP,Sub Branch Manager (AMGR),150000000.0,2014-12-22,Approver,Jawa Barat
+E01112,Yanti Nur Purnomo,Kanaka,KCP,Relationship Manager,0.0,2018-12-18,Requester,Sulawesi
+E01113,Yusuf Putra Permata,Tangerang,KC,Credit Analyst,0.0,2023-11-18,Requester,Banten
+E01114,Hendra Nur Nugroho,Jakarta Pluit,KC,Relationship Manager,0.0,2025-11-09,Requester,DKI Jakarta
+E01115,Dian Adi Saputra,Sidokarto,KCP,Credit Analyst,0.0,2014-03-12,Requester,Jawa Tengah & DIY
+E01116,Citra Tri Lestari,Bogor,KC,Relationship Manager,0.0,2017-04-27,Requester,Jawa Barat
+E01117,Dian Adi Wibowo,Cimone,KCP,Credit Analyst,0.0,2016-04-11,Requester,Banten
+E01118,Citra Nur Maulana,Bogor,KC,Relationship Manager,0.0,2015-12-29,Requester,Jawa Barat
+E01119,Bayu Nur Daulay,Jombang,KC,Relationship Manager,0.0,2017-04-07,Requester,Jawa Timur
+E01120,Fitri Gunawan,Bandung,KC,Business Branch Manager,400000000.0,2009-06-28,Approver,Jawa Barat
+E01121,Taufik Sri Anggraini,BSD,KC,Business Branch Manager,400000000.0,2014-03-01,Approver,Banten
+E01122,Indra Dwi Santoso,Serang,KC,Relationship Manager,0.0,2013-11-13,Requester,Banten
+E01123,Maya Tanjung,Rengasdengklok,KCP,Sub Branch Manager (AMGR),150000000.0,2014-07-03,Approver,Jawa Barat
+E01124,Eko Siregar,Bekasi,KC,Relationship Manager,0.0,2017-03-11,Requester,Jawa Barat
+E01125,Ayu Putra Purnomo,Jakarta Timur,KC,Credit Analyst,0.0,2013-08-07,Requester,DKI Jakarta
+E01126,Nur Putra Kusuma,Cimone,KCP,Relationship Manager,0.0,2013-02-01,Requester,Banten
+E01127,Mega Sri Syahputra,Serang,KC,Relationship Manager,0.0,2022-11-17,Requester,Banten
+E01128,Putri Nur Firmansyah,Cibinong,KC,Relationship Manager,0.0,2017-03-30,Requester,Jawa Barat
+E01129,Joko Adi Anggraini,Bekasi,KC,Relationship Manager,0.0,2015-08-09,Requester,Jawa Barat
+E01130,Intan Dwi Santoso,Bandung,KC,Relationship Manager,0.0,2015-06-23,Requester,Jawa Barat
+E01131,Gita Sri Siregar,Gresik,KC,Credit Analyst,0.0,2013-11-26,Requester,Jawa Timur
+E01132,Yanti Putra Anggraini,Sidokarto,KCP,Relationship Manager,0.0,2026-02-20,Requester,Jawa Tengah & DIY
+E01133,Hendra Putra Maulana,Dieng,KCP,Relationship Manager,0.0,2022-11-04,Requester,Jawa Timur
+E01134,Ayu Dwi Purnomo,Jombang,KC,Credit Analyst,0.0,2014-12-12,Requester,Jawa Timur
+E01135,Dewi Dwi Kusuma,Surabaya,KC,Relationship Manager,0.0,2014-12-02,Requester,Jawa Timur
+E01136,Dian Adi Santoso,Padang,KC,Relationship Manager,0.0,2020-09-13,Requester,Sumatera
+E01137,Citra Tri Purnomo,Kutabumi,KCP,Sub Branch Manager (AMGR),150000000.0,2011-10-27,Approver,Banten
+E01138,Teguh Dwi Saputra,Jakarta Kota,KC,Business Branch Manager,400000000.0,2007-02-27,Approver,DKI Jakarta
+E01139,Teguh Putra Saputra,Modernland,KCP,Credit Analyst,0.0,2022-06-20,Requester,Banten
+E01140,Ratna Rahmawati,BSD,KC,Credit Analyst,0.0,2019-04-14,Requester,Banten
+E01141,Lukman Tanjung,Cimone,KCP,Relationship Manager,0.0,2018-01-15,Requester,Banten
+E01142,Yusuf Putra Firmansyah,Bogor,KC,Relationship Manager,0.0,2020-01-17,Requester,Jawa Barat
+E01143,Rizky Tri Pratama,Tambun,KCP,Relationship Manager,0.0,2015-09-04,Requester,Jawa Barat
+E01144,Teguh Tri Gunawan,Jababeka,KCP,Relationship Manager,0.0,2012-04-19,Requester,Jawa Barat
+E01145,Teguh Dwi Nasution,Gresik,KC,Relationship Manager,0.0,2015-09-03,Requester,Jawa Timur
+E01146,Nadia Dwi Ramadhan,Tasikmalaya,KC,Relationship Manager,0.0,2019-09-28,Requester,Jawa Barat
+E01147,Lukman Adi Utami,Sidokarto,KCP,Relationship Manager,0.0,2021-08-15,Requester,Jawa Tengah & DIY
+E01148,Andi Tanjung,Pekanbaru,KC,Relationship Manager,0.0,2013-12-20,Requester,Sumatera
+E01149,Taufik Adi Pratama,Tangerang,KC,Credit Analyst,0.0,2017-05-22,Requester,Banten
+E01150,Lina Dwi Simanjuntak,Surabaya,KC,Relationship Manager,0.0,2015-02-04,Requester,Jawa Timur
+E01151,Sari Kurniawan,Arief Rate,KCP,Relationship Manager,0.0,2017-11-05,Requester,Sulawesi
+E01152,Budi Tri Nasution,Jababeka,KCP,Credit Analyst,0.0,2018-02-05,Requester,Jawa Barat
+E01153,Dian Pratama,Surabaya,KC,Credit Analyst,0.0,2023-03-13,Requester,Jawa Timur
+E01154,Andi Putra Anggraini,Jababeka,KCP,Relationship Manager,0.0,2014-01-16,Requester,Jawa Barat
+E01155,Joko Adi Rahmawati,Gajah Mada,KCP,Relationship Manager,0.0,2025-03-12,Requester,DKI Jakarta
+E01156,Putri Nur Utami,Bandung,KC,Relationship Manager,0.0,2018-05-15,Requester,Jawa Barat
+E01157,Oscar Putra Pratama,Bogor,KC,Relationship Manager,0.0,2020-07-01,Requester,Jawa Barat
+E01158,Rizky Adi Harahap,Jakarta Kota,KC,Credit Analyst,0.0,2016-06-08,Requester,DKI Jakarta
+E01159,Galih Adi Tanjung,Jakarta Kota,KC,Relationship Manager,0.0,2012-11-19,Requester,DKI Jakarta
+E01160,Rizky Setiawan,Jababeka,KCP,Relationship Manager,0.0,2016-07-13,Requester,Jawa Barat
+E01161,Fitri Syahputra,Padang,KC,Credit Analyst,0.0,2019-11-22,Requester,Sumatera
+E01162,Bayu Nur Harahap,Malang,KC,Relationship Manager,0.0,2013-03-26,Requester,Jawa Timur
+E01163,Oscar Maulana,Karawang,KC,Relationship Manager,0.0,2012-08-19,Requester,Jawa Barat
+E01164,Oscar Adi Ramadhan,Tambun,KCP,Relationship Manager,0.0,2013-06-19,Requester,Jawa Barat
+E01165,Agus Hidayat,Cikampek,KCP,Credit Analyst,0.0,2015-07-03,Requester,Jawa Barat
+E01166,Taufik Nur Permata,Sandubaya,KCP,Relationship Manager,0.0,2014-02-10,Requester,Nusa Tenggara
+E01167,Eko Sri Nasution,Palima,KCP,Credit Analyst,0.0,2023-08-28,Requester,Banten
+E01168,Oscar Putra Hakim,Gresik,KC,Relationship Manager,0.0,2014-09-20,Requester,Jawa Timur
+E01169,Lina Dwi Hakim,BSD,KC,Business Branch Manager,400000000.0,2014-07-28,Approver,Banten
+E01170,Slamet Dwi Saputra,Makassar,KC,Relationship Manager,0.0,2021-05-14,Requester,Sulawesi
+E01171,Ratna Dwi Purnomo,Surabaya,KC,Relationship Manager,0.0,2015-03-08,Requester,Jawa Timur
+E01172,Lukman Dwi Hakim,Pamulang,KCP,Credit Analyst,0.0,2025-07-11,Requester,Banten
+E01173,Galih Dwi Maulana,Wonosari,KCP,Relationship Manager,0.0,2022-11-14,Requester,Jawa Tengah & DIY
+E01174,Nur Adi Maulana,Jakarta Pluit,KC,Relationship Manager,0.0,2014-03-15,Requester,DKI Jakarta
+E01175,Siti Sri Anggraini,Kanaka,KCP,Credit Analyst,0.0,2024-09-19,Requester,Sulawesi
+E01176,Sari Tri Wibowo,Bekasi,KC,Relationship Manager,0.0,2016-03-24,Requester,Jawa Barat
+E01177,Lukman Tri Rahmawati,Sidokarto,KCP,Credit Analyst,0.0,2012-11-21,Requester,Jawa Tengah & DIY
+E01178,Ayu Dwi Maulana,Juanda,KCP,Relationship Manager,0.0,2026-01-26,Requester,Jawa Timur
+E01179,Ratna Nur Wibowo,Arief Rate,KCP,Relationship Manager,0.0,2019-01-05,Requester,Sulawesi
+E01180,Citra Dwi Maulana,Bogor,KC,Credit Analyst,0.0,2014-07-14,Requester,Jawa Barat
+E01181,Lina Dwi Hidayat,Fatmawati,KC,Relationship Manager,0.0,2014-10-17,Requester,DKI Jakarta
+E01182,Budi Nur Wijaya,BSD,KC,Relationship Manager,0.0,2016-08-09,Requester,Banten
+E01183,Slamet Nasution,Bandung,KC,Relationship Manager,0.0,2019-07-17,Requester,Jawa Barat
+E01184,Hadi Putra Tanjung,Cibinong,KC,Relationship Manager,0.0,2023-11-23,Requester,Jawa Barat
+E01185,Slamet Sri Setiawan,Batam,KC,Credit Analyst,0.0,2012-03-11,Requester,Sumatera
+E01186,Indra Dwi Anggraini,Jakarta Kota,KC,Relationship Manager,0.0,2017-10-19,Requester,DKI Jakarta
+E01187,Bayu Sri Permata,Jakarta Kota,KC,Relationship Manager,0.0,2019-06-07,Requester,DKI Jakarta
+E01188,Endang Siregar,Kutabumi,KCP,Relationship Manager,0.0,2019-10-24,Requester,Banten
+E01189,Hendra Dwi Harahap,Bekasi,KC,Credit Analyst,0.0,2016-08-05,Requester,Jawa Barat
+E01190,Agus Sri Susanto,Palima,KCP,Credit Analyst,0.0,2017-10-10,Requester,Banten
+E01191,Nur Nur Utami,Gresik,KC,Business Branch Manager,400000000.0,2019-07-22,Approver,Jawa Timur
+E01192,Yanti Dwi Wibowo,Tambun,KCP,Sub Branch Manager (AMGR),150000000.0,2014-04-15,Approver,Jawa Barat
+E01193,Bayu Lestari,Bogor,KC,Relationship Manager,0.0,2016-11-22,Requester,Jawa Barat
+E01194,Fajar Santoso,Kutabumi,KCP,Sub Branch Manager (AMGR),150000000.0,2008-07-19,Approver,Banten
+E01195,Oscar Putra Lestari,Jombang,KC,Relationship Manager,0.0,2025-08-14,Requester,Jawa Timur
+E01196,Budi Dwi Syahputra,Tasikmalaya,KC,Relationship Manager,0.0,2013-01-09,Requester,Jawa Barat
+E01197,Lina Tri Santoso,Malang,KC,Relationship Manager,0.0,2019-05-13,Requester,Jawa Timur
+E01198,Wahyu Putra Setiawan,Karawang,KC,Credit Analyst,0.0,2020-05-07,Requester,Jawa Barat
+E01199,Putri Putra Daulay,Padang,KC,Relationship Manager,0.0,2020-10-19,Requester,Sumatera
+E01200,Eko Putra Wijaya,Gresik,KC,Credit Analyst,0.0,2016-10-09,Requester,Jawa Timur
+E01201,Dian Sri Daulay,Cibinong,KC,Credit Analyst,0.0,2018-11-21,Requester,Jawa Barat
+E01202,Sari Adi Wijaya,Serang,KC,Relationship Manager,0.0,2025-10-10,Requester,Banten
+E01203,Yanti Tri Wijaya,BSD,KC,Credit Analyst,0.0,2020-06-05,Requester,Banten
+E01204,Lukman Putra Utami,Jakarta Timur,KC,Relationship Manager,0.0,2017-04-09,Requester,DKI Jakarta
+E01205,Oscar Sri Daulay,Bogor,KC,Relationship Manager,0.0,2015-11-13,Requester,Jawa Barat
+E01206,Yanti Sri Harahap,Malang,KC,Relationship Manager,0.0,2013-05-01,Requester,Jawa Timur
+E01207,Dewi Putra Susanto,Surabaya,KC,Business Branch Manager,400000000.0,2020-05-15,Approver,Jawa Timur
+E01208,Rina Sri Syahputra,Makassar,KC,Relationship Manager,0.0,2021-07-21,Requester,Sulawesi
+E01209,Sari Putra Purnomo,Batam,KC,Credit Analyst,0.0,2019-05-09,Requester,Sumatera
+E01210,Yanti Kusuma,Jakarta Kota,KC,Credit Analyst,0.0,2012-04-23,Requester,DKI Jakarta
+E01211,Yanti Halim,Jombang,KC,Relationship Manager,0.0,2012-07-31,Requester,Jawa Timur
+E01212,Joko Nur Maulana,Jombang,KC,Relationship Manager,0.0,2019-11-20,Requester,Jawa Timur
+E01213,Yanti Nur Susanto,Padang,KC,Business Branch Manager,400000000.0,2019-04-04,Approver,Sumatera
+E01214,Dimas Putra Wibowo,Tambun,KCP,Credit Analyst,0.0,2024-12-17,Requester,Jawa Barat
+E01215,Lina Sri Ramadhan,Sidokarto,KCP,Credit Analyst,0.0,2021-12-28,Requester,Jawa Tengah & DIY
+E01216,Yusuf Adi Firmansyah,Malang,KC,Relationship Manager,0.0,2026-03-29,Requester,Jawa Timur
+E01217,Yanti Tanjung,Fatmawati,KC,Relationship Manager,0.0,2016-09-05,Requester,DKI Jakarta
+E01218,Endang Dwi Susanto,Palima,KCP,Relationship Manager,0.0,2017-04-14,Requester,Banten
+E01219,Eko Tri Siregar,Pamulang,KCP,Relationship Manager,0.0,2014-10-01,Requester,Banten
+E01220,Rina Sri Susanto,Kanaka,KCP,Relationship Manager,0.0,2019-10-28,Requester,Sulawesi
+E01221,Kartika Dwi Santoso,Tasikmalaya,KC,Relationship Manager,0.0,2019-04-15,Requester,Jawa Barat
+E01222,Lina Putra Setiawan,Makassar,KC,Credit Analyst,0.0,2022-12-06,Requester,Sulawesi
+E01223,Andi Nur Nasution,Kanaka,KCP,Sub Branch Manager (AVP/MGR),250000000.0,2008-05-14,Approver,Sulawesi
+E01224,Galih Tri Syahputra,Bogor,KC,Relationship Manager,0.0,2014-09-01,Requester,Jawa Barat
+E01225,Yusuf Nur Saputra,Serang,KC,Relationship Manager,0.0,2022-03-19,Requester,Banten
+E01226,Siti Tri Syahputra,Padang,KC,Relationship Manager,0.0,2020-08-15,Requester,Sumatera
+E01227,Ayu Sri Ramadhan,BSD,KC,Relationship Manager,0.0,2012-08-26,Requester,Banten
+E01228,Slamet Putra Maulana,Jakarta Kota,KC,Relationship Manager,0.0,2017-09-21,Requester,DKI Jakarta
+E01229,Dimas Tri Nasution,Jombang,KC,Relationship Manager,0.0,2014-05-18,Requester,Jawa Timur
+E01230,Gita Nur Harahap,Tangerang,KC,Credit Analyst,0.0,2017-09-27,Requester,Banten
+E01231,Fitri Nur Kusuma,Jatiuwung,KCP,Relationship Manager,0.0,2014-11-05,Requester,Banten
+E01232,Hendra Wijaya,Kanaka,KCP,Credit Analyst,0.0,2020-06-25,Requester,Sulawesi
+E01233,Indra Halim,Gresik,KC,Relationship Manager,0.0,2024-11-12,Requester,Jawa Timur
+E01234,Bayu Sri Syahputra,Sidokarto,KCP,Relationship Manager,0.0,2024-11-19,Requester,Jawa Tengah & DIY
+E01235,Mega Tri Saputra,Jakarta Timur,KC,Relationship Manager,0.0,2013-04-25,Requester,DKI Jakarta
+E01236,Agus Tri Wijaya,Jababeka,KCP,Credit Analyst,0.0,2020-06-14,Requester,Jawa Barat
+E01237,Budi Dwi Daulay,Padang,KC,Business Branch Manager,400000000.0,2011-01-27,Approver,Sumatera
+E01238,Rina Sri Kurniawan,Wonosari,KCP,Relationship Manager,0.0,2014-07-02,Requester,Jawa Tengah & DIY
+E01239,Teguh Adi Gunawan,Arief Rate,KCP,Relationship Manager,0.0,2018-03-08,Requester,Sulawesi
+E01240,Intan Nur Anggraini,Tangerang,KC,Relationship Manager,0.0,2014-10-26,Requester,Banten
+E01241,Ratna Nur Setiawan,Cimone,KCP,Sub Branch Manager (AVP/MGR),250000000.0,2020-06-20,Approver,Banten
+E01242,Gita Dwi Nasution,Cikampek,KCP,Credit Analyst,0.0,2026-01-05,Requester,Jawa Barat
+E01243,Fajar Purnomo,Surabaya,KC,Relationship Manager,0.0,2019-07-09,Requester,Jawa Timur
+E01244,Nadia Dwi Siregar,Dieng,KCP,Relationship Manager,0.0,2012-01-08,Requester,Jawa Timur
+E01245,Taufik Putra Nasution,Bekasi,KC,Credit Analyst,0.0,2012-09-19,Requester,Jawa Barat
+E01246,Hendra Dwi Ramadhan,Jakarta Pluit,KC,Relationship Manager,0.0,2020-04-06,Requester,DKI Jakarta
+E01247,Nadia Putra Pratama,Wonosari,KCP,Relationship Manager,0.0,2022-03-29,Requester,Jawa Tengah & DIY
+E01248,Dian Saputra,Makassar,KC,Relationship Manager,0.0,2015-01-21,Requester,Sulawesi
+E01249,Lukman Santoso,Sutomo,KCP,Relationship Manager,0.0,2022-06-15,Requester,Jawa Timur
+E01250,Putri Gunawan,Bandung,KC,Relationship Manager,0.0,2016-01-13,Requester,Jawa Barat
+E01251,Dewi Putra Wijaya,Cikarang Central City,KCP,Relationship Manager,0.0,2022-10-30,Requester,Jawa Barat
+E01252,Teguh Adi Pratama,Gresik,KC,Credit Analyst,0.0,2014-10-08,Requester,Jawa Timur
+E01253,Nur Putra Kurniawan,Surabaya,KC,Business Branch Manager,400000000.0,2014-10-15,Approver,Jawa Timur
+E01254,Dewi Nasution,Dieng,KCP,Credit Analyst,0.0,2014-01-28,Requester,Jawa Timur
+E01255,Indra Nur Permata,Tasikmalaya,KC,Relationship Manager,0.0,2017-03-18,Requester,Jawa Barat
+E01256,Bayu Anggraini,Surabaya,KC,Credit Analyst,0.0,2019-01-08,Requester,Jawa Timur
+E01257,Dimas Ramadhan,Jombang,KC,Credit Analyst,0.0,2012-09-21,Requester,Jawa Timur
+E01258,Dewi Tri Anggraini,Cibinong,KC,Relationship Manager,0.0,2012-04-24,Requester,Jawa Barat
+E01259,Sari Sri Anggraini,BSD,KC,Credit Analyst,0.0,2016-10-04,Requester,Banten
+E01260,Siti Tri Rahmawati,Kutabumi,KCP,Credit Analyst,0.0,2020-05-12,Requester,Banten
+E01261,Endang Putra Firmansyah,Jatiuwung,KCP,Relationship Manager,0.0,2025-08-06,Requester,Banten
+E01262,Slamet Gunawan,Serang,KC,Relationship Manager,0.0,2017-02-16,Requester,Banten
+E01263,Lina Dwi Purnomo,Bandung,KC,Credit Analyst,0.0,2020-11-28,Requester,Jawa Barat
+E01264,Taufik Adi Santoso,Fatmawati,KC,Relationship Manager,0.0,2014-11-04,Requester,DKI Jakarta
+E01265,Endang Adi Siregar,Tambun,KCP,Relationship Manager,0.0,2019-09-05,Requester,Jawa Barat
+E01266,Lukman Nur Hakim,Bandung,KC,Credit Analyst,0.0,2026-01-16,Requester,Jawa Barat
+E01267,Citra Adi Santoso,Bandung,KC,Relationship Manager,0.0,2019-10-17,Requester,Jawa Barat
+E01268,Eko Tri Setiawan,Batam,KC,Branch Manager,1000000000.0,2015-06-16,Approver,Sumatera
+E01269,Dewi Adi Harahap,Bogor,KC,Relationship Manager,0.0,2019-08-16,Requester,Jawa Barat
+E01270,Hendra Nur Maulana,Jakarta Timur,KC,Business Branch Manager,400000000.0,2012-08-14,Approver,DKI Jakarta
+E01271,Nadia Putra Hidayat,Surabaya,KC,Relationship Manager,0.0,2017-05-11,Requester,Jawa Timur
+E01272,Endang Sri Ramadhan,Batam,KC,Relationship Manager,0.0,2013-12-08,Requester,Sumatera
+E01273,Fajar Nur Maulana,Serang,KC,Relationship Manager,0.0,2016-01-10,Requester,Banten
+E01274,Yanti Dwi Ramadhan,Pekanbaru,KC,Relationship Manager,0.0,2023-11-24,Requester,Sumatera
+E01275,Lukman Adi Rahmawati,Padang,KC,Relationship Manager,0.0,2015-01-08,Requester,Sumatera
+E01276,Nadia Nur Wijaya,Karawang,KC,Relationship Manager,0.0,2020-07-06,Requester,Jawa Barat
+E01277,Fajar Nur Saputra,Batam,KC,Business Branch Manager,400000000.0,2006-08-09,Approver,Sumatera
+E01278,Sari Tri Susanto,Jombang,KC,Relationship Manager,0.0,2022-07-03,Requester,Jawa Timur
+E01279,Dewi Nur Maulana,Makassar,KC,Relationship Manager,0.0,2016-02-20,Requester,Sulawesi
+E01280,Rina Sri Gunawan,Rengasdengklok,KCP,Relationship Manager,0.0,2013-04-15,Requester,Jawa Barat
+E01281,Hadi Dwi Wibowo,Jakarta Kota,KC,Relationship Manager,0.0,2015-05-02,Requester,DKI Jakarta
+E01282,Hendra Adi Utami,Jombang,KC,Relationship Manager,0.0,2022-11-20,Requester,Jawa Timur
+E01283,Kartika Sri Rahmawati,Tasikmalaya,KC,Relationship Manager,0.0,2017-07-19,Requester,Jawa Barat
+E01284,Oscar Tri Siregar,Bandung,KC,Relationship Manager,0.0,2014-06-07,Requester,Jawa Barat
+E01285,Ayu Nur Setiawan,Karawang,KC,Relationship Manager,0.0,2017-03-14,Requester,Jawa Barat
+E01286,Budi Sri Siregar,Bandung,KC,Relationship Manager,0.0,2016-09-02,Requester,Jawa Barat
+E01287,Teguh Dwi Permata,Sidokarto,KCP,Credit Analyst,0.0,2026-03-20,Requester,Jawa Tengah & DIY
+E01288,Putri Adi Saputra,Surabaya,KC,Relationship Manager,0.0,2016-09-21,Requester,Jawa Timur
+E01289,Citra Nur Firmansyah,Batam,KC,Relationship Manager,0.0,2014-07-15,Requester,Sumatera
+E01290,Galih Susanto,Padang,KC,Relationship Manager,0.0,2017-07-14,Requester,Sumatera
+E01291,Eko Nur Kusuma,BSD,KC,Relationship Manager,0.0,2016-12-07,Requester,Banten
+E01292,Putri Lestari,Jombang,KC,Relationship Manager,0.0,2013-11-02,Requester,Jawa Timur
+E01293,Dewi Tri Rahmawati,Jakarta Timur,KC,Credit Analyst,0.0,2019-08-20,Requester,DKI Jakarta
+E01294,Wahyu Putra Simanjuntak,Jakarta Pluit,KC,Relationship Manager,0.0,2017-05-23,Requester,DKI Jakarta
+E01295,Andi Putra Syahputra,Gajah Mada,KCP,Relationship Manager,0.0,2012-10-17,Requester,DKI Jakarta
+E01296,Sari Sri Kusuma,Kutabumi,KCP,Relationship Manager,0.0,2012-06-15,Requester,Banten
+E01297,Fitri Dwi Harahap,Cikarang Central City,KCP,Relationship Manager,0.0,2012-05-05,Requester,Jawa Barat
+E01298,Dian Nur Wibowo,Karawang,KC,Relationship Manager,0.0,2012-11-26,Requester,Jawa Barat
+E01299,Hadi Wijaya,Padang,KC,Relationship Manager,0.0,2013-12-09,Requester,Sumatera
+E01300,Putri Putra Kusuma,Pekanbaru,KC,Relationship Manager,0.0,2023-08-31,Requester,Sumatera
+E01301,Maya Nur Wibowo,Cibinong,KC,Credit Analyst,0.0,2017-06-22,Requester,Jawa Barat
+E01302,Andi Tri Purnomo,Bandung,KC,Relationship Manager,0.0,2014-02-16,Requester,Jawa Barat
+E01303,Teguh Nur Halim,Padang,KC,Relationship Manager,0.0,2012-03-30,Requester,Sumatera
+E01304,Kartika Putra Maulana,Bekasi,KC,Relationship Manager,0.0,2016-09-24,Requester,Jawa Barat
+E01305,Ayu Sri Permata,Pekanbaru,KC,Relationship Manager,0.0,2019-01-19,Requester,Sumatera
+E01306,Ratna Sri Wijaya,Margonda,KCP,Relationship Manager,0.0,2019-11-20,Requester,Jawa Barat
+E01307,Wahyu Adi Susanto,Karawang,KC,Credit Analyst,0.0,2019-10-08,Requester,Jawa Barat
+E01308,Putri Putra Setiawan,Jababeka,KCP,Relationship Manager,0.0,2017-06-24,Requester,Jawa Barat
+E01309,Rizky Dwi Hakim,JIExpo Kemayoran,KCP,Relationship Manager,0.0,2022-03-29,Requester,DKI Jakarta
+E01310,Dewi Adi Utami,Dieng,KCP,Credit Analyst,0.0,2015-04-08,Requester,Jawa Timur
+E01311,Nur Syahputra,Serang,KC,Relationship Manager,0.0,2019-11-19,Requester,Banten
+E01312,Wahyu Adi Permata,Jakarta Pluit,KC,Relationship Manager,0.0,2019-02-02,Requester,DKI Jakarta
+E01313,Sari Tri Lestari,Makassar,KC,Relationship Manager,0.0,2019-02-23,Requester,Sulawesi
+E01314,Rina Adi Nasution,Dieng,KCP,Relationship Manager,0.0,2016-02-26,Requester,Jawa Timur
+E01315,Bayu Dwi Santoso,Palima,KCP,Credit Analyst,0.0,2016-11-28,Requester,Banten
+E01316,Yanti Tri Daulay,Malang,KC,Relationship Manager,0.0,2021-05-17,Requester,Jawa Timur
+E01317,Taufik Sri Kurniawan,Padang,KC,Relationship Manager,0.0,2018-07-13,Requester,Sumatera
+E01318,Agus Adi Purnomo,Jombang,KC,Relationship Manager,0.0,2014-12-01,Requester,Jawa Timur
+E01319,Oscar Putra Saputra,JIExpo Kemayoran,KCP,Relationship Manager,0.0,2015-07-17,Requester,DKI Jakarta
+E01320,Joko Nur Setiawan,Margonda,KCP,Relationship Manager,0.0,2013-01-11,Requester,Jawa Barat
+E01321,Citra Tri Ramadhan,Sandubaya,KCP,Credit Analyst,0.0,2016-07-17,Requester,Nusa Tenggara
+E01322,Sari Gunawan,Palima,KCP,Credit Analyst,0.0,2015-07-27,Requester,Banten
+E01323,Endang Tri Santoso,Pekanbaru,KC,Relationship Manager,0.0,2022-05-31,Requester,Sumatera
+E01324,Citra Adi Harahap,Wonosari,KCP,Relationship Manager,0.0,2015-02-17,Requester,Jawa Tengah & DIY
+E01325,Gita Adi Hakim,Jababeka,KCP,Credit Analyst,0.0,2022-12-05,Requester,Jawa Barat
+E01326,Indra Putra Saputra,Fatmawati,KC,Relationship Manager,0.0,2012-05-19,Requester,DKI Jakarta
+E01327,Ayu Purnomo,Padang,KC,Relationship Manager,0.0,2012-08-02,Requester,Sumatera
+E01328,Taufik Adi Utami,Dieng,KCP,Relationship Manager,0.0,2017-01-10,Requester,Jawa Timur
+E01329,Dewi Putra Maulana,Sidokarto,KCP,Credit Analyst,0.0,2015-01-22,Requester,Jawa Tengah & DIY
+E01330,Dimas Nur Kusuma,Jatiuwung,KCP,Credit Analyst,0.0,2024-03-31,Requester,Banten
+E01331,Dimas Setiawan,Batam,KC,Relationship Manager,0.0,2025-07-05,Requester,Sumatera
+E01332,Agus Simanjuntak,Serang,KC,Relationship Manager,0.0,2018-10-17,Requester,Banten
+E01333,Wahyu Dwi Saputra,Wonosari,KCP,Credit Analyst,0.0,2012-08-15,Requester,Jawa Tengah & DIY
+E01334,Agus Adi Utami,Bandung,KC,Relationship Manager,0.0,2017-01-24,Requester,Jawa Barat
+E01335,Dimas Putra Anggraini,Sutomo,KCP,Relationship Manager,0.0,2015-12-11,Requester,Jawa Timur
+E01336,Endang Rahmawati,Sutomo,KCP,Relationship Manager,0.0,2013-06-17,Requester,Jawa Timur
+E01337,Joko Sri Nasution,Cimone,KCP,Relationship Manager,0.0,2026-03-19,Requester,Banten
+E01338,Budi Sri Purnomo,Wonosari,KCP,Relationship Manager,0.0,2020-07-11,Requester,Jawa Tengah & DIY
+E01339,Yusuf Nur Permata,Pamulang,KCP,Sub Branch Manager (AMGR),150000000.0,2009-04-29,Approver,Banten
+E01340,Galih Putra Anggraini,Pamulang,KCP,Credit Analyst,0.0,2015-06-16,Requester,Banten
+E01341,Budi Wijaya,Cibinong,KC,Relationship Manager,0.0,2016-09-06,Requester,Jawa Barat
+E01342,Siti Adi Gunawan,Rengasdengklok,KCP,Relationship Manager,0.0,2014-06-23,Requester,Jawa Barat
+E01343,Kartika Tri Maulana,Padang,KC,Relationship Manager,0.0,2020-07-10,Requester,Sumatera
+E01344,Slamet Sri Saputra,Cikarang Central City,KCP,Relationship Manager,0.0,2018-11-12,Requester,Jawa Barat
+E01345,Joko Nur Lestari,Karawang,KC,Credit Analyst,0.0,2012-10-18,Requester,Jawa Barat
+E01346,Rizky Putra Rahmawati,Makassar,KC,Relationship Manager,0.0,2016-09-16,Requester,Sulawesi
+E01347,Oscar Tri Wibowo,Bekasi,KC,Relationship Manager,0.0,2012-09-24,Requester,Jawa Barat
+E01348,Kartika Dwi Kusuma,Gresik,KC,Relationship Manager,0.0,2019-05-10,Requester,Jawa Timur
+E01349,Indra Nur Gunawan,Arief Rate,KCP,Credit Analyst,0.0,2020-08-26,Requester,Sulawesi
+E01350,Lina Adi Maulana,Margonda,KCP,Relationship Manager,0.0,2015-07-06,Requester,Jawa Barat
+E01351,Lina Tri Rahmawati,BSD,KC,Credit Analyst,0.0,2019-08-14,Requester,Banten
+E01352,Ratna Dwi Wibowo,Serang,KC,Relationship Manager,0.0,2012-01-25,Requester,Banten
+E01353,Hadi Sri Hidayat,Malang,KC,Relationship Manager,0.0,2017-01-28,Requester,Jawa Timur
+E01354,Ratna Adi Nasution,Malang,KC,Credit Analyst,0.0,2018-12-27,Requester,Jawa Timur
+E01355,Dian Tri Maulana,Gresik,KC,Branch Manager,1000000000.0,2015-01-27,Approver,Jawa Timur
+E01356,Bayu Nur Gunawan,Bekasi,KC,Relationship Manager,0.0,2016-09-04,Requester,Jawa Barat
+E01357,Dewi Sri Saputra,Tasikmalaya,KC,Relationship Manager,0.0,2021-01-22,Requester,Jawa Barat
+E01358,Kartika Sri Susanto,Fatmawati,KC,Credit Analyst,0.0,2019-11-18,Requester,DKI Jakarta
+E01359,Agus Putra Rahmawati,Malang,KC,Credit Analyst,0.0,2013-06-20,Requester,Jawa Timur
+E01360,Endang Sri Utami,Bekasi,KC,Relationship Manager,0.0,2014-04-06,Requester,Jawa Barat
+E01361,Dian Adi Firmansyah,Pekanbaru,KC,Relationship Manager,0.0,2017-04-14,Requester,Sumatera
+E01362,Yanti Sri Permata,Bekasi,KC,Credit Analyst,0.0,2016-11-13,Requester,Jawa Barat
+E01363,Citra Adi Nasution,Jakarta Pluit,KC,Relationship Manager,0.0,2018-11-28,Requester,DKI Jakarta
+E01364,Nur Adi Permata,Cibinong,KC,Relationship Manager,0.0,2014-06-22,Requester,Jawa Barat
+E01365,Eko Dwi Hakim,Cimone,KCP,Relationship Manager,0.0,2023-04-15,Requester,Banten
+E01366,Yusuf Nur Setiawan,Karawang,KC,Credit Analyst,0.0,2012-07-20,Requester,Jawa Barat
+E01367,Taufik Tri Permata,Margonda,KCP,Relationship Manager,0.0,2015-06-29,Requester,Jawa Barat
+E01368,Nadia Putra Rahmawati,Fatmawati,KC,Relationship Manager,0.0,2012-01-30,Requester,DKI Jakarta
+E01369,Eko Adi Siregar,Batam,KC,Credit Analyst,0.0,2023-03-10,Requester,Sumatera
+E01370,Gita Putra Lestari,Surabaya,KC,Credit Analyst,0.0,2020-09-22,Requester,Jawa Timur
+E01371,Yusuf Nur Gunawan,Kanaka,KCP,Relationship Manager,0.0,2012-04-01,Requester,Sulawesi
+E01372,Hendra Sri Harahap,Jakarta Kota,KC,Relationship Manager,0.0,2013-05-31,Requester,DKI Jakarta
+E01373,Eko Sri Purnomo,BSD,KC,Relationship Manager,0.0,2018-03-15,Requester,Banten
+E01374,Wahyu Dwi Susanto,Surabaya,KC,Relationship Manager,0.0,2016-10-08,Requester,Jawa Timur
+E01375,Lukman Adi Susanto,Dieng,KCP,Relationship Manager,0.0,2012-09-03,Requester,Jawa Timur
+E01376,Eko Tri Simanjuntak,Jababeka,KCP,Credit Analyst,0.0,2014-09-15,Requester,Jawa Barat
+E01377,Maya Dwi Daulay,Cikarang Central City,KCP,Credit Analyst,0.0,2017-09-15,Requester,Jawa Barat
+E01378,Taufik Putra Utami,Bandung,KC,Relationship Manager,0.0,2012-07-21,Requester,Jawa Barat
+E01379,Kartika Nur Siregar,BSD,KC,Relationship Manager,0.0,2014-10-15,Requester,Banten
+E01380,Hadi Adi Anggraini,Malang,KC,Credit Analyst,0.0,2016-11-18,Requester,Jawa Timur
+E01381,Sari Nur Setiawan,Tangerang,KC,Relationship Manager,0.0,2014-03-28,Requester,Banten
+E01382,Kartika Adi Purnomo,Sutomo,KCP,Credit Analyst,0.0,2020-04-06,Requester,Jawa Timur
+E01383,Joko Dwi Rahmawati,Makassar,KC,Credit Analyst,0.0,2024-12-13,Requester,Sulawesi
+E01384,Yanti Adi Utami,Jombang,KC,Relationship Manager,0.0,2019-04-03,Requester,Jawa Timur
+E01385,Hendra Dwi Purnomo,Pamulang,KCP,Relationship Manager,0.0,2014-05-17,Requester,Banten
+E01386,Slamet Maulana,Gresik,KC,Relationship Manager,0.0,2012-09-17,Requester,Jawa Timur
+E01387,Rina Tri Halim,Jakarta Pluit,KC,Relationship Manager,0.0,2016-11-29,Requester,DKI Jakarta
+E01388,Lukman Adi Wibowo,Batam,KC,Credit Analyst,0.0,2013-01-22,Requester,Sumatera
+E01389,Taufik Nur Saputra,Jakarta Timur,KC,Relationship Manager,0.0,2021-02-28,Requester,DKI Jakarta
+E01390,Joko Nur Gunawan,Bandung,KC,Relationship Manager,0.0,2020-02-13,Requester,Jawa Barat
+E01391,Dian Firmansyah,Jababeka,KCP,Relationship Manager,0.0,2020-01-06,Requester,Jawa Barat
+E01392,Galih Sri Rahmawati,Serang,KC,Relationship Manager,0.0,2018-07-15,Requester,Banten
+E01393,Hadi Sri Wijaya,Cikarang Central City,KCP,Credit Analyst,0.0,2018-05-02,Requester,Jawa Barat
+E01394,Budi Tri Hidayat,Jakarta Pluit,KC,Relationship Manager,0.0,2012-07-12,Requester,DKI Jakarta
+E01395,Joko Putra Wibowo,Gresik,KC,Credit Analyst,0.0,2016-11-29,Requester,Jawa Timur
+E01396,Ayu Putra Nugroho,Tangerang,KC,Relationship Manager,0.0,2013-02-25,Requester,Banten
+E01397,Intan Adi Hakim,Padang,KC,Relationship Manager,0.0,2014-11-01,Requester,Sumatera
+E01398,Taufik Sri Maulana,Bekasi,KC,Relationship Manager,0.0,2018-03-18,Requester,Jawa Barat
+E01399,Nur Putra Harahap,Cibinong,KC,Credit Analyst,0.0,2014-06-17,Requester,Jawa Barat
+E01400,Mega Adi Rahmawati,Tasikmalaya,KC,Relationship Manager,0.0,2013-03-29,Requester,Jawa Barat
+E01401,Dewi Sri Santoso,Surabaya,KC,Relationship Manager,0.0,2016-05-18,Requester,Jawa Timur
+E01402,Dimas Nur Rahmawati,Gresik,KC,Relationship Manager,0.0,2025-12-03,Requester,Jawa Timur
+E01403,Dimas Nasution,Kutabumi,KCP,Relationship Manager,0.0,2025-01-18,Requester,Banten
+E01404,Rina Sri Saputra,Malang,KC,Credit Analyst,0.0,2013-04-25,Requester,Jawa Timur
+E01405,Siti Nur Halim,Cibinong,KC,Relationship Manager,0.0,2015-08-29,Requester,Jawa Barat
+E01406,Lukman Putra Ramadhan,BSD,KC,Relationship Manager,0.0,2015-03-07,Requester,Banten
+E01407,Endang Tri Wibowo,Malang,KC,Relationship Manager,0.0,2019-07-03,Requester,Jawa Timur
+E01408,Gita Dwi Syahputra,Jakarta Timur,KC,Relationship Manager,0.0,2015-04-09,Requester,DKI Jakarta
+E01409,Citra Tri Daulay,Serang,KC,Relationship Manager,0.0,2022-03-03,Requester,Banten
+E01410,Hendra Adi Pratama,Jakarta Pluit,KC,Relationship Manager,0.0,2025-02-19,Requester,DKI Jakarta
+E01411,Maya Adi Permata,Serang,KC,Relationship Manager,0.0,2015-09-09,Requester,Banten
+E01412,Budi Nur Susanto,Bogor,KC,Relationship Manager,0.0,2012-05-03,Requester,Jawa Barat
+E01413,Rina Tri Santoso,Jakarta Kota,KC,Relationship Manager,0.0,2017-05-09,Requester,DKI Jakarta
+E01414,Nadia Sri Purnomo,Bekasi,KC,Credit Analyst,0.0,2016-06-12,Requester,Jawa Barat
+E01415,Agus Adi Rahmawati,BSD,KC,Relationship Manager,0.0,2024-11-01,Requester,Banten
+E01416,Maya Tri Susanto,Cikampek,KCP,Relationship Manager,0.0,2015-08-02,Requester,Jawa Barat
+E01417,Gita Saputra,Bandung,KC,Credit Analyst,0.0,2012-07-19,Requester,Jawa Barat
+E01418,Ratna Adi Lestari,Cimone,KCP,Relationship Manager,0.0,2016-02-08,Requester,Banten
+E01419,Ratna Adi Rahmawati,Jakarta Pluit,KC,Credit Analyst,0.0,2017-01-09,Requester,DKI Jakarta
+E01420,Sari Dwi Utami,Margonda,KCP,Relationship Manager,0.0,2020-12-25,Requester,Jawa Barat
+E01421,Rizky Adi Ramadhan,Tangerang,KC,Credit Analyst,0.0,2014-10-15,Requester,Banten
+E01422,Taufik Putra Saputra,Juanda,KCP,Credit Analyst,0.0,2017-09-20,Requester,Jawa Timur
+E01423,Fajar Nur Gunawan,Surabaya,KC,Relationship Manager,0.0,2012-07-14,Requester,Jawa Timur
+E01424,Sari Nur Lestari,Modernland,KCP,Relationship Manager,0.0,2015-01-23,Requester,Banten
+E01425,Rizky Adi Syahputra,Fatmawati,KC,Credit Analyst,0.0,2019-04-15,Requester,DKI Jakarta
+E01426,Fitri Kurniawan,Jombang,KC,Relationship Manager,0.0,2022-10-20,Requester,Jawa Timur
+E01427,Nadia Dwi Tanjung,Cimone,KCP,Relationship Manager,0.0,2014-03-30,Requester,Banten
+E01428,Bayu Tri Anggraini,Karawang,KC,Relationship Manager,0.0,2018-01-26,Requester,Jawa Barat
+E01429,Eko Adi Pratama,Jakarta Kota,KC,Relationship Manager,0.0,2013-11-19,Requester,DKI Jakarta
+E01430,Dimas Nur Hakim,Modernland,KCP,Credit Analyst,0.0,2015-08-21,Requester,Banten
+E01431,Dewi Sri Purnomo,Cimone,KCP,Sub Branch Manager (AMGR),150000000.0,2006-02-28,Approver,Banten
+E01432,Sari Putra Wijaya,Sandubaya,KCP,Relationship Manager,0.0,2018-06-16,Requester,Nusa Tenggara
+E01433,Citra Dwi Hakim,Bogor,KC,Relationship Manager,0.0,2016-06-10,Requester,Jawa Barat
+E01434,Slamet Nur Permata,Bandung,KC,Relationship Manager,0.0,2013-12-23,Requester,Jawa Barat
+E01435,Agus Dwi Syahputra,Cikampek,KCP,Relationship Manager,0.0,2020-05-01,Requester,Jawa Barat
+E01436,Putri Adi Purnomo,Sutomo,KCP,Relationship Manager,0.0,2014-08-10,Requester,Jawa Timur
+E01437,Lukman Putra Saputra,Cibinong,KC,Relationship Manager,0.0,2013-12-14,Requester,Jawa Barat
+E01438,Endang Harahap,Jakarta Pluit,KC,Credit Analyst,0.0,2014-11-13,Requester,DKI Jakarta
+E01439,Hadi Sri Rahmawati,Bogor,KC,Relationship Manager,0.0,2013-07-01,Requester,Jawa Barat
+E01440,Sari Firmansyah,Cikampek,KCP,Relationship Manager,0.0,2013-04-01,Requester,Jawa Barat
+E01441,Galih Adi Maulana,Cibinong,KC,Relationship Manager,0.0,2020-02-27,Requester,Jawa Barat
+E01442,Dian Tanjung,Cibinong,KC,Relationship Manager,0.0,2025-07-23,Requester,Jawa Barat
+E01443,Hendra Permata,Malang,KC,Relationship Manager,0.0,2018-03-07,Requester,Jawa Timur
+E01444,Lina Permata,JIExpo Kemayoran,KCP,Relationship Manager,0.0,2025-10-13,Requester,DKI Jakarta
+E01445,Lina Hidayat,BSD,KC,Relationship Manager,0.0,2016-12-22,Requester,Banten
+E01446,Kartika Tri Anggraini,Modernland,KCP,Credit Analyst,0.0,2016-06-23,Requester,Banten
+E01447,Nur Ramadhan,Jombang,KC,Relationship Manager,0.0,2019-05-14,Requester,Jawa Timur
+E01448,Kartika Nur Pratama,Gresik,KC,Credit Analyst,0.0,2018-09-15,Requester,Jawa Timur
+E01449,Mega Sri Saputra,Jababeka,KCP,Credit Analyst,0.0,2018-12-20,Requester,Jawa Barat
+E01450,Citra Putra Nugroho,Tangerang,KC,Relationship Manager,0.0,2016-08-22,Requester,Banten
+E01451,Dian Adi Tanjung,Bogor,KC,Relationship Manager,0.0,2017-10-15,Requester,Jawa Barat
+E01452,Intan Sri Simanjuntak,Dieng,KCP,Sub Branch Manager (AMGR),150000000.0,2008-03-04,Approver,Jawa Timur
+E01453,Mega Tri Kusuma,Tangerang,KC,Relationship Manager,0.0,2014-07-05,Requester,Banten
+E01454,Gita Tri Saputra,Serang,KC,Relationship Manager,0.0,2025-08-06,Requester,Banten
+E01455,Fitri Adi Gunawan,Kutabumi,KCP,Credit Analyst,0.0,2016-03-18,Requester,Banten
+E01456,Oscar Adi Maulana,Karawang,KC,Credit Analyst,0.0,2025-05-07,Requester,Jawa Barat
+E01457,Nadia Dwi Gunawan,JIExpo Kemayoran,KCP,Credit Analyst,0.0,2015-12-03,Requester,DKI Jakarta
+E01458,Bayu Tri Nugroho,Tasikmalaya,KC,Branch Manager,1000000000.0,2016-12-09,Approver,Jawa Barat
+E01459,Galih Daulay,Karawang,KC,Relationship Manager,0.0,2019-03-31,Requester,Jawa Barat
+E01460,Taufik Sri Purnomo,BSD,KC,Branch Manager,1000000000.0,2012-04-02,Approver,Banten
+E01461,Joko Tri Lestari,Cimone,KCP,Relationship Manager,0.0,2018-04-01,Requester,Banten
+E01462,Maya Adi Setiawan,Rengasdengklok,KCP,Credit Analyst,0.0,2022-12-13,Requester,Jawa Barat
+E01463,Nadia Tri Gunawan,Bekasi,KC,Credit Analyst,0.0,2013-11-03,Requester,Jawa Barat
+E01464,Sari Sri Ramadhan,Tangerang,KC,Relationship Manager,0.0,2017-02-20,Requester,Banten
+E01465,Taufik Nur Setiawan,Serang,KC,Credit Analyst,0.0,2026-01-07,Requester,Banten
+E01466,Rina Adi Daulay,Arief Rate,KCP,Relationship Manager,0.0,2015-05-08,Requester,Sulawesi
+E01467,Taufik Nur Anggraini,Kutabumi,KCP,Relationship Manager,0.0,2016-07-14,Requester,Banten
+E01468,Lina Putra Nasution,Pekanbaru,KC,Business Branch Manager,400000000.0,2017-12-24,Approver,Sumatera
+E01469,Siti Putra Hakim,Makassar,KC,Relationship Manager,0.0,2019-05-20,Requester,Sulawesi
+E01470,Yanti Dwi Pratama,Jakarta Pluit,KC,Relationship Manager,0.0,2012-08-16,Requester,DKI Jakarta
+E01471,Bayu Putra Nugroho,Palima,KCP,Credit Analyst,0.0,2016-04-28,Requester,Banten
+E01472,Maya Sri Siregar,Malang,KC,Relationship Manager,0.0,2014-02-21,Requester,Jawa Timur
+E01473,Sari Nur Purnomo,Serang,KC,Relationship Manager,0.0,2018-11-06,Requester,Banten
+E01474,Rina Dwi Simanjuntak,Kanaka,KCP,Relationship Manager,0.0,2014-04-09,Requester,Sulawesi
+E01475,Putri Utami,Jombang,KC,Relationship Manager,0.0,2018-06-30,Requester,Jawa Timur
+E01476,Lina Kurniawan,Jakarta Timur,KC,Credit Analyst,0.0,2019-11-10,Requester,DKI Jakarta
+E01477,Ayu Sri Tanjung,Jakarta Pluit,KC,Relationship Manager,0.0,2017-08-27,Requester,DKI Jakarta
+E01478,Eko Tri Maulana,Jatiuwung,KCP,Relationship Manager,0.0,2013-04-14,Requester,Banten
+E01479,Lina Putra Susanto,Batam,KC,Relationship Manager,0.0,2025-09-11,Requester,Sumatera
+E01480,Dimas Sri Simanjuntak,Bandung,KC,Relationship Manager,0.0,2016-01-24,Requester,Jawa Barat
+E01481,Oscar Adi Firmansyah,Kutabumi,KCP,Relationship Manager,0.0,2016-05-07,Requester,Banten
+E01482,Ayu Tri Pratama,Tasikmalaya,KC,Credit Analyst,0.0,2012-06-30,Requester,Jawa Barat
+E01483,Hadi Tri Saputra,Bogor,KC,Relationship Manager,0.0,2020-06-02,Requester,Jawa Barat
+E01484,Lukman Dwi Pratama,Rengasdengklok,KCP,Relationship Manager,0.0,2018-06-13,Requester,Jawa Barat
+E01485,Taufik Kurniawan,Wonosari,KCP,Credit Analyst,0.0,2017-09-25,Requester,Jawa Tengah & DIY
+E01486,Sari Nur Hidayat,Jakarta Pluit,KC,Relationship Manager,0.0,2012-08-10,Requester,DKI Jakarta
+E01487,Sari Sri Simanjuntak,Tangerang,KC,Relationship Manager,0.0,2026-01-17,Requester,Banten
+E01488,Taufik Tri Siregar,Juanda,KCP,Sub Branch Manager (AMGR),150000000.0,2008-02-20,Approver,Jawa Timur
+E01489,Siti Tri Pratama,Jababeka,KCP,Credit Analyst,0.0,2016-07-14,Requester,Jawa Barat
+E01490,Agus Putra Kusuma,Serang,KC,Relationship Manager,0.0,2019-06-11,Requester,Banten
+E01491,Citra Sri Setiawan,BSD,KC,Relationship Manager,0.0,2016-04-07,Requester,Banten
+E01492,Indra Sri Syahputra,Wonosari,KCP,Relationship Manager,0.0,2018-09-30,Requester,Jawa Tengah & DIY
+E01493,Kartika Putra Hakim,Kutabumi,KCP,Relationship Manager,0.0,2022-01-07,Requester,Banten
+E01494,Oscar Nur Hidayat,Palima,KCP,Relationship Manager,0.0,2015-10-15,Requester,Banten
+E01495,Bayu Nur Nasution,Bekasi,KC,Credit Analyst,0.0,2018-05-20,Requester,Jawa Barat
+E01496,Rina Tri Permata,Serang,KC,Relationship Manager,0.0,2017-07-08,Requester,Banten
+E01497,Galih Adi Wijaya,Batam,KC,Relationship Manager,0.0,2014-12-04,Requester,Sumatera
+E01498,Wahyu Putra Tanjung,Tambun,KCP,Sub Branch Manager (AVP/MGR),250000000.0,2013-02-08,Approver,Jawa Barat
+E01499,Putri Tanjung,Serang,KC,Relationship Manager,0.0,2020-05-19,Requester,Banten
+E01500,Yusuf Anggraini,Tambun,KCP,Relationship Manager,0.0,2014-03-02,Requester,Jawa Barat
+E01501,Siti Dwi Lestari,Sutomo,KCP,Credit Analyst,0.0,2013-06-28,Requester,Jawa Timur
+E01502,Kartika Adi Hidayat,Bogor,KC,Relationship Manager,0.0,2017-04-12,Requester,Jawa Barat
+E01503,Nadia Nur Rahmawati,Surabaya,KC,Credit Analyst,0.0,2012-12-07,Requester,Jawa Timur
+E01504,Eko Putra Lestari,Arief Rate,KCP,Relationship Manager,0.0,2012-12-26,Requester,Sulawesi
+E01505,Taufik Tri Purnomo,Bekasi,KC,Relationship Manager,0.0,2018-12-28,Requester,Jawa Barat
+E01506,Siti Adi Pratama,Kutabumi,KCP,Relationship Manager,0.0,2012-04-15,Requester,Banten
+E01507,Yusuf Wibowo,Cimone,KCP,Credit Analyst,0.0,2014-08-18,Requester,Banten
+E01508,Intan Sri Siregar,BSD,KC,Relationship Manager,0.0,2016-04-10,Requester,Banten
+E01509,Agus Sri Siregar,Jakarta Kota,KC,Relationship Manager,0.0,2023-06-12,Requester,DKI Jakarta
+E01510,Eko Tri Utami,Gajah Mada,KCP,Credit Analyst,0.0,2017-04-19,Requester,DKI Jakarta
+E01511,Intan Tri Setiawan,Juanda,KCP,Relationship Manager,0.0,2017-08-16,Requester,Jawa Timur
+E01512,Mega Putra Hakim,Modernland,KCP,Relationship Manager,0.0,2018-02-17,Requester,Banten
+E01513,Eko Nasution,Rengasdengklok,KCP,Relationship Manager,0.0,2024-01-09,Requester,Jawa Barat
+E01514,Mega Sri Kurniawan,Makassar,KC,Relationship Manager,0.0,2019-02-06,Requester,Sulawesi
+E01515,Endang Sri Saputra,Cibinong,KC,Relationship Manager,0.0,2015-11-17,Requester,Jawa Barat
+E01516,Rina Sri Pratama,Pekanbaru,KC,Relationship Manager,0.0,2015-08-26,Requester,Sumatera
+E01517,Dimas Tri Wibowo,Surabaya,KC,Relationship Manager,0.0,2022-12-09,Requester,Jawa Timur
+E01518,Andi Putra Susanto,Pamulang,KCP,Relationship Manager,0.0,2016-10-27,Requester,Banten
+E01519,Ratna Nur Susanto,Tasikmalaya,KC,Credit Analyst,0.0,2019-01-07,Requester,Jawa Barat
+E01520,Ayu Adi Tanjung,Jombang,KC,Relationship Manager,0.0,2017-02-07,Requester,Jawa Timur
+E01521,Dian Adi Lestari,Jombang,KC,Relationship Manager,0.0,2017-11-07,Requester,Jawa Timur
+E01522,Yanti Sri Utami,Bekasi,KC,Credit Analyst,0.0,2020-05-04,Requester,Jawa Barat
+E01523,Budi Putra Anggraini,Modernland,KCP,Relationship Manager,0.0,2019-12-05,Requester,Banten
+E01524,Citra Adi Purnomo,Malang,KC,Relationship Manager,0.0,2020-05-14,Requester,Jawa Timur
+E01525,Maya Adi Nugroho,Cibinong,KC,Credit Analyst,0.0,2018-05-25,Requester,Jawa Barat
+E01526,Ayu Putra Wibowo,Surabaya,KC,Staff (unspecified),0.0,2018-09-06,Requester,Jawa Timur
+E01527,Maya Adi Anggraini,Jakarta Kota,KC,Relationship Manager,0.0,2014-11-15,Requester,DKI Jakarta
+E01528,Kartika Putra Kurniawan,JIExpo Kemayoran,KCP,Relationship Manager,0.0,2020-01-30,Requester,DKI Jakarta
+E01529,Andi Nur Wijaya,Arief Rate,KCP,Credit Analyst,0.0,2024-10-19,Requester,Sulawesi
+E01530,Dimas Nur Utami,Arief Rate,KCP,Sub Branch Manager (AMGR),150000000.0,2011-11-22,Approver,Sulawesi
+E01531,Slamet Sri Firmansyah,Surabaya,KC,Relationship Manager,0.0,2017-09-20,Requester,Jawa Timur
+E01532,Andi Sri Santoso,Serang,KC,Credit Analyst,0.0,2021-04-07,Requester,Banten
+E01533,Gita Tri Gunawan,Jakarta Pluit,KC,Relationship Manager,0.0,2015-01-16,Requester,DKI Jakarta
+E01534,Putri Tri Harahap,Pekanbaru,KC,Credit Analyst,0.0,2020-08-26,Requester,Sumatera
+E01535,Dimas Tri Siregar,Jombang,KC,Relationship Manager,0.0,2024-08-01,Requester,Jawa Timur
+E01536,Yusuf Adi Syahputra,Kanaka,KCP,Relationship Manager,0.0,2024-10-11,Requester,Sulawesi
+E01537,Joko Susanto,Tangerang,KC,Relationship Manager,0.0,2012-11-03,Requester,Banten

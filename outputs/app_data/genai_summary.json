@@ -1,0 +1,12 @@
+{
+  "chunks": 34,
+  "dense_k": 8,
+  "sparse_k": 8,
+  "hit_at_4": 1.0,
+  "mrr_at_4": 0.9343434343434344,
+  "guardrail_block_rate": 1.0,
+  "guardrail_false_block": 0.0,
+  "agent_accuracy": 1.0,
+  "judge_engine": "heuristik deterministik (LLM juri tidak tersedia)",
+  "embedder": "sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2"
+}

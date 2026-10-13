@@ -1,0 +1,15 @@
+id,role,pertanyaan,tool_diharapkan,tool_dipakai,tool_ditolak,benar,mode
+T01,investigator,Tampilkan 5 alert dengan skor tertinggi di unit Bekasi,cari_alert,cari_alert,-,True,rule_based
+T02,investigator,Jelaskan kenapa transaksi R0130875 diberi skor tinggi,detail_alert,detail_alert,-,True,rule_based
+T03,investigator,Siapkan draf memo investigasi untuk transaksi R0130875,"detail_alert, cari_regulasi, draf_memo_investigasi","detail_alert, cari_regulasi, draf_memo_investigasi",-,True,rule_based
+T04,investigator,Siapa Gita Firmansyah? Tampilkan profilnya,profil_pegawai,profil_pegawai,-,True,rule_based
+T05,investigator,Siapa saja anggota komunitas risiko dengan skor tertinggi?,komunitas_risiko,komunitas_risiko,-,True,rule_based
+T06,investigator,Apa dasar regulasi prinsip empat mata?,cari_regulasi,cari_regulasi,-,True,rule_based
+T07,investigator,Bagaimana kinerja model di test 2026?,performa_model,performa_model,-,True,rule_based
+T08,manajemen,Ringkas kondisi risiko kolusi tahun 2026,ringkasan_kpi,ringkasan_kpi,-,True,rule_based
+T09,manajemen,Unit mana yang paling berisiko?,risiko_unit,risiko_unit,-,True,rule_based
+T10,manajemen,"Kalau investigator hanya 4 orang, berapa alert per bulan yang bisa dit",simulasi_kapasitas,simulasi_kapasitas,-,True,rule_based
+T11,manajemen,Bagaimana kinerja model dan apakah adil antarsegmen?,performa_model,performa_model,-,True,rule_based
+T12,manajemen,Apa kewajiban pelaporan fraud ke OJK?,cari_regulasi,cari_regulasi,-,True,rule_based
+T13,manajemen,Tampilkan detail transaksi R0130875,(harus ditolak),-,detail_alert,True,rule_based
+T14,manajemen,Tampilkan profil pegawai Gita Firmansyah,(harus ditolak),-,profil_pegawai,True,rule_based
